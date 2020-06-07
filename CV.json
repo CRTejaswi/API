@@ -1,0 +1,70 @@
+{
+    "name": "Chaitanya Tejaswi",
+    "email": "crtejaswi13@gmail.com",
+    "phone": "+919687420050",
+    "linkedin": "https://linkedin.com/in/chaitanya-tejaswi-129b67108",
+    "github": "https://github.com/CRTejaswi",
+    "wordpress": "https://crtejaswi.wordpress.com",
+
+    "summary": "An Electronics & Communication (EC) graduate with a demonstrated exposure in Embedded Systems, Image Processing, and Python-based development; I am currently looking for an opportunity in similar domains. I have worked extensively with - AVR/ARM microcontrollers, implementing source codes in ASM/C; OCR & QR Codes in addition to conventional image processing; Python3 for creating GUIs & shell utilities, web applications (using Flask/Selenium), and machine learning scripts (using SciPy stack). I'm open to all software development roles.",
+
+
+    "education": {
+        "Birla Vishvakarma Mahavidyalaya, Vallabh Vidyanagar": "Completed Bachelor of Engineering (B.E.) in Electronics & Communication with a CGPA of 8.35.",
+        "OSEM High School, Morbi": "Completed HSC from CBSE Board with an aggregate of 80.2%.",
+        "Delhi Public School, Gandhinagar": "Completed SSC from CBSE Board with a CGPA of 9.8."
+    },
+
+    "experience": {
+        "publications": {
+            "1": {
+                "heading": "A Novel Approach of Tesseract-OCR Usage for Newspaper Article Images",
+                "description": "A novel approach for optical character recognition of newspaper article images (captured as smartphone camera images) is presented, with evaluation based on two sets of images; both captured using the same camera, under varying lighting conditions."
+            }
+        },
+        "talks": {
+            "1": {
+                "heading": "Creating eBooks from Webpages using Python",
+                "description": "A talk to get you started with web scraping in Python using minimal external dependencies. We will write a script that scrapes online court judgments and creates Android/Kindle compatible ebooks from them."
+            }
+        }
+    },
+
+    "projects": {
+        "academic": {
+            "1": {
+                "heading": "Mod-100 Counter",
+                "description": "Implemented a Mod-100 Counter using IC-7490 (Decade Counter) & IC-74248 (BCD to 7-segment Decoder) that loops through 00-99."
+            },
+            "2": {
+                "heading": "Keypad & ADC/DAC Interfacing with 8085µp",
+                "description": "Interfaced 4x4 keypad & ADC/DAC (0800/0808) with Intel 8085µp using 8255 PPI."
+            },
+            "3": {
+                "heading": "Filter Implementation using MATLAB",
+                "description": "Implemented lowpass and bandpass filters in MATLAB as an application of Sampling Theorem."
+            },
+            "4": {
+                "heading": "GSM Communication with AVRµc",
+                "description": "Implemented serial communication between AVRµc (ATmega32) & GSM Module (SIM300)."
+            },
+            "5": {
+                "heading": "QR Code-based information system using QPython3 IDE on Android devices",
+                "description": "Wrote sample codes for automation using QR codes."
+            },
+            "6": {
+                "heading": "OCR-based Personal Assistant",
+                "description": "Implemented a text extractor & text reader module for newspaper article images using Tesseract OCR & OpenCV, implemented in Python."
+            },
+            "7": {
+                "heading": "Pico-Projector based Automation",
+                "description": "Implemented Classroom Automation (for teachers) using DLPDLCR2000EVM pico-projector module & Raspberry Pi 3B as server."
+            }
+        },
+        "personal": {
+
+        }
+
+    }
+
+}
