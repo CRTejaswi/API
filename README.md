@@ -6,10 +6,10 @@
 > Demo available [here](https://crtejaswi.github.io/API).
 
 
-- `CV.json`
+- `CV.json` <br>
     Your CV in a JSON file.
 
-- `logins.json`
+- `logins.json` <br>
     Your login credentials in a JSON file.
 
 

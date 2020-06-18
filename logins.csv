@@ -1,5 +1,4 @@
-Account,Link,Username,Password
-
+Site,Link,Username,Password
 Amazon,https://www.amazon.in/gp/navigation/redirector.html/ref=sign-in-redirect,username,password
 Coursera,https://www.coursera.org/?authMode=login,username,password
 edX,https://courses.edx.org/login,username,password
