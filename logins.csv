@@ -1,0 +1,14 @@
+Account,Link,Username,Password
+
+Amazon,https://www.amazon.in/gp/navigation/redirector.html/ref=sign-in-redirect,username,password
+Coursera,https://www.coursera.org/?authMode=login,username,password
+edX,https://courses.edx.org/login,username,password
+Facebook,https://www.facebook.com/login.php,username,password
+GitHub,https://github.com/login,username,password
+GMail,https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com,username,password
+GDrive,https://accounts.google.com/signin/v2/identifier?continue=http%3A%2F%2Fdrive.google.com,username,password
+LinkedIn,https://www.linkedin.com/login,username,password
+Twitter,https://twitter.com/login,username,password
+Udemy,https://www.udemy.com,username,password
+WordPress,https://wordpress.com/log-in,username,password
+YouTube,https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fwww.youtube.com,username,password

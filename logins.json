@@ -1,0 +1,74 @@
+[
+    {
+        "Account":  "Amazon",
+        "Link":  "https://www.amazon.in/gp/navigation/redirector.html/ref=sign-in-redirect",
+        "Username":  "username",
+        "Password":  "password"
+    },
+    {
+        "Account":  "Coursera",
+        "Link":  "https://www.coursera.org/?authMode=login",
+        "Username":  "username",
+        "Password":  "password"
+    },
+    {
+        "Account":  "edX",
+        "Link":  "https://courses.edx.org/login",
+        "Username":  "username",
+        "Password":  "password"
+    },
+    {
+        "Account":  "Facebook",
+        "Link":  "https://www.facebook.com/login.php",
+        "Username":  "username",
+        "Password":  "password"
+    },
+    {
+        "Account":  "GitHub",
+        "Link":  "https://github.com/login",
+        "Username":  "username",
+        "Password":  "password"
+    },
+    {
+        "Account":  "GMail",
+        "Link":  "https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com",
+        "Username":  "username",
+        "Password":  "password"
+    },
+    {
+        "Account":  "GDrive",
+        "Link":  "https://accounts.google.com/signin/v2/identifier?continue=http%3A%2F%2Fdrive.google.com",
+        "Username":  "username",
+        "Password":  "password"
+    },
+    {
+        "Account":  "LinkedIn",
+        "Link":  "https://www.linkedin.com/login",
+        "Username":  "username",
+        "Password":  "password"
+    },
+    {
+        "Account":  "Twitter",
+        "Link":  "https://twitter.com/login",
+        "Username":  "username",
+        "Password":  "password"
+    },
+    {
+        "Account":  "Udemy",
+        "Link":  "https://www.udemy.com",
+        "Username":  "username",
+        "Password":  "password"
+    },
+    {
+        "Account":  "WordPress",
+        "Link":  "https://wordpress.com/log-in",
+        "Username":  "username",
+        "Password":  "password"
+    },
+    {
+        "Account":  "YouTube",
+        "Link":  "https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fwww.youtube.com",
+        "Username":  "username",
+        "Password":  "password"
+    }
+]
