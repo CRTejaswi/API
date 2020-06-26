@@ -6,13 +6,13 @@
 > Demo available [here](https://crtejaswi.github.io/API).
 
 
-- `CV.json` <br>
+- [`CV.json`](CV.json) <br>
     Your CV in a JSON file.
 
-- `logins.json` <br>
+- [`logins.json`](logins.json) <br>
     Your login credentials in a JSON file.
 
-- `latexEquations.json` <br>
+- [`latexEquations.json`](latexEquations.json) <br>
     Latex equations for basic Science/Math formulae. (Scraped from [equplus.net](https://equplus.net)) <br>
 
 🚧
