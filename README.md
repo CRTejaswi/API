@@ -12,5 +12,7 @@
 - `logins.json` <br>
     Your login credentials in a JSON file.
 
+- `latexEquations.json` <br>
+    Latex equations for basic Science/Math formulae. (Scraped from [equplus.net](https://equplus.net)) <br>
 
 🚧

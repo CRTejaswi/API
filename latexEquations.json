@@ -1,0 +1,1654 @@
+﻿[
+    {
+        "title":  "Pythagorean Property - Sine and Cosine",
+        "equation":  "\\sin ^2 \\theta + \\cos ^2 \\theta = 1"
+    },
+    {
+        "title":  "Sine Definition for a Right Triangle",
+        "equation":  "\\sin \\theta = \\frac{{{\\rm{Opposite Side}}}}{{{\\rm{Hypotenuse}}}}"
+    },
+    {
+        "title":  "Cosine Definition for a Right Triangle",
+        "equation":  "\\cos \\theta = \\frac{{{\\rm{Adjacent Side}}}}{{{\\rm{Hypotenuse}}}}"
+    },
+    {
+        "title":  "Tangent Definition for a Right Triangle",
+        "equation":  "\\tan \\theta = \\frac{{{\\rm{Opposite Side}}}}{{{\\rm{AdjacentSide}}}}"
+    },
+    {
+        "title":  "Double Angle Identity - Sine",
+        "equation":  "\\sin 2\\theta = 2\\sin \\theta \\cos \\theta"
+    },
+    {
+        "title":  "Double Angle Identity - Cosine",
+        "equation":  "\\cos 2\\theta = \\cos ^2 \\theta - \\sin ^2 \\theta = 2\\cos ^2 \\theta - 1"
+    },
+    {
+        "title":  "Half Angle Identity - Sine",
+        "equation":  "\\sin \\frac{\\theta }{2} = \\sqrt {\\frac{{1 - \\cos \\theta }}{2}}"
+    },
+    {
+        "title":  "Half Angle Identity - Cosine",
+        "equation":  "\\cos \\frac{\\theta }{2} = \\sqrt {\\frac{{1 + \\cos \\theta }}{2}}"
+    },
+    {
+        "title":  "Sum and Difference of Angles Identity - Sine",
+        "equation":  "\\sin \\left( {\\theta _1 \\pm \\theta _2 } \\right) = \\sin \\theta _1 \\cos \\theta _2 \\pm \\cos \\theta _1 \\sin \\theta _2"
+    },
+    {
+        "title":  "Sum and Difference of Angles Identity - Cosine",
+        "equation":  "\\cos \\left( {\\theta _1 \\pm \\theta _2 } \\right) = \\cos \\theta _1 \\cos \\theta _2 \\mp \\sin \\theta _1 \\sin \\theta _2"
+    },
+    {
+        "title":  "Additive Identity Property",
+        "equation":  "{\\rm{a + 0 = a}} "
+    },
+    {
+        "title":  "Additive Inverse Property",
+        "equation":  "a + \\left( { - a} \\right) = 0 "
+    },
+    {
+        "title":  "Associative Property of Addition",
+        "equation":  "\\left( {a + b} \\right) + c = a + \\left( {b + c} \\right) "
+    },
+    {
+        "title":  "Commutative Property of Addition",
+        "equation":  "a + b = b + a "
+    },
+    {
+        "title":  "Definition of Subtraction",
+        "equation":  "a - b = a + \\left( { - b} \\right) "
+    },
+    {
+        "title":  "Multiplicative Identity",
+        "equation":  "a \\times 1 = a "
+    },
+    {
+        "title":  "Multiplicative Inverse",
+        "equation":  "a \\times \\frac{1}{a} = 1 "
+    },
+    {
+        "title":  "Zero Multiplication Property",
+        "equation":  "a \\times 0 = 0 "
+    },
+    {
+        "title":  "Associative Property of Multiplication",
+        "equation":  "\\left( {a \\times b} \\right) \\times c = a \\times \\left( {b \\times c} \\right) = a \\times b \\times c "
+    },
+    {
+        "title":  "Definition of Division",
+        "equation":  "\\frac{a}{b} = a \\times \\left( {\\frac{1}{b}} \\right) "
+    },
+    {
+        "title":  "Square of a First Order Polynomial",
+        "equation":  "\\left( {a + b} \\right)^2 = a^2 + 2ab + b^2 "
+    },
+    {
+        "title":  "Polynomial FOIL operation",
+        "equation":  "\\left( {a + b} \\right)\\left( {c + d} \\right) = ac + ad + bc + bd "
+    },
+    {
+        "title":  "Difference of Squares Factorization",
+        "equation":  "a^2 - b^2 = \\left( {a + b} \\right)\\left( {a - b} \\right) "
+    },
+    {
+        "title":  "Sum of Cubes Factorization",
+        "equation":  "a^3 + b^3 = \\left( {a + b} \\right)\\left( {a^2 - ab + b^2 } \\right) "
+    },
+    {
+        "title":  "Difference of Cubes Factorization",
+        "equation":  "a^3 - b^3 = \\left( {a - b} \\right)\\left( {a^2 + ab + b^2 } \\right) "
+    },
+    {
+        "title":  "Second Order Polynomial Factorization",
+        "equation":  "x^2 + x\\left( {a + b} \\right) + ab = \\left( {x + a} \\right)\\left( {x + b} \\right) "
+    },
+    {
+        "title":  "Quadratic Formula",
+        "equation":  "\\begin{array}{*{20}c} {x = \\frac{{ - b \\pm \\sqrt {b^2 - 4ac} }}{{2a}}} \u0026 {{\\rm{when}}} \u0026 {ax^2 + bx + c = 0} \\\\ \\end{array}"
+    },
+    {
+        "title":  "Exponent Equal to Zero Rule",
+        "equation":  "x^0 = 1 "
+    },
+    {
+        "title":  "Exponent Equal to One Rule",
+        "equation":  "x^1 = x "
+    },
+    {
+        "title":  "Addition of Exponents Rule",
+        "equation":  "x^a x^b = x^{\\left( {a + b} \\right)} "
+    },
+    {
+        "title":  "Distributive Property of Exponents",
+        "equation":  "x^a y^a = \\left( {xy} \\right)^a "
+    },
+    {
+        "title":  "Power Rule of Exponents",
+        "equation":  "\\left( {x^a } \\right)^b = x^{\\left( {ab} \\right)} "
+    },
+    {
+        "title":  "Fractional Exponent to Fractional Root Relationship",
+        "equation":  "x^{\\left( {\\frac{a}{b}} \\right)} = \\sqrt[b]{{x^a }} "
+    },
+    {
+        "title":  "Definition of Square Root",
+        "equation":  "x^{\\left( {\\frac{1}{2}} \\right)} = \\sqrt x "
+    },
+    {
+        "title":  "Negative Exponent Definition",
+        "equation":  "x^{ - a} = \\frac{1}{{x^a }} "
+    },
+    {
+        "title":  "Subtraction of Exponents Rule",
+        "equation":  "x^{\\left( {a - b} \\right)} = \\frac{{x^a }}{{x^b }} "
+    },
+    {
+        "title":  "Definition of a Logarithm",
+        "equation":  "y = \\log _b \\left( x \\right){\\rm{ iff }}x = b^y "
+    },
+    {
+        "title":  "Logarithm of One",
+        "equation":  "\\log _b \\left( 1 \\right) = 0 "
+    },
+    {
+        "title":  "Logarithmic Identity Property",
+        "equation":  "\\log _b \\left( b \\right) = 1 "
+    },
+    {
+        "title":  "Sum of Logarithms Property",
+        "equation":  "\\log _b \\left( {xy} \\right) = \\log _b \\left( x \\right) + \\log _b \\left( y \\right) "
+    },
+    {
+        "title":  "Difference of Logarithms Property",
+        "equation":  "\\log _b \\left( {\\frac{x}{y}} \\right) = \\log _b \\left( x \\right) - \\log _b \\left( y \\right) "
+    },
+    {
+        "title":  "Logarithm of an Exponential",
+        "equation":  "\\log _b \\left( {x^n } \\right) = n\\log _b \\left( x \\right) "
+    },
+    {
+        "title":  "Logarithm Base Conversion",
+        "equation":  "\\log _b \\left( x \\right) = \\log _b \\left( c \\right)\\log _c \\left( x \\right) = \\frac{{\\log _c \\left( x \\right)}}{{\\log _c \\left( b \\right)}} "
+    },
+    {
+        "title":  "SURD Multiplication",
+        "equation":  "a\\sqrt b \\times c\\sqrt d = ac\\sqrt {bd} "
+    },
+    {
+        "title":  "SURD Division",
+        "equation":  "\\frac{{a\\sqrt b }}{{c\\sqrt d }} = \\frac{a}{c}\\sqrt {\\frac{b}{d}} "
+    },
+    {
+        "title":  "SURD Addition and Subtraction",
+        "equation":  "a\\sqrt b \\pm c\\sqrt b = \\left( {a \\pm c} \\right)\\sqrt b "
+    },
+    {
+        "title":  "SURD Addition and Subtraction",
+        "equation":  "a\\sqrt b \\pm c\\sqrt b = \\left( {a \\pm c} \\right)\\sqrt b "
+    },
+    {
+        "title":  "SURD Addition and Subtraction",
+        "equation":  "a\\sqrt b \\pm c\\sqrt b = \\left( {a \\pm c} \\right)\\sqrt b "
+    },
+    {
+        "title":  "SURD Addition and Subtraction",
+        "equation":  "a\\sqrt b \\pm c\\sqrt b = \\left( {a \\pm c} \\right)\\sqrt b "
+    },
+    {
+        "title":  "SURD Addition and Subtraction",
+        "equation":  "a\\sqrt b \\pm c\\sqrt b = \\left( {a \\pm c} \\right)\\sqrt b "
+    },
+    {
+        "title":  "SURD Addition and Subtraction",
+        "equation":  "a\\sqrt b \\pm c\\sqrt b = \\left( {a \\pm c} \\right)\\sqrt b "
+    },
+    {
+        "title":  "Integral of powers not equal to -1",
+        "equation":  "\\int {x^n } dx = \\frac{{x^{n + 1} }}{{n + 1}},(n \\ne - 1)"
+    },
+    {
+        "title":  "Integration by parts",
+        "equation":  "\\int {u\\frac{{dv}}{{dx}}} dx = uv - \\int {\\frac{{du}}{{dx}}} vdx"
+    },
+    {
+        "title":  "Integral of reciprocal",
+        "equation":  "\\int {\\frac{1}{x}} dx = \\ln \\left| x \\right| + c"
+    },
+    {
+        "title":  "Integral of cosine",
+        "equation":  "\\int {\\cos (ax)} dx = \\frac{1}{a}\\sin (ax) + c"
+    },
+    {
+        "title":  "Integral of sine",
+        "equation":  "\\int {\\sin (ax)} dx = - \\frac{1}{a}\\cos (ax) + c"
+    },
+    {
+        "title":  "Integral of tangent",
+        "equation":  "\\int {\\tan (ax)} dx = - \\frac{1}{a}\\ln \\left| {\\cos (ax)} \\right| + c"
+    },
+    {
+        "title":  "Integral of cosecant",
+        "equation":  "\\int {\\csc (ax)} dx = \\frac{1}{a}\\ln \\left| {\\tan \\left( {\\frac{{ax}}{2}} \\right)} \\right| + c"
+    },
+    {
+        "title":  "Integral of secant",
+        "equation":  "\\int {\\sec (ax)} dx = \\frac{1}{a}\\ln \\left| {\\tan \\left( {\\frac{{ax}}{2} + \\frac{\\pi }{4}} \\right)} \\right| + c"
+    },
+    {
+        "title":  "Limit of Sine X over X as X Approaches Zero",
+        "equation":  "\\mathop {\\lim }\\limits_{x \\to 0} \\frac{{\\sin x}}{x} = 1"
+    },
+    {
+        "title":  "Limit of Tangent X over X as X Approaches Zero",
+        "equation":  "\\mathop {\\lim }\\limits_{x \\to 0} \\frac{{\\tan x}}{x} = 1"
+    },
+    {
+        "title":  "Area of a circle",
+        "equation":  "A = \\pi r^2"
+    },
+    {
+        "title":  "Area of an ellipse",
+        "equation":  "A = \\pi r_1 r_2"
+    },
+    {
+        "title":  "Area of an equilateral triangle",
+        "equation":  "A = \\frac{{h^2 \\sqrt 3 }}{3}"
+    },
+    {
+        "title":  "Area of a parallelogram",
+        "equation":  "A = bh"
+    },
+    {
+        "title":  "Area of a rectangle",
+        "equation":  "A = lw"
+    },
+    {
+        "title":  "Area of a regular polygon",
+        "equation":  "A = \\frac{{nsr}}{2} = \\frac{{pr}}{2}"
+    },
+    {
+        "title":  "Area of a rhombus",
+        "equation":  "A = \\frac{{x_1 x_2 }}{2}"
+    },
+    {
+        "title":  "Area of a sector",
+        "equation":  "A = \\frac{{\\theta r^2 }}{2}"
+    },
+    {
+        "title":  "Area of a square",
+        "equation":  "A = x^2"
+    },
+    {
+        "title":  "Area of a trapezoid",
+        "equation":  "A = \\frac{1}{2}(x_1 + x_2 )h"
+    },
+    {
+        "title":  "Area of a triangle",
+        "equation":  "A = \\frac{1}{2}bh"
+    },
+    {
+        "title":  "Volume of a cone",
+        "equation":  "V = \\frac{{Bh}}{3} = \\frac{{\\pi r^2 h}}{3}"
+    },
+    {
+        "title":  "Volume of a sphere",
+        "equation":  "V = \\frac{{4\\pi r^3 }}{3}"
+    },
+    {
+        "title":  "Volume of a pyramid",
+        "equation":  "V = \\frac{{Bh}}{3}"
+    },
+    {
+        "title":  "Volume of a pyramid",
+        "equation":  "V = \\frac{{Bh}}{3}"
+    },
+    {
+        "title":  "Volume of a cube",
+        "equation":  "V = x^3"
+    },
+    {
+        "title":  "Volume of a cuboid",
+        "equation":  "V = lhw"
+    },
+    {
+        "title":  "Volume of a cylinder",
+        "equation":  "V = Bh = \\pi r^2 h"
+    },
+    {
+        "title":  "Volume of a prism",
+        "equation":  "V = Bh"
+    },
+    {
+        "title":  "Ideal gas equation",
+        "equation":  "PV = nRT"
+    },
+    {
+        "title":  "kinetic energy",
+        "equation":  "E_k = \\frac{1}{2}mv^2"
+    },
+    {
+        "title":  "equation of linear motion",
+        "equation":  "x\\left( t \\right) = x_o + vt + \\frac{1}{2}at^2"
+    },
+    {
+        "title":  "Surface area of a sphere",
+        "equation":  "S = 4\\pi r^2"
+    },
+    {
+        "title":  "Surface area of a cylinder",
+        "equation":  "S = 2\\pi r^2 + 2\\pi rh"
+    },
+    {
+        "title":  "Surface area of a cuboid",
+        "equation":  "S = 2lw + 2lh + 2wh"
+    },
+    {
+        "title":  "Surface area of a cube",
+        "equation":  "S = 6x^2"
+    },
+    {
+        "title":  "Refractive index",
+        "equation":  "n = \\frac{{\\sin {\\rm{ }}i}}{{\\sin {\\rm{ }}r}} = \\frac{{{\\rm{depth}}}}{{{\\rm{apparent depth}}}}"
+    },
+    {
+        "title":  "Einstein\u0027s relativistic mass-energy relation",
+        "equation":  "E = mc^2"
+    },
+    {
+        "title":  "spring constant",
+        "equation":  "k = \\frac{F}{x}"
+    },
+    {
+        "title":  "simple harmonic motion acceleration",
+        "equation":  "a = - \\omega ^2 x = - \\omega ^2 r\\sin (\\omega t)"
+    },
+    {
+        "title":  "Adibiatic change",
+        "equation":  "PV = k"
+    },
+    {
+        "title":  "Ampere\u0027s law",
+        "equation":  "\\oint_C {Bd\\ell = \\mu _0 I_C }"
+    },
+    {
+        "title":  "Angular Momentum",
+        "equation":  "M = I\\omega"
+    },
+    {
+        "title":  "Beat frequency",
+        "equation":  "f = f_1 - f_2"
+    },
+    {
+        "title":  "Charles\u0027 Law",
+        "equation":  "\\frac{V}{t} = k"
+    },
+    {
+        "title":  "de Broglie wavelength",
+        "equation":  "\\lambda = \\frac{h}{{mv}}"
+    },
+    {
+        "title":  "Voltage equation",
+        "equation":  "V = IR"
+    },
+    {
+        "title":  "Zurich sunspot number",
+        "equation":  "R = k(f + 10g)"
+    },
+    {
+        "title":  "Yukawa Potential",
+        "equation":  "V = \\frac{{V_\\theta e^{ - kr} }}{r}"
+    },
+    {
+        "title":  "Young\u0027s modulus",
+        "equation":  "\\Upsilon = \\frac{{{F \\mathord{\\left/ {\\vphantom {F A}} \\right. \\kern-\\nulldelimiterspace} A}}}{{{{\\Delta L} \\mathord{\\left/ {\\vphantom {{\\Delta L} L}} \\right. \\kern-\\nulldelimiterspace} L}}} = \\frac{{{\\rm{Stress}}}}{{{\\rm{Strain}}}}"
+    },
+    {
+        "title":  "Newton\u0027s Second Law (Force)",
+        "equation":  "F = ma"
+    },
+    {
+        "title":  "Z-transform time domain convolution (z domain multiplication) property",
+        "equation":  "h(n) * x(n) \\Leftrightarrow H(z)X(z)"
+    },
+    {
+        "title":  "Z-transform linearity property",
+        "equation":  "a_1 x_1 (n) + a_2 x_2 (n) \\Leftrightarrow a_1 X_1 (z) + a_2 X_2 (z)"
+    },
+    {
+        "title":  "Z-transform translation (time shift) property",
+        "equation":  "x(n - m) \\Leftrightarrow z^{ - m} X(z)"
+    },
+    {
+        "title":  "Z-transform multiplication by an exponential (z domain scaling) property",
+        "equation":  "a^n x\\left( n \\right) \\Leftrightarrow X\\left( {\\frac{z}{a}} \\right)"
+    },
+    {
+        "title":  "Z-transform multiplication by a ramp (z domain differentiation) property",
+        "equation":  "nx\\left( n \\right) \\Leftrightarrow - z\\frac{{dX(z)}}{{dz}}"
+    },
+    {
+        "title":  "Z-transform multiplication by a ramp (z domain differentiation) property",
+        "equation":  "nx\\left( n \\right) \\Leftrightarrow - z\\frac{{dX(z)}}{{dz}}"
+    },
+    {
+        "title":  "Z-transform time domain multiplication (z domain convolution) property",
+        "equation":  "h(n)x(n) \\Leftrightarrow \\frac{1}{{2\\pi j}}\\oint_C {H\\left( v \\right)X\\left( {z/v} \\right)\\mathop v\\nolimits^{ - 1} dv}"
+    },
+    {
+        "title":  "Z-transform initial value theorem",
+        "equation":  "x\\left( {0^ - } \\right) = \\mathop {\\lim }\\limits_{z \\to \\infty } X\\left( z \\right)"
+    },
+    {
+        "title":  "Z-transform final value theorem. Valid only if polues of (z-1)X(z) are inside the unit circle.",
+        "equation":  "x\\left( \\infty \\right) = \\mathop {\\lim }\\limits_{z \\to 1} \\left( {z - 1} \\right)X\\left( z \\right)"
+    },
+    {
+        "title":  "Z-transform of delta",
+        "equation":  "\\delta (n) \\Leftrightarrow 1"
+    },
+    {
+        "title":  "Z-transform of shifted delta",
+        "equation":  "\\delta (n - m) \\Leftrightarrow z^{ - m} ,\\left| z \\right| \u003e 1"
+    },
+    {
+        "title":  "Z-transform of unit step function",
+        "equation":  "u(n) \\Leftrightarrow \\frac{z}{{z - 1}},\\left| z \\right| \u003e 1"
+    },
+    {
+        "title":  "Z-transform involving the unit step function",
+        "equation":  "nu(n) \\Leftrightarrow \\frac{z}{{\\left( {z - 1} \\right)^2 }},\\left| z \\right| \u003e 1"
+    },
+    {
+        "title":  "Z-transform involving the unit step function",
+        "equation":  "n^2 u(n) \\Leftrightarrow \\frac{{z\\left( {z + 1} \\right)}}{{\\left( {z - 1} \\right)^3 }},\\left| z \\right| \u003e 1"
+    },
+    {
+        "title":  "Z-transform involving the unit step function",
+        "equation":  "n^3 u(n) \\Leftrightarrow \\frac{{z\\left( {z^2 + 4z + 1} \\right)}}{{\\left( {z - 1} \\right)^4 }},\\left| z \\right| \u003e 1"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and an exponential",
+        "equation":  "a^n u(n) \\Leftrightarrow \\frac{z}{{\\left( {z - a} \\right)}},\\left| z \\right| \u003e \\left| a \\right|"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and an exponential",
+        "equation":  "na^n u(n) \\Leftrightarrow \\frac{{az}}{{\\left( {z - a} \\right)^2 }},\\left| z \\right| \u003e \\left| a \\right|"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and an exponential",
+        "equation":  "n^2 a^n u(n) \\Leftrightarrow \\frac{{az(z + a)}}{{\\left( {z - a} \\right)^3 }},\\left| z \\right| \u003e \\left| a \\right|"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and an exponential",
+        "equation":  "n^3 a^n u(n) \\Leftrightarrow \\frac{{az(z^2 + 4az + a^2 )}}{{\\left( {z - a} \\right)^4 }},\\left| z \\right| \u003e \\left| a \\right|"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and an exponential",
+        "equation":  "na^{n - 1} u(n) \\Leftrightarrow \\frac{z}{{\\left( {z - a} \\right)^2 }},\\left| z \\right| \u003e \\left| a \\right|"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and an exponential",
+        "equation":  "\\frac{1}{2}n(n - 1)a^{n - 2} u(n) \\Leftrightarrow \\frac{z}{{\\left( {z - a} \\right)^3 }},\\left| z \\right| \u003e \\left| a \\right|"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and an exponential",
+        "equation":  "\\frac{1}{6}n(n - 1)(n - 2)a^{n - 3} u(n) \\Leftrightarrow \\frac{z}{{\\left( {z - a} \\right)^4 }},\\left| z \\right| \u003e \\left| a \\right|"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and an exponential",
+        "equation":  "e^n u(n) \\Leftrightarrow \\frac{z}{{\\left( {z - e} \\right)}},\\left| z \\right| \u003e \\left| e \\right|"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and sine",
+        "equation":  "\\sin (\\omega _o n)u(n) \\Leftrightarrow \\frac{{z\\sin \\omega _o }}{{\\left( {z^2 - 2z\\cos \\omega _o + 1} \\right)}},\\left| z \\right| \u003e 1"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and cosine",
+        "equation":  "\\cos (\\omega _o n)u(n) \\Leftrightarrow \\frac{{z(z - \\cos \\omega _o )}}{{\\left( {z^2 - 2z\\cos \\omega _o + 1} \\right)}},\\left| z \\right| \u003e 1"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and cosine",
+        "equation":  "\\cos (\\omega _o n + \\theta )u(n) \\Leftrightarrow \\frac{{z[z\\cos \\theta - \\cos (\\omega _o - \\theta )]}}{{\\left( {z^2 - 2z\\cos \\omega _o + 1} \\right)}},\\left| z \\right| \u003e 1"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and sine",
+        "equation":  "\\sin (\\omega _o n + \\theta )u(n) \\Leftrightarrow \\frac{{z[z\\sin \\theta + \\sin (\\omega _o - \\theta )]}}{{\\left( {z^2 - 2z\\cos \\omega _o + 1} \\right)}},\\left| z \\right| \u003e 1"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and sine",
+        "equation":  "\\sin (\\omega _o n + \\theta )u(n) \\Leftrightarrow \\frac{{z[z\\sin \\theta + \\sin (\\omega _o - \\theta )]}}{{\\left( {z^2 - 2z\\cos \\omega _o + 1} \\right)}},\\left| z \\right| \u003e 1"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and hyperbolic sine",
+        "equation":  "\\sinh (\\omega _o n)u(n) \\Leftrightarrow \\frac{{z\\sinh \\omega _o }}{{\\left( {z^2 - 2z\\cosh \\omega _o + 1} \\right)}},\\left| z \\right| \u003e e^{\\omega _o }"
+    },
+    {
+        "title":  "Z-transform involving the unit step function and hyperbolic cosine",
+        "equation":  "\\cosh (\\omega _o n)u(n) \\Leftrightarrow \\frac{{z(z - \\cosh \\omega _o )}}{{\\left( {z^2 - 2z\\cosh \\omega _o + 1} \\right)}},\\left| z \\right| \u003e e^{\\omega _o }"
+    },
+    {
+        "title":  "Laplace transform of Kroeneker delta function",
+        "equation":  "\\delta (t) \\Leftrightarrow 1"
+    },
+    {
+        "title":  "Laplace transform of unit step function times a constant (K)",
+        "equation":  "Ku(t) \\Leftrightarrow \\frac{K}{s}"
+    },
+    {
+        "title":  "Laplace transform involving the unit step function",
+        "equation":  "tu(t) \\Leftrightarrow \\frac{1}{{s^2 }}"
+    },
+    {
+        "title":  "Laplace transform involving the unit step function",
+        "equation":  "t^n u(t) \\Leftrightarrow \\frac{{n!}}{{s^{n + 1} }}"
+    },
+    {
+        "title":  "Laplace transform involving the unit step function and an exponential",
+        "equation":  "Ke^{ - at} u(t) \\Leftrightarrow \\frac{K}{{s + a}}"
+    },
+    {
+        "title":  "Laplace transform involving the unit step function and an exponential",
+        "equation":  "t^n e^{ - at} u(t) \\Leftrightarrow \\frac{{n!}}{{(s + a)^{n + 1} }}"
+    },
+    {
+        "title":  "Laplace transform involving the unit step function and sine",
+        "equation":  "\\sin (\\Omega t)u(t) \\Leftrightarrow \\frac{\\Omega }{{(s^2 + \\Omega ^2 )}}"
+    },
+    {
+        "title":  "Laplace transform involving the unit step function and cosine",
+        "equation":  "\\cos (\\Omega t)u(t) \\Leftrightarrow \\frac{s}{{(s^2 + \\Omega ^2 )}}"
+    },
+    {
+        "title":  "Laplace transform involving the unit step function, cosine, and an exponential",
+        "equation":  "e^{ - at} \\cos (\\Omega t)u(t) \\Leftrightarrow \\frac{{s + a}}{{(s + a)^2 + \\Omega ^2 }}"
+    },
+    {
+        "title":  "Laplace transform involving the unit step function, sine, and an exponential",
+        "equation":  "e^{ - at} \\sin (\\Omega t)u(t) \\Leftrightarrow \\frac{\\Omega }{{(s + a)^2 + \\Omega ^2 }}"
+    },
+    {
+        "title":  "Laplace transform linearity property",
+        "equation":  "a_1 x_1 (t) + a_2 x_2 (t) \\Leftrightarrow a_1 X_1 (s) + a_2 X_2 (s)"
+    },
+    {
+        "title":  "Laplace transform Nth time domain derivative property",
+        "equation":  "\\frac{{d^n x(t)}}{{dt^n }} \\Leftrightarrow s^n X(s)"
+    },
+    {
+        "title":  "Laplace transform integral property",
+        "equation":  "\\int\\limits_0^t {x(\\tau )d} \\tau \\Leftrightarrow \\frac{1}{s}X(s)"
+    },
+    {
+        "title":  "Laplace transform time domain shifting property",
+        "equation":  "x(t - a)u(t - a) \\Leftrightarrow e^{ - as} X(s + a)"
+    },
+    {
+        "title":  "Laplace transform time domain scaling property",
+        "equation":  "x(at)u(t) \\Leftrightarrow \\frac{1}{a}X\\left( {\\frac{s}{a}} \\right)"
+    },
+    {
+        "title":  "Laplace transform time varying coefficient (s domain differentiation) property",
+        "equation":  "tx(t)u(t) \\Leftrightarrow \\frac{{ - dX(s)}}{{ds}}"
+    },
+    {
+        "title":  "Laplace transform time domain linear convolution (s domain multiplication) property",
+        "equation":  "\\int\\limits_0^\\infty {x_1 (\\tau )x_2 (t - \\tau )d\\tau } \\Leftrightarrow X_1 (s)X_2 (s)"
+    },
+    {
+        "title":  "Laplace transform final value theorem (valid if poles of sX(s) are in left half of s plane).",
+        "equation":  "x(\\infty ) = \\mathop {\\lim }\\limits_{s \\to 0} sX(s)"
+    },
+    {
+        "title":  "Laplace transform initial value theorem",
+        "equation":  "x(0^ + ) = \\mathop {\\lim }\\limits_{s \\to \\infty } sX(s)"
+    },
+    {
+        "title":  "Laplace transform definition",
+        "equation":  "X(s) = \\int\\limits_0^\\infty {x(t)e^{ - st} dt}"
+    },
+    {
+        "title":  "Z transform definition",
+        "equation":  "X(z) \\buildrel \\Delta \\over = \\sum\\limits_{n = - \\infty }^\\infty {x(n)z^{ - n} }"
+    },
+    {
+        "title":  "Discrete-Time Fourier linearity theorem",
+        "equation":  "ax(n) + by(n) \\Leftrightarrow aX(e^{j\\omega } ) + bY(e^{j\\omega } )"
+    },
+    {
+        "title":  "Discrete-Time Fourier time shift property",
+        "equation":  "x(n - n_o ) \\Leftrightarrow e^{ - j\\omega n_o } X(e^{j\\omega } )"
+    },
+    {
+        "title":  "Discrete-Time Fourier frequency shift property",
+        "equation":  "e^{ + j\\omega _o n} x(n) \\Leftrightarrow X(e^{j(\\omega - \\omega _o )} )"
+    },
+    {
+        "title":  "Discrete-Time Fourier time reversal property",
+        "equation":  "x( - n) \\Leftrightarrow X(e^{ - j\\omega } )"
+    },
+    {
+        "title":  "Discrete-Time Fourier time reversal property; x(n) real",
+        "equation":  "x( - n) \\Leftrightarrow X^* (e^{j\\omega } )"
+    },
+    {
+        "title":  "Discrete-Time Fourier frequency differentiation property",
+        "equation":  "nx(n) \\Leftrightarrow j\\frac{{dX(e^{j\\omega } )}}{{d\\omega }}"
+    },
+    {
+        "title":  "Discrete-Time Fourier time/space convolution property",
+        "equation":  "x(n) * y(n) \\Leftrightarrow X(e^{j\\omega } )Y(e^{j\\omega } )"
+    },
+    {
+        "title":  "Discrete-Time Fourier windowing, modulation, frequency convolution property",
+        "equation":  "x(n)y(n) \\Leftrightarrow \\frac{1}{{2\\pi }}\\int\\limits_{ - \\pi }^\\pi {X(e^{j\\theta } )Y(e^{j(\\omega - \\theta )} )d\\theta }"
+    },
+    {
+        "title":  "Discrete-Time Fourier transform - Parseval\u0027s Theorem",
+        "equation":  "\\sum\\limits_{n = - \\infty }^\\infty {\\left| {x(n)} \\right|^2 } = \\frac{1}{{2\\pi }}\\int\\limits_{ - \\pi }^\\pi {\\left| {X(e^{j\\omega } )} \\right|^2 d\\omega }"
+    },
+    {
+        "title":  "Discrete-Time Fourier transform - Parseval\u0027s Theorem",
+        "equation":  "\\sum\\limits_{n = - \\infty }^\\infty {x(n)y^* (n)} = \\frac{1}{{2\\pi }}\\int\\limits_{ - \\pi }^\\pi {X(e^{j\\omega } )Y^* (e^{j\\omega } )d\\omega }"
+    },
+    {
+        "title":  "Discrete-Time Fourier transform of delta",
+        "equation":  "a\\delta (n) \\Leftrightarrow a"
+    },
+    {
+        "title":  "Discrete-Time Fourier transform of shifted delta",
+        "equation":  "\\delta (n - n_o ) \\Leftrightarrow e^{ - j\\omega n_o }"
+    },
+    {
+        "title":  "Discrete-Time Fourier transform of a constant",
+        "equation":  "a \\Leftrightarrow 2\\pi a\\sum\\limits_{k = - \\infty }^\\infty {\\delta (\\omega + 2\\pi k)} ,( - \\infty \u003c n \u003c \\infty )"
+    },
+    {
+        "title":  "Discrete-Time Fourier transform of unit step function",
+        "equation":  "u(n) \\Leftrightarrow \\frac{1}{{(1 - e^{ - j\\omega } )}} + \\sum\\limits_{k = - \\infty }^\\infty {\\pi \\delta (\\omega + 2\\pi k)}"
+    },
+    {
+        "title":  "Discrete-Time Fourier transform of unit step function and exponential",
+        "equation":  "a^n u(n) \\Leftrightarrow \\frac{1}{{(1 - ae^{ - j\\omega } )}},\\left| a \\right| \u003c 1"
+    },
+    {
+        "title":  "Discrete-Time Fourier transform of unit step function and exponential",
+        "equation":  "(n + 1)a^n u(n) \\Leftrightarrow \\frac{1}{{(1 - ae^{ - j\\omega } )^2 }},\\left| a \\right| \u003c 1"
+    },
+    {
+        "title":  "Discrete-Time Fourier transform of complex exponential",
+        "equation":  "e^{j\\omega _o n} \\Leftrightarrow 2\\pi \\sum\\limits_{k = - \\infty }^\\infty {\\delta (\\omega - \\omega _o + 2\\pi k)}"
+    },
+    {
+        "title":  "Discrete-Time Fourier transform of complex exponential",
+        "equation":  "e^{j\\omega _o n} \\Leftrightarrow 2\\pi \\sum\\limits_{k = - \\infty }^\\infty {\\delta (\\omega - \\omega _o + 2\\pi k)}"
+    },
+    {
+        "title":  "Discrete-Time Fourier transform of complex exponential",
+        "equation":  "e^{j\\omega _o n} \\Leftrightarrow 2\\pi \\sum\\limits_{k = - \\infty }^\\infty {\\delta (\\omega - \\omega _o + 2\\pi k)}"
+    },
+    {
+        "title":  "Discrete-Time Fourier transform of a sinc sequence",
+        "equation":  "\\frac{{\\sin (\\omega _c n)}}{n} \\Leftrightarrow X(e^{j\\omega } ) = \\left\\{ {\\begin{array}{*{20}c} {1,\\left| \\omega \\right| \\le \\omega _c } \\\\ {0,\\omega _c \u003c \\left| \\omega \\right| \\le \\omega _c } \\\\ \\end{array}} \\right."
+    },
+    {
+        "title":  "Discrete-Time Fourier transform of a boxcar sequence",
+        "equation":  "x(n) = \\left\\{ {\\begin{array}{*{20}c} {1,0 \\le n \\le N - 1} \\\\ {0,{\\rm{otherwise}}} \\\\ \\end{array} \\Leftrightarrow } \\right.\\frac{{\\sin (\\omega N/2)}}{{\\sin (\\omega /2)}}e^{ - j\\omega (N - 1)/2}"
+    },
+    {
+        "title":  "Discrete-Time Fourier transform definition",
+        "equation":  "X(e^{j\\omega } ) = x(n)e^{ - j\\omega n} ,\\omega {\\rm{in radians}}"
+    },
+    {
+        "title":  "Black Hole Entropy as derived by Stephen Hawking",
+        "equation":  "S = \\frac{{Akc^3 }}{{4\\hbar G}}"
+    },
+    {
+        "title":  "Time-independent, one-dimensional Schr",
+        "equation":  "- \\frac{{\\hbar ^2 }}{{2m}}\\frac{{d^2 \\psi (x)}}{{dx^2 }} + U(x)\\psi (x) = E\\psi (x)"
+    },
+    {
+        "title":  "Time-dependent, one-dimensional Schr",
+        "equation":  "- \\frac{{\\hbar ^2 }}{{2m}}\\frac{{\\partial ^2 \\psi (x,t)}}{{\\partial x^2 }} + U(x)\\psi (x,t) = i\\hbar \\frac{{\\partial \\psi (x,t)}}{{\\partial t}}"
+    },
+    {
+        "title":  "Ohm\u0027s Law",
+        "equation":  "V = IR = I\\left( {\\frac{L}{{\\sigma A}}} \\right) = I\\left( {\\frac{{\\rho L}}{A}} \\right)"
+    },
+    {
+        "title":  "Bohr Radius",
+        "equation":  "a_0 = \\frac{{\\hbar ^2 }}{{m_e ke^2 }}"
+    },
+    {
+        "title":  "Radii of stable orbits in the Bohr model",
+        "equation":  "r = n^2 \\frac{{\\hbar ^2 }}{{m_e kZe^2 }} = n^2 \\frac{{a_0 }}{Z}"
+    },
+    {
+        "title":  "Phase difference between the first and last waves for a single-slit diffraction pattern",
+        "equation":  "\\phi = \\frac{{2\\pi }}{\\lambda }a\\sin \\theta"
+    },
+    {
+        "title":  "single-slit diffraction pattern points of zero intensity",
+        "equation":  "a\\sin \\theta = m\\lambda"
+    },
+    {
+        "title":  "Definition of intensity",
+        "equation":  "I = \\frac{{P_{av} }}{A}"
+    },
+    {
+        "title":  "Superposition of standing waves on a string with both ends fixed",
+        "equation":  "y(x,t) = \\sum\\limits_n {A_n \\cos (\\omega _n t + \\delta _n )\\sin (k_n x)}"
+    },
+    {
+        "title":  "Standing-wave function",
+        "equation":  "y(x,t) = A_n \\cos (\\omega _n t + \\delta _n )\\sin (k_n x)"
+    },
+    {
+        "title":  "Energy transmitted by a harmonic wave",
+        "equation":  "\\Delta E = \\frac{1}{2}\\mu \\omega ^2 A^2 \\Delta x = \\frac{1}{2}\\mu \\omega ^2 A^2 \\upsilon \\Delta t"
+    },
+    {
+        "title":  "Power transmitted by a harmonic wave",
+        "equation":  "P = \\frac{{dE}}{{dt}} = \\frac{1}{2}\\mu \\omega ^2 A^2 \\upsilon"
+    },
+    {
+        "title":  "Harmonic wave function",
+        "equation":  "y(x,t) = A\\sin \\left[ {2\\pi \\left( {\\frac{x}{\\lambda } - \\frac{t}{T}} \\right)} \\right]"
+    },
+    {
+        "title":  "Harmonic wave function",
+        "equation":  "y(x,t) = A\\sin \\left[ {k(x - \\upsilon t)} \\right]"
+    },
+    {
+        "title":  "Velocity at resonance frequency of a driven oscillator",
+        "equation":  "\\upsilon = + A\\omega \\cos \\left( {\\omega t} \\right) = - A\\omega \\sin \\left( {\\omega t - \\frac{\\pi }{2}} \\right)"
+    },
+    {
+        "title":  "Amplitude of a driven oscillation",
+        "equation":  "A = \\frac{{F_0 }}{{\\sqrt {m^2 \\left( {\\omega _0^2 - \\omega ^2 } \\right)^2 + b^2 \\omega ^2 } }}"
+    },
+    {
+        "title":  "Displacement of a driven oscillator",
+        "equation":  "x = A\\cos \\left( {\\omega t + \\delta } \\right)"
+    },
+    {
+        "title":  "Displacement of a slightly damped oscillator",
+        "equation":  "x = A_0 \\exp \\left( { - \\frac{b}{{2m}}t} \\right)\\cos \\left( {\\omega \u0027t + \\delta } \\right)"
+    },
+    {
+        "title":  "Kinetic energy of simple harmonic motion",
+        "equation":  "K = \\frac{1}{2}kA^2 \\sin ^2 \\left( {\\omega t + \\delta } \\right)"
+    },
+    {
+        "title":  "Potential energy of simple harmonic motion",
+        "equation":  "U = \\frac{1}{2}kA^2 \\cos ^2 \\left( {\\omega t + \\delta } \\right)"
+    },
+    {
+        "title":  "Total energy of simple harmonic motion",
+        "equation":  "E_{Total} = \\frac{1}{2}kA^2"
+    },
+    {
+        "title":  "Viscous flow",
+        "equation":  "F = \\eta \\frac{{\\upsilon A}}{z}"
+    },
+    {
+        "title":  "Continuity equation",
+        "equation":  "I_V = \\upsilon A = {\\rm{constant}}"
+    },
+    {
+        "title":  "Hydraulic lift",
+        "equation":  "F_2 = \\frac{{F_1 }}{{A_1 }}A_2 = \\frac{{A_2 }}{{A_1 }}F_1"
+    },
+    {
+        "title":  "Shear modulus defined",
+        "equation":  "M_S = \\frac{{{{F_S } \\mathord{\\left/ {\\vphantom {{F_S } A}} \\right. \\kern-\\nulldelimiterspace} A}}}{{{{\\Delta x} \\mathord{\\left/ {\\vphantom {{\\Delta x} L}} \\right. \\kern-\\nulldelimiterspace} L}}} = \\frac{{{{F_S } \\mathord{\\left/ {\\vphantom {{F_S } A}} \\right. \\kern-\\nulldelimiterspace} A}}}{{{\\rm{tan}}\\theta }} = \\frac{{{\\rm{Shear Stress}}}}{{{\\rm{Shear Strain}}}}"
+    },
+    {
+        "title":  "Shear stress",
+        "equation":  "{\\rm{Shear Stress = }}\\frac{{{\\rm{F}}_{\\rm{S}} }}{{\\rm{A}}}"
+    },
+    {
+        "title":  "Stress",
+        "equation":  "{\\rm{Stress}} = \\frac{F}{A}"
+    },
+    {
+        "title":  "Centripetal acceleration",
+        "equation":  "a = \\frac{{\\upsilon ^2 }}{r}"
+    },
+    {
+        "title":  "Instantaneous Acceleration",
+        "equation":  "a = \\frac{{d\\upsilon }}{{dt}} = \\frac{{d^2 x}}{{dt^2 }}"
+    },
+    {
+        "title":  "Velocity",
+        "equation":  "\\upsilon ^2 = \\upsilon _0 ^2 + 2a\\Delta x"
+    },
+    {
+        "title":  "Displacement",
+        "equation":  "\\Delta x = x - x_0 = \\upsilon _0 t + \\frac{1}{2}at^2"
+    },
+    {
+        "title":  "Velocity",
+        "equation":  "\\upsilon = \\upsilon _0 + at"
+    },
+    {
+        "title":  "Average acceleration",
+        "equation":  "a_{av} = \\frac{{\\Delta \\upsilon }}{{\\Delta t}}"
+    },
+    {
+        "title":  "Maxwell\u0027s equation - Faraday\u0027s law",
+        "equation":  "\\oint_C {E \\cdot d\\ell = - \\frac{d}{{dt}}} \\int_S {B_n dA}"
+    },
+    {
+        "title":  "Maxwell\u0027s equation - Gauss\u0027s law",
+        "equation":  "\\oint_S {E_n dA = \\frac{1}{{\\varepsilon _0 }}} Q_{inside}"
+    },
+    {
+        "title":  "Self inductance of a solenoid",
+        "equation":  "L = \\frac{{\\phi _m }}{I} = \\mu _0 n^2 A\\ell"
+    },
+    {
+        "title":  "Magnetic flux defined",
+        "equation":  "\\phi _m = \\int_S {N{\\bf{B}} \\cdot {\\bf{\\hat n}}dA = } \\int_S {NB_n dA}"
+    },
+    {
+        "title":  "EMF (Electromotive Force) defined",
+        "equation":  "\\xi = \\oint_C {E \\cdot d\\ell }"
+    },
+    {
+        "title":  "Resistance",
+        "equation":  "R = \\frac{L}{{\\sigma A}} = \\frac{{\\rho L}}{A}"
+    },
+    {
+        "title":  "Electric current",
+        "equation":  "I = \\frac{{\\Delta Q}}{{\\Delta t}} = nqA\\upsilon _d"
+    },
+    {
+        "title":  "Number density of charge carriers",
+        "equation":  "n = \\frac{I}{{Aq\\upsilon _d }} = \\frac{I}{{wte\\upsilon _d }}"
+    },
+    {
+        "title":  "Current in a conducting strip",
+        "equation":  "I = nAq\\upsilon _d"
+    },
+    {
+        "title":  "Magnetic dipole moment of a current loop",
+        "equation":  "m = NIA\\hat n"
+    },
+    {
+        "title":  "Capacitance of a cylindrical capacitor",
+        "equation":  "C = \\frac{Q}{V} = \\frac{{2\\pi \\varepsilon _0 L}}{{\\ln \\left( {{b \\mathord{\\left/ {\\vphantom {b a}} \\right. \\kern-\\nulldelimiterspace} a}} \\right)}}"
+    },
+    {
+        "title":  "Capacitance of a parallel-plate capacitor",
+        "equation":  "C = \\frac{Q}{V} = \\frac{{\\varepsilon _0 A}}{s}"
+    },
+    {
+        "title":  "Potential due to a line charge",
+        "equation":  "V = - 2k\\lambda \\ln \\frac{r}{a}"
+    },
+    {
+        "title":  "Change in potential",
+        "equation":  "\\Delta V = V_b - V_a = \\frac{{\\Delta U}}{{q_0 }} = - \\int_a^b {E \\cdot d\\ell }"
+    },
+    {
+        "title":  "Change in electrostatic potential energy for a point charge",
+        "equation":  "\\Delta U = U_b - U_a = \\int_a^b {dU} = - \\int_a^b {q_0 E \\cdot d\\ell }"
+    },
+    {
+        "title":  "Gauss\u0027s law",
+        "equation":  "\\phi _{net} = \\int_S {E_n dA = } \\frac{1}{{\\varepsilon _0 }}Q_{inside} = 4\\pi kQ_{inside}"
+    },
+    {
+        "title":  "Electric flux defined",
+        "equation":  "\\phi = \\int_S {{\\bf{E}} \\cdot {\\bf{\\hat n}}dA}"
+    },
+    {
+        "title":  "Electric field on the axis of a ring charge",
+        "equation":  "E_x = \\frac{{kQx}}{{\\left( {x^2 + a^2 } \\right)^{{3 \\mathord{\\left/ {\\vphantom {3 2}} \\right. \\kern-\\nulldelimiterspace} 2}} }}"
+    },
+    {
+        "title":  "Acceleration of a particle in an electric field",
+        "equation":  "a = \\frac{q}{m}E"
+    },
+    {
+        "title":  "Net power radiated by an object",
+        "equation":  "P_{net} = e\\sigma A\\left( {T^4 - T_0^4 } \\right)"
+    },
+    {
+        "title":  "Radiation absorbed by an object",
+        "equation":  "P_a = e\\sigma AT_0^4"
+    },
+    {
+        "title":  "Stefan-Boltzmann law",
+        "equation":  "P = e\\sigma AT^4"
+    },
+    {
+        "title":  "Thermal resistance",
+        "equation":  "R = \\frac{{\\Delta x}}{{kA}}"
+    },
+    {
+        "title":  "Thermal conduction",
+        "equation":  "I = \\frac{{\\Delta Q}}{{\\Delta t}} = kA\\frac{{\\Delta T}}{{\\Delta x}}"
+    },
+    {
+        "title":  "Van der Waals equation",
+        "equation":  "\\left( {P + \\frac{{an^2 }}{{V^2 }}} \\right)\\left( {V - bn} \\right) = nRT"
+    },
+    {
+        "title":  "Speed of sound waves in a fluid",
+        "equation":  "\\upsilon = \\sqrt {\\frac{B}{\\rho }}"
+    },
+    {
+        "title":  "Phase constant of a driven oscillation",
+        "equation":  "\\tan \\delta = \\frac{{b\\omega }}{{m\\left( {\\omega _0^2 - \\omega ^2 } \\right)}}"
+    },
+    {
+        "title":  "Angular frequency for a damped oscillation",
+        "equation":  "\\omega \u0027 = \\omega _0 \\sqrt {1 - \\left( {\\frac{b}{{2m\\omega _0 }}} \\right)^2 } = \\omega _0 \\sqrt {1 - \\frac{1}{{4Q^2 }}}"
+    },
+    {
+        "title":  "Energy change in a damped oscillation",
+        "equation":  "\\frac{{\\Delta E}}{E} = - \\frac{b}{m}T"
+    },
+    {
+        "title":  "Energy change in a damped oscillation",
+        "equation":  "E = E_0 \\exp \\left( { - \\frac{b}{m}t} \\right) = E_0 \\exp \\left( { - \\frac{t}{\\tau }} \\right)"
+    },
+    {
+        "title":  "Compressibility",
+        "equation":  "k = \\frac{1}{B} = - \\frac{{{{\\Delta V} \\mathord{\\left/ {\\vphantom {{\\Delta V} V}} \\right. \\kern-\\nulldelimiterspace} V}}}{P}"
+    },
+    {
+        "title":  "Bulk modulus defined",
+        "equation":  "B = - \\frac{P}{{{{\\Delta V} \\mathord{\\left/ {\\vphantom {{\\Delta V} V}} \\right. \\kern-\\nulldelimiterspace} V}}}"
+    },
+    {
+        "title":  "Poynting vector",
+        "equation":  "S = \\frac{{E \\times B}}{{\\mu _0 }}"
+    },
+    {
+        "title":  "Electric field and magnetic field relationship for an electromagnetic wave",
+        "equation":  "E = cB"
+    },
+    {
+        "title":  "Wave equation for magnetic field",
+        "equation":  "\\frac{{\\partial ^2 B}}{{\\partial x^2 }} = \\frac{1}{{c^2 }}\\frac{{\\partial ^2 B}}{{\\partial t^2 }}"
+    },
+    {
+        "title":  "Magnetic field inside a solenoid",
+        "equation":  "B = \\mu _0 nI"
+    },
+    {
+        "title":  "Biot-Savart law",
+        "equation":  "d{\\bf{B}} = \\frac{{\\mu _0 }}{{4\\pi }}\\frac{{Id\\ell \\times {\\bf{\\hat r}}}}{{r^2 }}"
+    },
+    {
+        "title":  "Torque on a current loop",
+        "equation":  "\\tau = m \\times B"
+    },
+    {
+        "title":  "Magnetic force on a moving charge",
+        "equation":  "F = q{\\bf{v}} \\times {\\bf{B}}"
+    },
+    {
+        "title":  "Rydberg constant",
+        "equation":  "R = \\frac{{m_e k^2 e^4 }}{{4\\pi c\\hbar ^3 }}"
+    },
+    {
+        "title":  "Schwarzschild Black Hole Radius",
+        "equation":  "R = \\frac{{2GM}}{{c^2 }}"
+    },
+    {
+        "title":  "Black Hole Temperature",
+        "equation":  "T = \\frac{{\\hbar c^3 }}{{8\\pi kGM}}"
+    },
+    {
+        "title":  "Binomial Coefficient",
+        "equation":  "\\left( {\\begin{array}{*{20}c} n \\\\ k \\\\ \\end{array}} \\right) = \\frac{{n!}}{{k!\\left( {n - k} \\right)!}}"
+    },
+    {
+        "title":  "Binomial Equation",
+        "equation":  "y = \\frac{{n!}}{{k!\\left( {n - k} \\right)!}}p^k q^{n - k} = \\left( {\\begin{array}{*{20}c} n \\\\ k \\\\ \\end{array}} \\right)p^k q^{n - k}"
+    },
+    {
+        "title":  "Mean of Binomial Distribution",
+        "equation":  "M_b = np"
+    },
+    {
+        "title":  "Variance of Binomial Distribution",
+        "equation":  "\\sigma ^2 _b = npq"
+    },
+    {
+        "title":  "Standard Normal Distribution",
+        "equation":  "y = \\frac{1}{{\\sqrt {2\\pi } }}e^{ - \\frac{{z^2 }}{2}} = .3989e^{ - 5z^2 }"
+    },
+    {
+        "title":  "Euler\u0027s Constant",
+        "equation":  "e = \\mathop {\\lim }\\limits_{n \\to \\infty } \\left( {1 + \\frac{1}{n}} \\right)^n"
+    },
+    {
+        "title":  "Gaussian Normal Distribution",
+        "equation":  "P(x) = \\frac{1}{{\\sigma \\sqrt {2\\pi } }}e^{{{ - \\left( {x - \\mu } \\right)^2 } \\mathord{\\left/ {\\vphantom {{ - \\left( {x - \\mu } \\right)^2 } {2\\sigma ^2 }}} \\right. \\kern-\\nulldelimiterspace} {2\\sigma ^2 }}}"
+    },
+    {
+        "title":  "nth moment about point a",
+        "equation":  "\\mu _n \\left( a \\right) = \\sum {\\left( {x - a} \\right)^n P\\left( x \\right)}"
+    },
+    {
+        "title":  "Mean about zero",
+        "equation":  "\\mu = \\mu _1 = \\sum {xP\\left( x \\right)}"
+    },
+    {
+        "title":  "Variance or second moment about the Mean",
+        "equation":  "\\sigma ^2 = \\mu _2 = \\sum {\\left( {x - \\mu _1 } \\right)^2 P\\left( x \\right)}"
+    },
+    {
+        "title":  "Fisher Skewness",
+        "equation":  "\\gamma _1 = \\frac{{\\mu _3 }}{{\\mu _2 ^{{3 \\mathord{\\left/ {\\vphantom {3 2}} \\right. \\kern-\\nulldelimiterspace} 2}} }} = \\frac{{\\mu _3 }}{{\\sigma ^3 }}"
+    },
+    {
+        "title":  "Standard Deviation",
+        "equation":  "\\sigma = \\sqrt {\\mu _2 }"
+    },
+    {
+        "title":  "Sample Variance (Biased)",
+        "equation":  "s_N = \\sqrt {\\frac{1}{N}\\sum\\limits_{i = 1}^N {\\left( {x_i - \\bar x} \\right)^2 } }"
+    },
+    {
+        "title":  "Unbiased Estimator of Populatoin Sample Variance",
+        "equation":  "s_{N - 1} = \\sqrt {\\frac{1}{{N - 1}}\\sum\\limits_{i = 1}^N {\\left( {x_i - \\bar x} \\right)^2 } }"
+    },
+    {
+        "title":  "Standard Error",
+        "equation":  "{\\mathop{\\rm var}} \\left( {\\bar x} \\right) = \\frac{{\\sigma ^2 }}{n}"
+    },
+    {
+        "title":  "Poisson Distribution",
+        "equation":  "P\\left( x \\right) = \\frac{{e^{ - \\lambda } \\lambda ^x }}{{x!}}"
+    },
+    {
+        "title":  "Gamma Distribution",
+        "equation":  "\\Gamma \\left( a \\right) = \\int\\limits_0^\\infty {s^{a - 1} } e^{ - s} ds"
+    },
+    {
+        "title":  "Pythagorean Property - Tangent and Secant",
+        "equation":  "1 + \\tan ^2 \\theta = \\sec ^2 \\theta"
+    },
+    {
+        "title":  "Pythagorean Property - Cotangent and Cosecant",
+        "equation":  "\\cot ^2 \\theta + 1 = \\csc ^2 \\theta"
+    },
+    {
+        "title":  "Reciprocal Property - Tangent and Cotangent",
+        "equation":  "\\cot \\theta = \\frac{1}{{\\tan \\theta }}"
+    },
+    {
+        "title":  "Reciprocal Property - Sine and Cosecant",
+        "equation":  "\\csc \\theta = \\frac{1}{{\\sin \\theta }}"
+    },
+    {
+        "title":  "Reciprocal Property - Cosine and Secant",
+        "equation":  "\\sec \\theta = \\frac{1}{{\\cos \\theta }}"
+    },
+    {
+        "title":  "Quotient Property - Tangent, Sine, and Cosine",
+        "equation":  "\\tan \\theta = \\frac{{\\sin \\theta }}{{\\cos \\theta }}"
+    },
+    {
+        "title":  "Quotient Property - Tangent, Secant, and Cosecant",
+        "equation":  "\\tan \\theta = \\frac{{\\sec \\theta }}{{\\csc \\theta }}"
+    },
+    {
+        "title":  "Quotient Property - Cotangent, Cosecant, and Secant",
+        "equation":  "\\cot \\theta = \\frac{{\\csc \\theta }}{{\\sec \\theta }}"
+    },
+    {
+        "title":  "Quotient Property - Cotangent, Cosine, and Sine",
+        "equation":  "\\cot \\theta = \\frac{{\\cos \\theta }}{{\\sin \\theta }}"
+    },
+    {
+        "title":  "Odd Symmetry Property - Sine",
+        "equation":  "\\sin \\left( { - \\theta } \\right) = - \\sin \\left( \\theta \\right)"
+    },
+    {
+        "title":  "Odd Symmetry Property - Tangent",
+        "equation":  "\\tan \\left( { - \\theta } \\right) = - \\tan \\left( \\theta \\right)"
+    },
+    {
+        "title":  "Odd Symmetry Property - Cosecant",
+        "equation":  "\\csc \\left( { - \\theta } \\right) = - \\csc \\left( \\theta \\right)"
+    },
+    {
+        "title":  "Even Symmetry Property - Cosine",
+        "equation":  "\\cos \\left( { - \\theta } \\right) = \\cos \\left( \\theta \\right)"
+    },
+    {
+        "title":  "Even Symmetry Property - Cotangent",
+        "equation":  "\\cot \\left( { - \\theta } \\right) = \\cot \\left( \\theta \\right)"
+    },
+    {
+        "title":  "Even Symmetry Property - Secant",
+        "equation":  "\\sec \\left( { - \\theta } \\right) = \\sec \\left( \\theta \\right)"
+    },
+    {
+        "title":  "Area of Arbitrary Triangle",
+        "equation":  "A = \\frac{1}{2}ab\\sin C"
+    },
+    {
+        "title":  "Law of Sines",
+        "equation":  "\\frac{{\\sin A}}{a} = \\frac{{\\sin B}}{b} = \\frac{{\\sin C}}{c}"
+    },
+    {
+        "title":  "Law of Cosines",
+        "equation":  "a^2 = b^2 + c^2 - 2bc\\cos A"
+    },
+    {
+        "title":  "Sum and Difference of Angles Identity - Tangent",
+        "equation":  "\\tan \\left( {\\theta _1 \\pm \\theta _2 } \\right) = \\frac{{\\tan \\theta _1 \\pm \\tan \\theta _2 }}{{1 \\mp \\tan \\theta _1 \\tan \\theta _2 }}"
+    },
+    {
+        "title":  "Cotangent Definition for a Right Triangle",
+        "equation":  "\\cot \\theta = \\frac{{{\\rm{Adjacent Side}}}}{{{\\rm{Opposite Side}}}}"
+    },
+    {
+        "title":  "Cosecant Definition for a Right Triangle",
+        "equation":  "\\csc \\theta = \\frac{{{\\rm{Hypotenuse}}}}{{{\\rm{Opposite Side}}}}"
+    },
+    {
+        "title":  "Secant Definition for a Right Triangle",
+        "equation":  "\\sec \\theta = \\frac{{{\\rm{Hypotenuse}}}}{{{\\rm{Adjacent Side}}}}"
+    },
+    {
+        "title":  "Distributive Property",
+        "equation":  "a\\left( {b + c} \\right) = ab + ac"
+    },
+    {
+        "title":  "Derivative of a Constant",
+        "equation":  "\\frac{d}{{dx}}C = 0"
+    },
+    {
+        "title":  "Derivative of a Variable to the First Power",
+        "equation":  "\\frac{d}{{dx}}x = 1"
+    },
+    {
+        "title":  "Derivative of a Variable to the nth Power",
+        "equation":  "\\frac{d}{{dx}}x^n = nx^{\\left( {n - 1} \\right)}"
+    },
+    {
+        "title":  "Derivative of an Exponential",
+        "equation":  "\\frac{d}{{dx}}e^{ax} = ae^{ax}"
+    },
+    {
+        "title":  "Derivative of an Arbitrary Base Exponential",
+        "equation":  "\\frac{d}{{dx}}b^x = b^x \\ln \\left( b \\right)"
+    },
+    {
+        "title":  "Derivative of a Natural Logarithm",
+        "equation":  "\\frac{d}{{dx}}\\ln \\left( x \\right) = \\frac{1}{x}"
+    },
+    {
+        "title":  "Derivative of Sine",
+        "equation":  "\\frac{d}{{dx}}\\sin x = \\cos x"
+    },
+    {
+        "title":  "Derivative of Cosine",
+        "equation":  "\\frac{d}{{dx}}\\cos x = - \\sin x"
+    },
+    {
+        "title":  "Derivative of Tangent",
+        "equation":  "\\frac{d}{{dx}}\\tan x = \\sec ^2 x"
+    },
+    {
+        "title":  "Derivative of Cotangent",
+        "equation":  "\\frac{d}{{dx}}\\cot x = - \\csc ^2 x"
+    },
+    {
+        "title":  "Derivative of Secant",
+        "equation":  "\\frac{d}{{dx}}\\sec x = \\sec x\\tan x"
+    },
+    {
+        "title":  "Derivative of Cosecant",
+        "equation":  "\\frac{d}{{dx}}\\csc x = - \\csc x\\cot x"
+    },
+    {
+        "title":  "Derivative of Inverse Sine (Arcsine)",
+        "equation":  "\\frac{d}{{dx}}\\arcsin x = \\frac{d}{{dx}}sin^{ - 1} x = \\frac{1}{{\\sqrt {1 - x^2 } }}"
+    },
+    {
+        "title":  "Derivative of Inverse Cosine (Arccosine)",
+        "equation":  "\\frac{d}{{dx}}\\arccos x = \\frac{d}{{dx}}\\cos ^{ - 1} x = \\frac{{ - 1}}{{\\sqrt {1 - x^2 } }}"
+    },
+    {
+        "title":  "Derivative of Inverse Tangent (Arctangent)",
+        "equation":  "\\frac{d}{{dx}}\\arctan x = \\frac{d}{{dx}}\\tan ^{ - 1} x = \\frac{1}{{1 + x^2 }}"
+    },
+    {
+        "title":  "Derivative of Inverse Cosecant (Arccosecant)",
+        "equation":  "\\frac{d}{{dx}}arc\\csc x = \\frac{d}{{dx}}\\csc ^{ - 1} x = \\frac{{ - 1}}{{\\left| x \\right|\\sqrt {x^2 - 1} }}"
+    },
+    {
+        "title":  "Derivative of Inverse Secant (Arcsecant)",
+        "equation":  "\\frac{d}{{dx}}arc\\sec x = \\frac{d}{{dx}}\\sec ^{ - 1} x = \\frac{1}{{\\left| x \\right|\\sqrt {x^2 - 1} }}"
+    },
+    {
+        "title":  "Derivative of Inverse Cotangent (Arccotangent)",
+        "equation":  "\\frac{d}{{dx}}arc\\cot x = \\frac{d}{{dx}}\\cot ^{ - 1} x = \\frac{{ - 1}}{{1 + x^2 }}"
+    },
+    {
+        "title":  "Derivative of Hyperbolic Sine",
+        "equation":  "\\frac{d}{{dx}}\\sinh x = \\cosh x"
+    },
+    {
+        "title":  "Derivative of Hyperbolic Cosine",
+        "equation":  "\\frac{d}{{dx}}\\cosh x = \\sinh x"
+    },
+    {
+        "title":  "Derivative of Hyperbolic Tangent",
+        "equation":  "\\frac{d}{{dx}}\\tanh x = 1 - \\tanh ^2 x"
+    },
+    {
+        "title":  "Derivative of Hyperbolic Cotangent",
+        "equation":  "\\frac{d}{{dx}}\\coth x = 1 - \\coth ^2 x"
+    },
+    {
+        "title":  "Derivative of Hyperbolic Secant",
+        "equation":  "\\frac{d}{{dx}}{\\mathop{\\rm sech}\\nolimits} x = - \\tanh x{\\mathop{\\rm sech}\\nolimits} x"
+    },
+    {
+        "title":  "Derivative of Hyperbolic Cosecant",
+        "equation":  "\\frac{d}{{dx}}{\\mathop{\\rm csch}\\nolimits} x = - \\coth x{\\mathop{\\rm csch}\\nolimits} x"
+    },
+    {
+        "title":  "Product Rule of Differentiation",
+        "equation":  "\\frac{d}{{dx}}\\left( {f\\left( x \\right)g\\left( x \\right)} \\right) = f\\left( x \\right)\\frac{d}{{dx}}g\\left( x \\right) + \\frac{d}{{dx}}f\\left( x \\right)g\\left( x \\right)"
+    },
+    {
+        "title":  "Quotient Rule of Differentiation",
+        "equation":  "\\frac{d}{{dx}}\\left( {\\frac{{f\\left( x \\right)}}{{g\\left( x \\right)}}} \\right) = \\frac{{\\frac{d}{{dx}}f\\left( x \\right)g\\left( x \\right) - f\\left( x \\right)\\frac{d}{{dx}}g\\left( x \\right)}}{{g^2 \\left( x \\right)}}"
+    },
+    {
+        "title":  "Chain Rule of Differentiation",
+        "equation":  "\\frac{d}{{dx}}\\left[ {f\\left( u \\right)} \\right] = \\frac{d}{{du}}\\left[ {f\\left( u \\right)} \\right]\\frac{{du}}{{dx}}"
+    },
+    {
+        "title":  "Fundamental Theorem for Derivatives",
+        "equation":  "\\frac{d}{{dx}}\\int\\limits_a^x {f\\left( s \\right)} ds = f\\left( x \\right)"
+    },
+    {
+        "title":  "Definition of a Derivative",
+        "equation":  "\\frac{d}{{dx}}f\\left( x \\right) = \\mathop {\\lim }\\limits_{\\Delta \\to 0} \\frac{{f\\left( {x + \\Delta } \\right) - f\\left( x \\right)}}{\\Delta }"
+    },
+    {
+        "title":  "Fundamental Theorem of Integrals of Derivatives",
+        "equation":  "\\int\\limits_a^b {\\frac{d}{{dx}}F\\left( x \\right)dx} = F\\left( b \\right) - F\\left( a \\right)"
+    },
+    {
+        "title":  "Gamma Function",
+        "equation":  "\\Gamma \\left( x \\right) = \\int\\limits_0^\\infty {s^{x - 1} e^{ - s} ds}"
+    },
+    {
+        "title":  "Equation of a Line",
+        "equation":  "y = mx + b"
+    },
+    {
+        "title":  "Equation of a Circle",
+        "equation":  "\\left( {x - x_0 } \\right)^2 + \\left( {y - y_0 } \\right)^2 = R^2"
+    },
+    {
+        "title":  "Equation of a Sphere",
+        "equation":  "\\left( {x - x_0 } \\right)^2 + \\left( {y - y_0 } \\right)^2 + \\left( {z - z_0 } \\right)^2 = R^2"
+    },
+    {
+        "title":  "Equation of an Ellipsoid",
+        "equation":  "\\frac{{\\left( {x - x_0 } \\right)^2 }}{{a^2 }} + \\frac{{\\left( {y - y_0 } \\right)^2 }}{{b^2 }} + \\frac{{\\left( {z - z_0 } \\right)^2 }}{{c^2 }} = 1"
+    },
+    {
+        "title":  "Equation of an Ellipse",
+        "equation":  "\\frac{{\\left( {x - x_0 } \\right)^2 }}{{a^2 }} + \\frac{{\\left( {y - y_0 } \\right)^2 }}{{b^2 }} = 1"
+    },
+    {
+        "title":  "Superposition (Addition and Subtraction) of Sine of Angles",
+        "equation":  "\\sin \\theta _1 \\pm \\sin \\theta _2 = 2\\sin \\left( {\\frac{{\\theta _1 \\pm \\theta _2 }}{2}} \\right)\\cos \\left( {\\frac{{\\theta _1 \\mp \\theta _2 }}{2}} \\right)"
+    },
+    {
+        "title":  "Superposition (Addition) of Cosine of Angles",
+        "equation":  "\\cos \\theta _1 + \\cos \\theta _2 = 2\\cos \\left( {\\frac{{\\theta _1 + \\theta _2 }}{2}} \\right)\\cos \\left( {\\frac{{\\theta _1 - \\theta _2 }}{2}} \\right)"
+    },
+    {
+        "title":  "Superposition (Subtraction) of Cosine of Angles",
+        "equation":  "\\cos \\theta _1 - \\cos \\theta _2 = - 2\\sin \\left( {\\frac{{\\theta _1 + \\theta _2 }}{2}} \\right)\\sin \\left( {\\frac{{\\theta _1 - \\theta _2 }}{2}} \\right)"
+    },
+    {
+        "title":  "Euler\u0027s Formula",
+        "equation":  "e^{ \\pm i\\theta } = \\cos \\theta \\pm i\\sin \\theta"
+    },
+    {
+        "title":  "Cosine Definition as an Infinite Series",
+        "equation":  "\\cos x = \\sum\\limits_{n = 0}^\\infty {\\frac{{\\left( { - 1} \\right)^n x^{2n} }}{{\\left( {2n} \\right)!}}}"
+    },
+    {
+        "title":  "Sine Definition as an Infinite Series",
+        "equation":  "\\sin x = \\sum\\limits_{n = 1}^\\infty {\\frac{{\\left( { - 1} \\right)^{n - 1} x^{2n - 1} }}{{\\left( {2n - 1} \\right)!}}}"
+    },
+    {
+        "title":  "Distance Between Two Points (2-D)",
+        "equation":  "d = \\sqrt {\\left( {x_1 - x_2 } \\right)^2 + \\left( {y_1 - y_2 } \\right)^2 }"
+    },
+    {
+        "title":  "Distance Between Two Points (3-D)",
+        "equation":  "d = \\sqrt {\\left( {x_1 - x_2 } \\right)^2 + \\left( {y_1 - y_2 } \\right)^2 + \\left( {z_1 - z_2 } \\right)^2 }"
+    },
+    {
+        "title":  "Cartesian to Polar Coordinates (2-D)",
+        "equation":  "\\begin{array}{*{20}c} {x = r\\cos \\theta } \u0026 {r = \\sqrt {x^2 + y^2 } } \\\\ {y = r\\sin \\theta } \u0026 {\\theta = \\tan ^{ - 1} \\left( {\\frac{y}{x}} \\right)} \\\\ \\end{array}"
+    },
+    {
+        "title":  "Eccentricity of an Ellipse",
+        "equation":  "\\varepsilon = \\frac{{\\sqrt {a^2 - b^2 } }}{a}"
+    },
+    {
+        "title":  "Eccentricity of a Hyperbola",
+        "equation":  "\\varepsilon = \\frac{{\\sqrt {a^2 + b^2 } }}{a}"
+    },
+    {
+        "title":  "Equation of a Hyperbola",
+        "equation":  "\\frac{{\\left( {x - x_0 } \\right)^2 }}{{a^2 }} - \\frac{{\\left( {y - y_0 } \\right)^2 }}{{b^2 }} = 1"
+    },
+    {
+        "title":  "Equation of a Plane",
+        "equation":  "Ax + By + Cz + D = 0"
+    },
+    {
+        "title":  "Equation of a Hyperboloid of One Sheet",
+        "equation":  "\\frac{{\\left( {x - x_0 } \\right)^2 }}{{a^2 }} + \\frac{{\\left( {y - y_0 } \\right)^2 }}{{b^2 }} - \\frac{{\\left( {z - z_0 } \\right)^2 }}{{c^2 }} = 1"
+    },
+    {
+        "title":  "Equation of an Elliptic Cone",
+        "equation":  "\\frac{{\\left( {x - x_0 } \\right)^2 }}{{a^2 }} + \\frac{{\\left( {y - y_0 } \\right)^2 }}{{b^2 }} = \\frac{{\\left( {z - z_0 } \\right)^2 }}{{c^2 }}"
+    },
+    {
+        "title":  "Equation of an Elliptic Cylinder",
+        "equation":  "\\frac{{\\left( {x - x_0 } \\right)^2 }}{{a^2 }} + \\frac{{\\left( {y - y_0 } \\right)^2 }}{{b^2 }} = 1"
+    },
+    {
+        "title":  "Equation of a Hyperboloid of Two Sheets",
+        "equation":  "\\frac{{\\left( {x - x_0 } \\right)^2 }}{{a^2 }} - \\frac{{\\left( {y - y_0 } \\right)^2 }}{{b^2 }} - \\frac{{\\left( {z - z_0 } \\right)^2 }}{{c^2 }} = 1"
+    },
+    {
+        "title":  "Equation of an Elliptic Paraboloid",
+        "equation":  "\\frac{{\\left( {x - x_0 } \\right)^2 }}{{a^2 }} + \\frac{{\\left( {y - y_0 } \\right)^2 }}{{b^2 }} = \\frac{{\\left( {z - z_0 } \\right)}}{c}"
+    },
+    {
+        "title":  "Equation of a Hyperbolic Paraboloid",
+        "equation":  "\\frac{{\\left( {x - x_0 } \\right)^2 }}{{a^2 }} - \\frac{{\\left( {y - y_0 } \\right)^2 }}{{b^2 }} = \\frac{{\\left( {z - z_0 } \\right)}}{c}"
+    },
+    {
+        "title":  "Equation of a Parabola",
+        "equation":  "\\left( {y - y_0 } \\right)^2 = 4a\\left( {x - x_0 } \\right)"
+    },
+    {
+        "title":  "Cartesian to Spherical Coordinates (3-D)",
+        "equation":  "\\begin{array}{*{20}c} {x = R\\sin \\theta \\cos \\phi } \u0026 {R = \\sqrt {x^2 + y^2 + z^2 } } \u0026 {} \\\\ {y = R\\sin \\theta \\sin \\phi } \u0026 {\\phi = \\tan ^{ - 1} \\left( {\\frac{y}{x}} \\right)} \u0026 {} \\\\ {z = R\\cos \\theta } \u0026 {\\theta = \\cos ^{ - 1} \\left( {\\frac{z}{{\\sqrt {x^2 + y^2 + z^2 } }}} \\right)} \u0026 {} \\\\ \\end{array}"
+    },
+    {
+        "title":  "Cartesian to Cylindrical Coordinates (3-D)",
+        "equation":  "\\begin{array}{*{20}c} {x = r\\cos \\theta } \u0026 {r = \\sqrt {x^2 + y^2 } } \u0026 {} \\\\ {y = r\\sin \\theta } \u0026 {\\theta = \\tan ^{ - 1} \\left( {\\frac{y}{x}} \\right)} \u0026 {} \\\\ {z = z} \u0026 {z = z} \u0026 {} \\\\ \\end{array}"
+    },
+    {
+        "title":  "Cylindrical to Spherical Coordinates (3-D)",
+        "equation":  "\\begin{array}{*{20}c} {r = R\\sin \\theta } \u0026 {R = \\sqrt {r^2 + z^2 } } \u0026 {} \\\\ {z = R\\sin \\theta } \u0026 {\\phi = \\theta } \u0026 {} \\\\ {\\theta = \\phi } \u0026 {\\theta = \\tan ^{ - 1} \\left( {\\frac{r}{z}} \\right)} \u0026 {} \\\\ \\end{array}"
+    },
+    {
+        "title":  "Arithmetic Series - Sequential Integers",
+        "equation":  "\\sum\\limits_{k = 1}^n {k = \\frac{{n\\left( {n + 1} \\right)}}{2}}"
+    },
+    {
+        "title":  "Arithmetic Series - Sequential Odd Integers",
+        "equation":  "\\sum\\limits_{k = 1}^n {2k - 1 = n^2 }"
+    },
+    {
+        "title":  "Arithmetic Series - Sequential Squared Integers",
+        "equation":  "\\sum\\limits_{k = 1}^n {k^2 = \\frac{{n\\left( {n + 1} \\right)\\left( {2n + 1} \\right)}}{6}}"
+    },
+    {
+        "title":  "Finite Geometric Series",
+        "equation":  "\\sum\\limits_{k = 1}^n {ar^{k - 1} = \\frac{{a\\left( {1 - r^n } \\right)}}{{1 - r}}}"
+    },
+    {
+        "title":  "Infinite Geometric Series",
+        "equation":  "\\sum\\limits_{k = 1}^\\infty {ar^{k - 1} = \\frac{a}{{1 - r}}}"
+    },
+    {
+        "title":  "Perimeter of a Circle",
+        "equation":  "P = 2\\pi r"
+    },
+    {
+        "title":  "Perimeter of a Rectangle",
+        "equation":  "P = 2l + 2w"
+    },
+    {
+        "title":  "Perimeter of a Square",
+        "equation":  "P = 4s"
+    },
+    {
+        "title":  "Perimeter of a Triangle",
+        "equation":  "P = a + b + c"
+    },
+    {
+        "title":  "Perimeter of a Regular Polygon",
+        "equation":  "P = ns"
+    },
+    {
+        "title":  "Spiral of Archimedes (Archimedean Spiral) in Polar Coordinates",
+        "equation":  "r = a\\theta"
+    },
+    {
+        "title":  "Arclength",
+        "equation":  "s = r\\theta"
+    },
+    {
+        "title":  "L\u0027Hopital\u0027s Rule",
+        "equation":  "\\mathop {\\lim }\\limits_{x \\to c} \\frac{{f\\left( x \\right)}}{{g\\left( x \\right)}} = \\mathop {\\lim }\\limits_{x \\to c} \\frac{{f\u0027\\left( x \\right)}}{{g\u0027\\left( x \\right)}}"
+    },
+    {
+        "title":  "Limit of One over X to the nth Power",
+        "equation":  "\\mathop {\\lim }\\limits_{x \\to \\infty } \\frac{1}{{x^n }} = 0"
+    },
+    {
+        "title":  "Limit of Arctangent X as X Approaches Infinity",
+        "equation":  "\\mathop {\\lim }\\limits_{x \\to \\infty } \\tan ^{ - 1} \\left( x \\right) = \\frac{\\pi }{2}"
+    },
+    {
+        "title":  "Limit of Arctangent X as X Approaches Negative Infinity",
+        "equation":  "\\mathop {\\lim }\\limits_{x \\to - \\infty } \\tan ^{ - 1} \\left( x \\right) = - \\frac{\\pi }{2}"
+    },
+    {
+        "title":  "Limit of e to the X power as X Approaches Negative Infinity",
+        "equation":  "\\mathop {\\lim }\\limits_{x \\to - \\infty } e^x = 0"
+    },
+    {
+        "title":  "Entropy Change",
+        "equation":  "\\Delta S^\\circ = \\sum {S^\\circ {\\rm{products}}} - \\sum {S^\\circ {\\rm{reactants}}}"
+    },
+    {
+        "title":  "Enthalpy Change",
+        "equation":  "\\Delta H^\\circ = \\sum {H^\\circ _f {\\rm{products}}} - \\sum {H^\\circ _f {\\rm{reactants}}}"
+    },
+    {
+        "title":  "Gibb\u0027s Free Energy Change Defined",
+        "equation":  "\\Delta G^\\circ = \\sum {G^\\circ _f {\\rm{products}}} - \\sum {G^\\circ _f {\\rm{reactants}}}"
+    },
+    {
+        "title":  "Gibb\u0027s Free Energy Change in Terms of Enthalpy, Absolute Temperature, and Entropy",
+        "equation":  "\\Delta G^\\circ = \\Delta H^\\circ - T\\Delta S^\\circ"
+    },
+    {
+        "title":  "Gibb\u0027s Free Energy Change in Terms of Gas Constant, Absolute Temperature, and Equilibrium Constant",
+        "equation":  "\\Delta G^\\circ = - RT\\ln K = - 2.303RT\\log K"
+    },
+    {
+        "title":  "Gibb\u0027s Free Energy Change in Terms of Number of Moles, Faraday, and Standard Reduction Potential",
+        "equation":  "\\Delta G^\\circ = - n\\Im E^\\circ"
+    },
+    {
+        "title":  "Reaction Quotient",
+        "equation":  "\\begin{array}{*{20}c} {Q = \\frac{{\\left[ C \\right]^c \\left[ D \\right]^d }}{{\\left[ A \\right]^a \\left[ B \\right]^b }}} \\\\ {\\begin{array}{*{20}c} {where} \u0026 {aA + bB \\to cC + dD} \\\\ \\end{array}} \\\\ \\end{array}"
+    },
+    {
+        "title":  "Electric Current",
+        "equation":  "I = \\frac{q}{t}"
+    },
+    {
+        "title":  "Cell Voltage",
+        "equation":  "E_{cell} = E^\\circ _{cell} - \\frac{{RT}}{{n\\Im }}\\ln Q = E^\\circ _{cell} - \\frac{{0.0592}}{n}\\log Q"
+    },
+    {
+        "title":  "Relationship between Equilibrium Constant and Cell Voltage",
+        "equation":  "\\log K = \\frac{{nE^\\circ }}{{0.0592}}"
+    },
+    {
+        "title":  "Molar Heat Capacity at Constant Pressure",
+        "equation":  "C_p = \\frac{{\\Delta H}}{{\\Delta T}}"
+    },
+    {
+        "title":  "Partial Pressure of a Gas",
+        "equation":  "\\begin{array}{*{20}c} {P_A = P_{total} X_A } \\\\ {\\begin{array}{*{20}c} {where} \u0026 {X_A = \\frac{{\\begin{array}{*{20}c} {moles} \u0026 A \\\\ \\end{array}}}{{\\begin{array}{*{20}c} {total} \u0026 {moles} \\\\ \\end{array}}}} \\\\ \\end{array}} \\\\ \\end{array}"
+    },
+    {
+        "title":  "Total Gas Pressure as Sum of Partial Pressures",
+        "equation":  "P_{total} = P_A + P_B + P_C + \\ldots"
+    },
+    {
+        "title":  "Number of Moles",
+        "equation":  "n = \\frac{m}{M}"
+    },
+    {
+        "title":  "Temperature in Kelvin from Degrees Celsius Conversion",
+        "equation":  "K = ^\\circ C + 273"
+    },
+    {
+        "title":  "Combined Gas Law",
+        "equation":  "\\frac{{P_1 V_1 }}{{n_1 T_1 }} = \\frac{{P_2 V_2 }}{{n_2 T_2 }}"
+    },
+    {
+        "title":  "Density of a Material",
+        "equation":  "D = \\frac{m}{V}"
+    },
+    {
+        "title":  "Root Mean Square Velocity of Gas Molecules",
+        "equation":  "u_{rms} = \\sqrt {\\frac{{3kT}}{m}} = \\sqrt {\\frac{{3RT}}{M}}"
+    },
+    {
+        "title":  "Kinetic Energy per molecule",
+        "equation":  "\\frac{{KE}}{{molecule}} = \\frac{1}{2}m\\upsilon ^2"
+    },
+    {
+        "title":  "Kinetic Energy per Mole",
+        "equation":  "\\frac{{KE}}{{mole}} = \\frac{3}{2}RTn"
+    },
+    {
+        "title":  "Kinetic Energy per Mole",
+        "equation":  "\\frac{{KE}}{{mole}} = \\frac{3}{2}RTn"
+    },
+    {
+        "title":  "Graham\u0027s Law of Effusion",
+        "equation":  "\\frac{{r_1 }}{{r_2 }} = \\sqrt {\\frac{{M_2 }}{{M_1 }}}"
+    },
+    {
+        "title":  "Molarity Defined",
+        "equation":  "\\begin{array}{*{20}c} {molarity,} \u0026 {M = \\frac{{\\begin{array}{*{20}c} {moles} \u0026 {solute} \\\\ \\end{array}}}{{\\begin{array}{*{20}c} {liter} \u0026 {solution} \\\\ \\end{array}}}} \\\\ \\end{array}"
+    },
+    {
+        "title":  "Molality Defined",
+        "equation":  "\\begin{array}{*{20}c} {molality,} \u0026 { = \\frac{{\\begin{array}{*{20}c} {moles} \u0026 {solute} \\\\ \\end{array}}}{{\\begin{array}{*{20}c} {kilogram} \u0026 {solvent} \\\\ \\end{array}}}} \\\\ \\end{array}"
+    },
+    {
+        "title":  "Freezing Point Depression",
+        "equation":  "\\Delta T_f = iK_f \\times molality"
+    },
+    {
+        "title":  "Boiling Point Elevation",
+        "equation":  "\\Delta T_b = iK_b \\times molality"
+    },
+    {
+        "title":  "Osmotic Pressure",
+        "equation":  "\\pi = \\frac{{nRT}}{V}i"
+    },
+    {
+        "title":  "Specific Heat Capacity to Heat Equation",
+        "equation":  "q = mc\\Delta T"
+    },
+    {
+        "title":  "Acid Ionization Constant",
+        "equation":  "K_a = \\frac{{\\left[ {H^ + } \\right]\\left[ {A^ - } \\right]}}{{\\left[ {HA} \\right]}}"
+    },
+    {
+        "title":  "Base Ionization Constant",
+        "equation":  "K_b = \\frac{{\\left[ {OH^ - } \\right]\\left[ {HB^ + } \\right]}}{{\\left[ B \\right]}}"
+    },
+    {
+        "title":  "Ion Product Constant for Water",
+        "equation":  "\\begin{array}{*{20}c} {K_w = \\left[ {OH^ - } \\right]\\left[ {H^ + } \\right] = K_a \\times K_b } \\\\ {\\begin{array}{*{20}c} { = 1.0 \\times 10^{ - 14} } \u0026 {at} \u0026 {25^\\circ C} \\\\ \\end{array}} \\\\ \\end{array}"
+    },
+    {
+        "title":  "pH Defined",
+        "equation":  "pH = - \\log \\left[ {H^ + } \\right]"
+    },
+    {
+        "title":  "pOH Defined",
+        "equation":  "pOH = - \\log \\left[ {OH^ - } \\right]"
+    },
+    {
+        "title":  "pH and pOH Relationship",
+        "equation":  "14 = pH + pOH"
+    },
+    {
+        "title":  "Buffer Design Equation",
+        "equation":  "pH \\approx pK_a - \\log \\frac{{\\left[ {HA} \\right]_0 }}{{\\left[ {A^ - } \\right]_0 }}"
+    },
+    {
+        "title":  "pOH and Base Ionization Equilibrium Constant Relationship",
+        "equation":  "pOH = pK_b + \\log \\frac{{\\left[ {HB^ + } \\right]}}{{\\left[ B \\right]}}"
+    },
+    {
+        "title":  "pKa Definition",
+        "equation":  "pK_a = - \\log K_a"
+    },
+    {
+        "title":  "pKb Definition",
+        "equation":  "pK_b = - \\log K_b"
+    },
+    {
+        "title":  "Gas Pressure and Concentration Relationship",
+        "equation":  "K_p = K_c \\left( {RT} \\right)^{\\Delta n}"
+    },
+    {
+        "title":  "Planck\u0027s Quantized (Quantum) Energy Equation",
+        "equation":  "\\Delta E = h\\nu"
+    },
+    {
+        "title":  "Speed of Light to Wavelength and Frequency Relationship",
+        "equation":  "c = \\lambda \\nu"
+    },
+    {
+        "title":  "De Broglie Wavelength",
+        "equation":  "\\lambda = \\frac{h}{{m\\upsilon }}"
+    },
+    {
+        "title":  "Linear Momentum",
+        "equation":  "p = m\\upsilon"
+    },
+    {
+        "title":  "Relationship between Energy and Principal Quantum Number",
+        "equation":  "E_n = - R_H \\left( {\\frac{1}{{n^2 }}} \\right) = \\frac{{ - 2.178 \\times 10^{ - 18} }}{{n^2 }}joule"
+    },
+    {
+        "title":  "Rydberg Equation",
+        "equation":  "\\Delta E = R_H \\left( {\\frac{1}{{n_i ^2 }} - \\frac{1}{{n_f ^2 }}} \\right)"
+    },
+    {
+        "title":  "van\u0027t Hoff equation",
+        "equation":  "\\ln \\left( {\\frac{{K_2 }}{{K_1 }}} \\right) = - \\frac{{\\Delta H^\\circ }}{R}\\left[ {\\frac{1}{{T_2 }} - \\frac{1}{{T_1 }}} \\right]"
+    }
+]
