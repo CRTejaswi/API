@@ -1,0 +1,74 @@
+[
+    {
+        "devanagari":  "अ",
+        "roman":  "a,A"
+    },
+    {
+        "devanagari":  "आ",
+        "roman":  "ā,Ā"
+    },
+    {
+        "devanagari":  "इ",
+        "roman":  "i,I"
+    },
+    {
+        "devanagari":  "ई",
+        "roman":  "ī,Ī"
+    },
+    {
+        "devanagari":  "उ",
+        "roman":  "u,U"
+    },
+    {
+        "devanagari":  "ऊ",
+        "roman":  "ū,Ū"
+    },
+    {
+        "devanagari":  "ऋ",
+        "roman":  "ṛ,Ṛ"
+    },
+    {
+        "devanagari":  "ॠ",
+        "roman":  "ṝ,Ṝ"
+    },
+    {
+        "devanagari":  "ऌ",
+        "roman":  "ḷ,Ḷ"
+    },
+    {
+        "devanagari":  "ॡ",
+        "roman":  "ḹ,Ḹ"
+    },
+    {
+        "devanagari":  "ए",
+        "roman":  "e,E"
+    },
+    {
+        "devanagari":  "ऐ",
+        "roman":  "ai,Ai"
+    },
+    {
+        "devanagari":  "ओ",
+        "roman":  "o,O"
+    },
+    {
+        "devanagari":  "औ",
+        "roman":  "au,Au"
+    },
+    {
+        "devanagari":  "ं",
+        "roman":  "ṃ,Ṃ"
+    },
+    {
+        "devanagari":  "ः",
+        "roman":  "Ḥ"
+    },
+    {
+        "devanagari":  "ँ",
+        "roman":  "˜"
+    },
+    {
+        "devanagari":  "ऽ",
+        "roman":  "\u0027"
+    }
+]
