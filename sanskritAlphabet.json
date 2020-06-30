@@ -1,4 +1,4 @@
-[
+﻿[
     {
         "devanagari":  "अ",
         "roman":  "a,A"
@@ -56,16 +56,16 @@
         "roman":  "au,Au"
     },
     {
-        "devanagari":  "ं,",
-        "roman":  "ṃ,Ṃ\""
+        "devanagari":  "ं",
+        "roman":  "ṃ,Ṃ"
     },
     {
-        "devanagari":  "ः,",
-        "roman":  ",Ḥ\""
+        "devanagari":  "ः",
+        "roman":  "Ḥ"
     },
     {
-        "devanagari":  "ँ,",
-        "roman":  "˜\""
+        "devanagari":  "ँ",
+        "roman":  "˜"
     },
     {
         "devanagari":  "ऽ",
