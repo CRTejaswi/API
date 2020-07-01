@@ -6,13 +6,11 @@
 > Demo available [here](https://crtejaswi.github.io/API).
 > See [this](https://github.com/CRTejaswi/Resources/blob/master/Languages/PowerShell/scripts.md#api) for parsing these files in PowerShell.
 
-🚧
-
 - [`CV.json`](CV.json) <br>
-    Your CV in a JSON file.
+    CV (template) in a JSON file.
 
 - [`logins.json`](logins.json) <br>
-    Your login credentials in a JSON file.
+    Login credentials (template) in a JSON file.
 
 - [`latex1.json`](latex1.json) <br>
     Latex equations for basic Science/Math formulae. (Scraped from [equplus.net](https://equplus.net)) <br>
@@ -24,5 +22,5 @@
     Devanagari & Roman characters for the Sanskrit Alphabet. (Scraped from [Wikipedia](https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration)) <br>
 
 - [`songs1.json`](songs1.json) <br>
-    A personalized collection of Youtube videos of retro Hindi songs. <br>
+    Personalized collection of Youtube videos of retro Hindi songs. <br>
     Don't ask; My mum bugged me to make this one. 🤷 <br>

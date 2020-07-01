@@ -70,5 +70,137 @@
     {
         "devanagari":  "ऽ",
         "roman":  "\u0027"
+    },
+    {
+        "devanagari":  "क",
+        "roman":  "k,K"
+    },
+    {
+        "devanagari":  "ख",
+        "roman":  "kh,Kh"
+    },
+    {
+        "devanagari":  "ग",
+        "roman":  "g,G"
+    },
+    {
+        "devanagari":  "घ",
+        "roman":  "gh,Gh"
+    },
+    {
+        "devanagari":  "ङ",
+        "roman":  "ṅ,Ṅ"
+    },
+    {
+        "devanagari":  "च",
+        "roman":  "c,C"
+    },
+    {
+        "devanagari":  "छ",
+        "roman":  "ch,Ch"
+    },
+    {
+        "devanagari":  "ज",
+        "roman":  "j,J"
+    },
+    {
+        "devanagari":  "झ",
+        "roman":  "jh,Jh"
+    },
+    {
+        "devanagari":  "ञ",
+        "roman":  "ñ,Ñ"
+    },
+    {
+        "devanagari":  "ट",
+        "roman":  "ṭ,Ṭ"
+    },
+    {
+        "devanagari":  "ठ",
+        "roman":  "ṭh,Ṭh"
+    },
+    {
+        "devanagari":  "ड",
+        "roman":  "ḍ,Ḍ"
+    },
+    {
+        "devanagari":  "ढ",
+        "roman":  "ḍh,Ḍh"
+    },
+    {
+        "devanagari":  "ण",
+        "roman":  "ṇ,Ṇ"
+    },
+    {
+        "devanagari":  "त",
+        "roman":  "t,T"
+    },
+    {
+        "devanagari":  "थ",
+        "roman":  "th,Th"
+    },
+    {
+        "devanagari":  "द",
+        "roman":  "d,D"
+    },
+    {
+        "devanagari":  "ध",
+        "roman":  "dh,Dh"
+    },
+    {
+        "devanagari":  "न",
+        "roman":  "n,N"
+    },
+    {
+        "devanagari":  "प",
+        "roman":  "p,P"
+    },
+    {
+        "devanagari":  "फ",
+        "roman":  "ph,Ph"
+    },
+    {
+        "devanagari":  "ब",
+        "roman":  "b,B"
+    },
+    {
+        "devanagari":  "भ",
+        "roman":  "bh,Bh"
+    },
+    {
+        "devanagari":  "म",
+        "roman":  "m,M"
+    },
+    {
+        "devanagari":  "ह",
+        "roman":  "h,H"
+    },
+    {
+        "devanagari":  "य",
+        "roman":  "y,Y"
+    },
+    {
+        "devanagari":  "र",
+        "roman":  "r,R"
+    },
+    {
+        "devanagari":  "ल",
+        "roman":  "l,L"
+    },
+    {
+        "devanagari":  "व",
+        "roman":  "v,V"
+    },
+    {
+        "devanagari":  "श",
+        "roman":  "ś,Ś"
+    },
+    {
+        "devanagari":  "ष",
+        "roman":  "ṣ,Ṣ"
+    },
+    {
+        "devanagari":  "स",
+        "roman":  "s,S"
     }
 ]
