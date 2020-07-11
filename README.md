@@ -24,3 +24,6 @@
 - [`songs1.json`](songs1.json) <br>
     Personalized collection of Youtube videos of retro Hindi songs. <br>
     Don't ask; My mum bugged me to make this one. 🤷 <br>
+
+- [`songs2.json`](songs2.json) <br>
+    Personalized collection of Youtube videos of English songs. <br>
