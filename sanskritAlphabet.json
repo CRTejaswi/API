@@ -1,206 +1,257 @@
 [
     {
         "devanagari":  "अ",
-        "roman":  "a,A"
+        "roman":  "a,A",
+        "unicode":  "0905"
     },
     {
         "devanagari":  "आ",
-        "roman":  "ā,Ā"
+        "roman":  "ā,Ā",
+        "unicode":  "0906"
     },
     {
         "devanagari":  "इ",
-        "roman":  "i,I"
+        "roman":  "i,I",
+        "unicode":  "0907"
     },
     {
         "devanagari":  "ई",
-        "roman":  "ī,Ī"
+        "roman":  "ī,Ī",
+        "unicode":  "0908"
     },
     {
         "devanagari":  "उ",
-        "roman":  "u,U"
+        "roman":  "u,U",
+        "unicode":  "0909"
     },
     {
         "devanagari":  "ऊ",
-        "roman":  "ū,Ū"
+        "roman":  "ū,Ū",
+        "unicode":  "090a"
     },
     {
         "devanagari":  "ऋ",
-        "roman":  "ṛ,Ṛ"
+        "roman":  "ṛ,Ṛ",
+        "unicode":  "090b"
     },
     {
         "devanagari":  "ॠ",
-        "roman":  "ṝ,Ṝ"
+        "roman":  "ṝ,Ṝ",
+        "unicode":  "0960"
     },
     {
         "devanagari":  "ऌ",
-        "roman":  "ḷ,Ḷ"
+        "roman":  "ḷ,Ḷ",
+        "unicode":  "090c"
     },
     {
         "devanagari":  "ॡ",
-        "roman":  "ḹ,Ḹ"
+        "roman":  "ḹ,Ḹ",
+        "unicode":  "0961"
     },
     {
         "devanagari":  "ए",
-        "roman":  "e,E"
+        "roman":  "e,E",
+        "unicode":  "090f"
     },
     {
         "devanagari":  "ऐ",
-        "roman":  "ai,Ai"
+        "roman":  "ai,Ai",
+        "unicode":  "0910"
     },
     {
         "devanagari":  "ओ",
-        "roman":  "o,O"
+        "roman":  "o,O",
+        "unicode":  "0913"
     },
     {
         "devanagari":  "औ",
-        "roman":  "au,Au"
+        "roman":  "au,Au",
+        "unicode":  "0914"
     },
     {
         "devanagari":  "ं",
-        "roman":  "ṃ,Ṃ"
+        "roman":  "ṃ,Ṃ",
+        "unicode":  "0902"
     },
     {
         "devanagari":  "ः",
-        "roman":  "Ḥ"
+        "roman":  "Ḥ",
+        "unicode":  "0903"
     },
     {
         "devanagari":  "ँ",
-        "roman":  "˜"
+        "roman":  "˜",
+        "unicode":  "0901"
     },
     {
         "devanagari":  "ऽ",
-        "roman":  "\u0027"
+        "roman":  "\u0027",
+        "unicode":  "093d"
     },
     {
         "devanagari":  "क",
-        "roman":  "k,K"
+        "roman":  "k,K",
+        "unicode":  "0915"
     },
     {
         "devanagari":  "ख",
-        "roman":  "kh,Kh"
+        "roman":  "kh,Kh",
+        "unicode":  "0916"
     },
     {
         "devanagari":  "ग",
-        "roman":  "g,G"
+        "roman":  "g,G",
+        "unicode":  "0917"
     },
     {
         "devanagari":  "घ",
-        "roman":  "gh,Gh"
+        "roman":  "gh,Gh",
+        "unicode":  "0918"
     },
     {
         "devanagari":  "ङ",
-        "roman":  "ṅ,Ṅ"
+        "roman":  "ṅ,Ṅ",
+        "unicode":  "0919"
     },
     {
         "devanagari":  "च",
-        "roman":  "c,C"
+        "roman":  "c,C",
+        "unicode":  "091a"
     },
     {
         "devanagari":  "छ",
-        "roman":  "ch,Ch"
+        "roman":  "ch,Ch",
+        "unicode":  "091b"
     },
     {
         "devanagari":  "ज",
-        "roman":  "j,J"
+        "roman":  "j,J",
+        "unicode":  "091c"
     },
     {
         "devanagari":  "झ",
-        "roman":  "jh,Jh"
+        "roman":  "jh,Jh",
+        "unicode":  "091d"
     },
     {
         "devanagari":  "ञ",
-        "roman":  "ñ,Ñ"
+        "roman":  "ñ,Ñ",
+        "unicode":  "091e"
     },
     {
         "devanagari":  "ट",
-        "roman":  "ṭ,Ṭ"
+        "roman":  "ṭ,Ṭ",
+        "unicode":  "091f"
     },
     {
         "devanagari":  "ठ",
-        "roman":  "ṭh,Ṭh"
+        "roman":  "ṭh,Ṭh",
+        "unicode":  "0920"
     },
     {
         "devanagari":  "ड",
-        "roman":  "ḍ,Ḍ"
+        "roman":  "ḍ,Ḍ",
+        "unicode":  "0921"
     },
     {
         "devanagari":  "ढ",
-        "roman":  "ḍh,Ḍh"
+        "roman":  "ḍh,Ḍh",
+        "unicode":  "0922"
     },
     {
         "devanagari":  "ण",
-        "roman":  "ṇ,Ṇ"
+        "roman":  "ṇ,Ṇ",
+        "unicode":  "0923"
     },
     {
         "devanagari":  "त",
-        "roman":  "t,T"
+        "roman":  "t,T",
+        "unicode":  "0924"
     },
     {
         "devanagari":  "थ",
-        "roman":  "th,Th"
+        "roman":  "th,Th",
+        "unicode":  "0925"
     },
     {
         "devanagari":  "द",
-        "roman":  "d,D"
+        "roman":  "d,D",
+        "unicode":  "0926"
     },
     {
         "devanagari":  "ध",
-        "roman":  "dh,Dh"
+        "roman":  "dh,Dh",
+        "unicode":  "0927"
     },
     {
         "devanagari":  "न",
-        "roman":  "n,N"
+        "roman":  "n,N",
+        "unicode":  "0928"
     },
     {
         "devanagari":  "प",
-        "roman":  "p,P"
+        "roman":  "p,P",
+        "unicode":  "092a"
     },
     {
         "devanagari":  "फ",
-        "roman":  "ph,Ph"
+        "roman":  "ph,Ph",
+        "unicode":  "092b"
     },
     {
         "devanagari":  "ब",
-        "roman":  "b,B"
+        "roman":  "b,B",
+        "unicode":  "092c"
     },
     {
         "devanagari":  "भ",
-        "roman":  "bh,Bh"
+        "roman":  "bh,Bh",
+        "unicode":  "092d"
     },
     {
         "devanagari":  "म",
-        "roman":  "m,M"
-    },
-    {
-        "devanagari":  "ह",
-        "roman":  "h,H"
+        "roman":  "m,M",
+        "unicode":  "092e"
     },
     {
         "devanagari":  "य",
-        "roman":  "y,Y"
+        "roman":  "y,Y",
+        "unicode":  "092f"
     },
     {
         "devanagari":  "र",
-        "roman":  "r,R"
+        "roman":  "r,R",
+        "unicode":  "0930"
     },
     {
         "devanagari":  "ल",
-        "roman":  "l,L"
+        "roman":  "l,L",
+        "unicode":  "0932"
     },
     {
         "devanagari":  "व",
-        "roman":  "v,V"
+        "roman":  "v,V",
+        "unicode":  "0935"
     },
     {
         "devanagari":  "श",
-        "roman":  "ś,Ś"
+        "roman":  "ś,Ś",
+        "unicode":  "0936"
     },
     {
         "devanagari":  "ष",
-        "roman":  "ṣ,Ṣ"
+        "roman":  "ṣ,Ṣ",
+        "unicode":  "0937"
     },
     {
         "devanagari":  "स",
-        "roman":  "s,S"
+        "roman":  "s,S",
+        "unicode":  "0938"
+    },
+    {
+        "devanagari":  "ह",
+        "roman":  "h,H",
+        "unicode":  "0939"
     }
 ]

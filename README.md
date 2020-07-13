@@ -21,9 +21,16 @@
 - [`sanskritAlphabet.json`](sanskritAlphabet.json) <br>
     Devanagari & Roman characters for the Sanskrit Alphabet. (Scraped from [Wikipedia](https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration)) <br>
 
+| . | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | A | B | C | D | E | F |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| 090 |   | &#x0901; | &#x0902; | &#x0903; |   | &#x0905; | &#x0906; | &#x0907; | &#x0908; | &#x0909; | &#x090a; | &#x090b; | &#x090c; |   |   | &#x090f; |
+| 091 | &#x0910; |   |   | &#x0913; | &#x0914; | &#x0915; | &#x0916; | &#x0917; | &#x0918; | &#x0919; | &#x091a; | &#x091b; | &#x091c; | &#x091d; | &#x091e; | &#x091f; |
+| 092 | &#x0920; | &#x0921; | &#x0922; | &#x0923; | &#x0924; | &#x0925; | &#x0926; | &#x0927; | &#x0928; |   | &#x092a; | &#x092b; | &#x092c; | &#x092d; | &#x092e; | &#x092f; |
+| 093 | &#x0930; |   | &#x0932; |   |   | &#x0935; | &#x0936; | &#x0937; | &#x0938; | &#x0939; |   |   |   | &#x093d; |   |   |
+
 - [`songs1.json`](songs1.json) <br>
-    Personalized collection of Youtube videos of retro Hindi songs. <br>
+    Personalized collection of retro Hindi songs (Youtube videos). <br>
     Don't ask; My mum bugged me to make this one. 🤷 <br>
 
 - [`songs2.json`](songs2.json) <br>
-    Personalized collection of Youtube videos of English songs. <br>
+    Personalized collection of English songs (Youtube videos). <br>
