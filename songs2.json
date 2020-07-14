@@ -9,13 +9,13 @@
         "title":  "Beautiful People",
         "singer":  "Ed Sheeran",
         "link":  "6v8BmMirkUk",
-        "tags":  "Bittersweet"
+        "tags":  "bittersweet"
     },
     {
         "title":  "Castle On the Hill",
         "singer":  "Ed Sheeran",
         "link":  "wqlTrBCNRiY",
-        "tags":  "Bittersweet,Nostalgia"
+        "tags":  "bittersweet,Nostalgia"
     },
     {
         "title":  "Dive",
@@ -33,7 +33,7 @@
         "title":  "Galway Girl",
         "singer":  "Ed Sheeran",
         "link":  "K0WAS1pyocY",
-        "tags":  "Joy,Romance"
+        "tags":  "joy,romance"
     },
     {
         "title":  "Happier",
@@ -123,6 +123,42 @@
         "title":  "What Do I Know",
         "singer":  "Ed Sheeran",
         "link":  "VDc9zSpu4Es",
+        "tags":  ""
+    },
+    {
+        "title":  "21 Guns",
+        "singer":  "Green Day",
+        "link":  "r00ikilDxW4",
+        "tags":  "war,futility"
+    },
+    {
+        "title":  "21st Century Breakdown",
+        "singer":  "Green Day",
+        "link":  "D4ZKlT1EvCA",
+        "tags":  ""
+    },
+    {
+        "title":  "Boulevard Of Broken Dreams",
+        "singer":  "Green Day",
+        "link":  "gYCTXzOTnXg",
+        "tags":  "loneliness,solitude"
+    },
+    {
+        "title":  "Last Of The American Girls",
+        "singer":  "Green Day",
+        "link":  "HR8Ia6vyV5Q",
+        "tags":  ""
+    },
+    {
+        "title":  "When September Ends",
+        "singer":  "Green Day",
+        "link":  "ulRXvH8VOl8",
+        "tags":  "nostalgia,escapism"
+    },
+    {
+        "title":  "Sweet Child O\u0027 Mine",
+        "singer":  "Guns N Roses",
+        "link":  "jq_FWScqyG8",
         "tags":  ""
     }
 ]
