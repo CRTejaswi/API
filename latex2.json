@@ -1,0 +1,74 @@
+[
+    {
+        "Title":  "Derivative of function",
+        "Equations":  [
+                          "1.4.E4"
+                      ],
+        "Datasets":  [
+                         "nist"
+                     ],
+        "Tags":  [
+                     "calculus"
+                 ]
+    },
+    {
+        "Title":  "Derivative of function (arithmetic)",
+        "Equations":  [
+                          "1.4.E5,1.4.E6,1.4.E7"
+                      ],
+        "Datasets":  [
+                         "nist"
+                     ],
+        "Tags":  [
+                     "calculus"
+                 ]
+    },
+    {
+        "Title":  "nth-Order Derivative of function",
+        "Equations":  [
+                          "1.4.E9"
+                      ],
+        "Datasets":  [
+                         "nist"
+                     ],
+        "Tags":  [
+                     "calculus"
+                 ]
+    },
+    {
+        "Title":  "L’Hôpital’s Rule",
+        "Equations":  [
+                          "1.4.E14,1.4.E15"
+                      ],
+        "Datasets":  [
+                         "nist"
+                     ],
+        "Tags":  [
+                     "calculus"
+                 ]
+    },
+    {
+        "Title":  "Integration by Parts",
+        "Equations":  [
+                          "1.4.E16,1.4.E17"
+                      ],
+        "Datasets":  [
+                         "nist"
+                     ],
+        "Tags":  [
+                     "calculus"
+                 ]
+    },
+    {
+        "Title":  "Fundamental Theorem of Calculus",
+        "Equations":  [
+                          "1.4.E26,1.4.E27"
+                      ],
+        "Datasets":  [
+                         "nist"
+                     ],
+        "Tags":  [
+                     "calculus"
+                 ]
+    }
+]
