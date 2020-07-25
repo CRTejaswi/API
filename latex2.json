@@ -10,7 +10,9 @@
         "Tags":  [
                      "calculus"
                  ],
-        "References":  null
+        "References":  [
+                           ""
+                       ]
     },
     {
         "Title":  "Derivative of function (arithmetic)",
@@ -23,7 +25,9 @@
         "Tags":  [
                      "calculus"
                  ],
-        "References":  null
+        "References":  [
+                           ""
+                       ]
     },
     {
         "Title":  "nth-Order Derivative of function",
@@ -36,7 +40,9 @@
         "Tags":  [
                      "calculus"
                  ],
-        "References":  null
+        "References":  [
+                           ""
+                       ]
     },
     {
         "Title":  "L’Hôpital’s Rule",
@@ -49,7 +55,9 @@
         "Tags":  [
                      "calculus"
                  ],
-        "References":  null
+        "References":  [
+                           ""
+                       ]
     },
     {
         "Title":  "Integration by Parts",
@@ -62,12 +70,44 @@
         "Tags":  [
                      "calculus"
                  ],
-        "References":  null
+        "References":  [
+                           ""
+                       ]
     },
     {
         "Title":  "Fundamental Theorem of Calculus",
         "Equations":  [
                           "1.4.E26,1.4.E27"
+                      ],
+        "Datasets":  [
+                         "nist"
+                     ],
+        "Tags":  [
+                     "calculus"
+                 ],
+        "References":  [
+                           ""
+                       ]
+    },
+    {
+        "Title":  "Integral of logarithmic functions",
+        "Equations":  [
+                          "4.10.E1,4.10.E2,4.10.E3,4.10.E4,4.10.E5,4.10.E6,4.10.E7"
+                      ],
+        "Datasets":  [
+                         "nist"
+                     ],
+        "Tags":  [
+                     "calculus"
+                 ],
+        "References":  [
+                           ""
+                       ]
+    },
+    {
+        "Title":  "Integral of exponential functions",
+        "Equations":  [
+                          "4.10.E8,4.10.E9,4.10.E10,4.10.E11,4.10.E12,4.10.E13"
                       ],
         "Datasets":  [
                          "nist"
