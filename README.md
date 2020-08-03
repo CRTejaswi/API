@@ -35,3 +35,6 @@
 
 - [`songs2.json`](songs2.json) <br>
     Personalized collection of English songs (Youtube videos). <br>
+
+- [`interviews1.json`](interviews1.json) <br>
+    Personalized collection of interviews of Indian personalities (Youtube videos). <br>
