@@ -3,10 +3,10 @@
 
 # API
 > Personal collection of static APIs. <br>
-> Demo available [here](https://crtejaswi.github.io/API).
-> See [this](https://github.com/CRTejaswi/Resources/blob/master/Languages/PowerShell/scripts.md#api) for parsing these files in PowerShell.
+> Demo available [here](https://crtejaswi.github.io/api).
+> See [this](https://github.com/CRTejaswi/resources/blob/master/languages/ps/scripts.md#api) for parsing these files in PowerShell.
 
-- [`CV.json`](CV.json) <br>
+- [`CV.json`](cv.json) <br>
     CV (template) in a JSON file.
 
 - [`logins.json`](logins.json) <br>
