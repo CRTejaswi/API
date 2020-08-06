@@ -15,7 +15,7 @@
         "title":  "Castle On the Hill",
         "singer":  "Ed Sheeran",
         "link":  "wqlTrBCNRiY",
-        "tags":  "bittersweet,Nostalgia"
+        "tags":  "bittersweet,nostalgia"
     },
     {
         "title":  "Dive",
@@ -160,5 +160,77 @@
         "singer":  "Guns N Roses",
         "link":  "jq_FWScqyG8",
         "tags":  ""
+    },
+    {
+        "title":  "My Dear Friend",
+        "singer":  "Julie Delpy",
+        "link":  "cjArU8zcfjk",
+        "tags":  "blues"
+    },
+    {
+        "title":  "Mr Unhappy",
+        "singer":  "Julie Delpy",
+        "link":  "nfspnpGPAC0",
+        "tags":  "blues"
+    },
+    {
+        "title":  "Lame Love",
+        "singer":  "Julie Delpy",
+        "link":  "cvHC51pYPt0",
+        "tags":  "blues"
+    },
+    {
+        "title":  "Ready To Go",
+        "singer":  "Julie Delpy",
+        "link":  "U0uK58ppsuU",
+        "tags":  "blues"
+    },
+    {
+        "title":  "Je t\u0027aime tant",
+        "singer":  "Julie Delpy",
+        "link":  "sas6JZ7QGL8",
+        "tags":  "blues"
+    },
+    {
+        "title":  "Something A Bit Vague",
+        "singer":  "Julie Delpy",
+        "link":  "iS-3bkTd42Y",
+        "tags":  "blues"
+    },
+    {
+        "title":  "Black \u0026 Gray",
+        "singer":  "Julie Delpy",
+        "link":  "KaHka39h7m4",
+        "tags":  "blues"
+    },
+    {
+        "title":  "Waltz for A Night",
+        "singer":  "Julie Delpy",
+        "link":  "kuGHsWI3RvU",
+        "tags":  "blues"
+    },
+    {
+        "title":  "She Don\u0027t Care",
+        "singer":  "Julie Delpy",
+        "link":  "Go41tUNCv4s",
+        "tags":  "blues"
+    },
+    {
+        "title":  "And Together",
+        "singer":  "Julie Delpy",
+        "link":  "H_RykqqADkw",
+        "tags":  "blues"
+    },
+    {
+        "title":  "An Ocean Apart",
+        "singer":  "Julie Delpy",
+        "link":  "IO5NbIQ14ek",
+        "tags":  "blues"
+    },
+    {
+        "title":  "Time to Wake Up",
+        "singer":  "Julie Delpy",
+        "link":  "9fj-8j2T7XU",
+        "tags":  "blues"
     }
 ]
