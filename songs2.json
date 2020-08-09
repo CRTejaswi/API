@@ -186,7 +186,7 @@
         "tags":  "blues"
     },
     {
-        "title":  "Je t\u0027aime tant",
+        "title":  "Je T\u0027Aime Tant",
         "singer":  "Julie Delpy",
         "link":  "sas6JZ7QGL8",
         "tags":  "blues"
@@ -248,7 +248,103 @@
     {
         "title":  "She\u0027s No You",
         "singer":  "Jesse McCartney",
-        "link":  "gLICf-JY4Cw",
+        "link":  "pCpjEJ5IbXo",
         "tags":  "pop,romance"
+    },
+    {
+        "title":  "All I Need Is You",
+        "singer":  "Guy Sebastian",
+        "link":  "Olf95TINoWs",
+        "tags":  ""
+    },
+    {
+        "title":  "Art of Love",
+        "singer":  "Guy Sebastian",
+        "link":  "n75lnqmcQrM",
+        "tags":  ""
+    },
+    {
+        "title":  "Battle Scars",
+        "singer":  "Guy Sebastian",
+        "link":  "_mPd_SDAryQ",
+        "tags":  ""
+    },
+    {
+        "title":  "Bloodstone",
+        "singer":  "Guy Sebastian",
+        "link":  "W_F1vuTi8pE",
+        "tags":  ""
+    },
+    {
+        "title":  "Come Home With Me",
+        "singer":  "Guy Sebastian",
+        "link":  "CPgTazCKxKM",
+        "tags":  ""
+    },
+    {
+        "title":  "Don\u0027t Worry Be Happy",
+        "singer":  "Guy Sebastian",
+        "link":  "4zCQ5gt_Mpo",
+        "tags":  ""
+    },
+    {
+        "title":  "Elevator Love",
+        "singer":  "Guy Sebastian",
+        "link":  "s0WKOZWeCIE",
+        "tags":  ""
+    },
+    {
+        "title":  "High On Me",
+        "singer":  "Guy Sebastian",
+        "link":  "LHPSUK2FchE",
+        "tags":  ""
+    },
+    {
+        "title":  "Like A Drum",
+        "singer":  "Guy Sebastian",
+        "link":  "5efEqg3UF8Y",
+        "tags":  ""
+    },
+    {
+        "title":  "Like It Like That",
+        "singer":  "Guy Sebastian",
+        "link":  "QYz-CjqaOG0",
+        "tags":  ""
+    },
+    {
+        "title":  "Linger",
+        "singer":  "Guy Sebastian",
+        "link":  "jk3Oe-2LmLk",
+        "tags":  ""
+    },
+    {
+        "title":  "Madness",
+        "singer":  "Guy Sebastian",
+        "link":  "sSFj5RuxjWc",
+        "tags":  ""
+    },
+    {
+        "title":  "Mama Ain\u0027t Proud",
+        "singer":  "Guy Sebastian",
+        "link":  "vOHoj1BvsZk",
+        "tags":  ""
+    },
+    {
+        "title":  "Set In Stone",
+        "singer":  "Guy Sebastian",
+        "link":  "L6aGRi95JbM",
+        "tags":  ""
+    },
+    {
+        "title":  "Tonight Again",
+        "singer":  "Guy Sebastian",
+        "link":  "Nx5LDmSaHCg",
+        "tags":  ""
+    },
+    {
+        "title":  "Who\u0027s That Girl",
+        "singer":  "Guy Sebastian",
+        "link":  "ip2mwfG83KE",
+        "tags":  null
     }
 ]
