@@ -34,7 +34,7 @@
     Don't ask; My mum bugged me to make this one. 🤷 <br>
 
 - [`songs2.json`](songs2.json) <br>
-    Personalized collection of English songs (Youtube videos). <br>
+    Personalized collection of English/Hindi songs (Youtube videos). <br>
 
 - [`interviews1.json`](interviews1.json) <br>
     Personalized collection of interviews of Indian personalities (Youtube videos). <br>
