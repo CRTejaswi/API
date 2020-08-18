@@ -1,0 +1,32 @@
+[
+    {
+        "title":  "Conan O\u0027Brien Needs a Friend",
+        "artist":  "Conan O\u0027Brien",
+        "type":  "rss",
+        "link":  "https://omny.fm/shows/conan-o-brien-needs-a-friend/playlists/podcast.rss"
+    },
+    {
+        "title":  "Inside Conan",
+        "artist":  "Conan O\u0027Brien",
+        "type":  "rss",
+        "link":  "https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/e5396d16-bb83-4010-b10d-aac50173aa2a/d6fdfe94-2e9a-40c3-b010-aac50173aa2f/podcast.rss"
+    },
+    {
+        "title":  "Monday Morning Podcast",
+        "artist":  "Bill Burr",
+        "type":  "youtube",
+        "link":  "https://www.youtube.com/c/BillBurrOfficial/videos?view=0\u0026sort=dd"
+    },
+    {
+        "title":  "Where My Mom\u0027s At",
+        "artist":  "Christina Pazsitzky",
+        "type":  "youtube",
+        "link":  "https://www.youtube.com/c/ChristinaP/videos?view=0\u0026sort=dd"
+    },
+    {
+        "title":  "Wife of the Party Podcast",
+        "artist":  "LeAnn Kreischer",
+        "type":  "youtube",
+        "link":  "https://www.youtube.com/c/WifeofthePartyPodcast/videos?view=0\u0026sort=dd"
+    }
+]
