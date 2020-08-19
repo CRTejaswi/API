@@ -38,3 +38,6 @@
 
 - [`interviews1.json`](interviews1.json) <br>
     Personalized collection of interviews of Indian personalities (Youtube videos). <br>
+
+- [`podcasts.json`](podcasts.json) <br>
+    Personalized collection of podcasts. <br>
