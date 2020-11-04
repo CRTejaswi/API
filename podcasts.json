@@ -28,5 +28,11 @@
         "artist":  "LeAnn Kreischer",
         "type":  "youtube",
         "link":  "https://www.youtube.com/c/WifeofthePartyPodcast/videos?view=0\u0026sort=dd"
+    },
+    {
+        "title":  "ASM Coding",
+        "artist":  "Leary-Bastein",
+        "type":  "rss",
+        "link":  "https://tlbhit.libsyn.com/rss"
     }
 ]
