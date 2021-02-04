@@ -41,3 +41,6 @@
 
 - [`podcasts.json`](podcasts.json) <br>
     Personalized collection of podcasts. <br>
+
+- [`blogs.json`](blogs.json) <br>
+    Personalized collection of blogs. <br>

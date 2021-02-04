@@ -1,0 +1,22 @@
+[
+    {
+        "person":  "Josh Radnor",
+        "link":  "https://us12.campaign-archive.com/home/?u=82e3799bafd7e45119c16cfd6\u0026id=28642a5ff6",
+        "tags": ""
+    },
+    {
+        "person":  "Dennis Yurichev",
+        "link":  "https://yurichev.com/news/?C=N;O=D",
+        "tags":  "coding,reverse-engineering"
+    },
+    {
+        "person":  "Ben McCormick",
+        "link":  "https://benmccormick.org/learning-vim-in-2014",
+        "tags":  "vim"
+    },
+    {
+        "person":  "Derek Wyatt",
+        "link":  "http://derekwyatt.org/vim/tutorials/",
+        "tags":  "vim"
+    }
+]
