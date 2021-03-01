@@ -1,0 +1,7160 @@
+[
+    {
+        "Hex-Value":  "0023",
+        "Type":  "Emoji",
+        "Sign":  "#?",
+        "Name":  "number sign"
+    },
+    {
+        "Hex-Value":  "002A",
+        "Type":  "Emoji",
+        "Sign":  "*?",
+        "Name":  "asterisk"
+    },
+    {
+        "Hex-Value":  "0030..0039",
+        "Type":  "Emoji",
+        "Sign":  "0?..9?",
+        "Name":  "digit zero..digit nine"
+    },
+    {
+        "Hex-Value":  "00A9",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "copyright"
+    },
+    {
+        "Hex-Value":  "00AE",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "registered"
+    },
+    {
+        "Hex-Value":  "203C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "double exclamation mark"
+    },
+    {
+        "Hex-Value":  "2049",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "exclamation question mark"
+    },
+    {
+        "Hex-Value":  "2122",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "trade mark"
+    },
+    {
+        "Hex-Value":  "2139",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "information"
+    },
+    {
+        "Hex-Value":  "2194..2199",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "left-right arrow..down-left arrow"
+    },
+    {
+        "Hex-Value":  "21A9..21AA",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "right arrow curving left..left arrow curving right"
+    },
+    {
+        "Hex-Value":  "231A..231B",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "watch..hourglass done"
+    },
+    {
+        "Hex-Value":  "2328",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "keyboard"
+    },
+    {
+        "Hex-Value":  "23CF",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "eject button"
+    },
+    {
+        "Hex-Value":  "23E9..23EC",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "fast-forward button..fast down button"
+    },
+    {
+        "Hex-Value":  "23ED..23EE",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "next track button..last track button"
+    },
+    {
+        "Hex-Value":  "23EF",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "play or pause button"
+    },
+    {
+        "Hex-Value":  "23F0",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "alarm clock"
+    },
+    {
+        "Hex-Value":  "23F1..23F2",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "stopwatch..timer clock"
+    },
+    {
+        "Hex-Value":  "23F3",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "hourglass not done"
+    },
+    {
+        "Hex-Value":  "23F8..23FA",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "pause button..record button"
+    },
+    {
+        "Hex-Value":  "24C2",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "circled M"
+    },
+    {
+        "Hex-Value":  "25AA..25AB",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "black small square..white small square"
+    },
+    {
+        "Hex-Value":  "25B6",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "play button"
+    },
+    {
+        "Hex-Value":  "25C0",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "reverse button"
+    },
+    {
+        "Hex-Value":  "25FB..25FE",
+        "Type":  "Emoji",
+        "Sign":  "??..?",
+        "Name":  "white medium square..black medium-small square"
+    },
+    {
+        "Hex-Value":  "2600..2601",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "sun..cloud"
+    },
+    {
+        "Hex-Value":  "2602..2603",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "umbrella..snowman"
+    },
+    {
+        "Hex-Value":  "2604",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "comet"
+    },
+    {
+        "Hex-Value":  "260E",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "telephone"
+    },
+    {
+        "Hex-Value":  "2611",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "check box with check"
+    },
+    {
+        "Hex-Value":  "2614..2615",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "umbrella with rain drops..hot beverage"
+    },
+    {
+        "Hex-Value":  "2618",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "shamrock"
+    },
+    {
+        "Hex-Value":  "261D",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "index pointing up"
+    },
+    {
+        "Hex-Value":  "2620",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "skull and crossbones"
+    },
+    {
+        "Hex-Value":  "2622..2623",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "radioactive..biohazard"
+    },
+    {
+        "Hex-Value":  "2626",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "orthodox cross"
+    },
+    {
+        "Hex-Value":  "262A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "star and crescent"
+    },
+    {
+        "Hex-Value":  "262E",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "peace symbol"
+    },
+    {
+        "Hex-Value":  "262F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "yin yang"
+    },
+    {
+        "Hex-Value":  "2638..2639",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "wheel of dharma..frowning face"
+    },
+    {
+        "Hex-Value":  "263A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "smiling face"
+    },
+    {
+        "Hex-Value":  "2640",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "female sign"
+    },
+    {
+        "Hex-Value":  "2642",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "male sign"
+    },
+    {
+        "Hex-Value":  "2648..2653",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "Aries..Pisces"
+    },
+    {
+        "Hex-Value":  "265F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "chess pawn"
+    },
+    {
+        "Hex-Value":  "2660",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "spade suit"
+    },
+    {
+        "Hex-Value":  "2663",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "club suit"
+    },
+    {
+        "Hex-Value":  "2665..2666",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "heart suit..diamond suit"
+    },
+    {
+        "Hex-Value":  "2668",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "hot springs"
+    },
+    {
+        "Hex-Value":  "267B",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "recycling symbol"
+    },
+    {
+        "Hex-Value":  "267E",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "infinity"
+    },
+    {
+        "Hex-Value":  "267F",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "wheelchair symbol"
+    },
+    {
+        "Hex-Value":  "2692",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "hammer and pick"
+    },
+    {
+        "Hex-Value":  "2693",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "anchor"
+    },
+    {
+        "Hex-Value":  "2694",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "crossed swords"
+    },
+    {
+        "Hex-Value":  "2695",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "medical symbol"
+    },
+    {
+        "Hex-Value":  "2696..2697",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "balance scale..alembic"
+    },
+    {
+        "Hex-Value":  "2699",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "gear"
+    },
+    {
+        "Hex-Value":  "269B..269C",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "atom symbol..fleur-de-lis"
+    },
+    {
+        "Hex-Value":  "26A0..26A1",
+        "Type":  "Emoji",
+        "Sign":  "??..?",
+        "Name":  "warning..high voltage"
+    },
+    {
+        "Hex-Value":  "26A7",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "transgender symbol"
+    },
+    {
+        "Hex-Value":  "26AA..26AB",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "white circle..black circle"
+    },
+    {
+        "Hex-Value":  "26B0..26B1",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "coffin..funeral urn"
+    },
+    {
+        "Hex-Value":  "26BD..26BE",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "soccer ball..baseball"
+    },
+    {
+        "Hex-Value":  "26C4..26C5",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "snowman without snow..sun behind cloud"
+    },
+    {
+        "Hex-Value":  "26C8",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "cloud with lightning and rain"
+    },
+    {
+        "Hex-Value":  "26CE",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "Ophiuchus"
+    },
+    {
+        "Hex-Value":  "26CF",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pick"
+    },
+    {
+        "Hex-Value":  "26D1",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "rescue worker?s helmet"
+    },
+    {
+        "Hex-Value":  "26D3",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "chains"
+    },
+    {
+        "Hex-Value":  "26D4",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "no entry"
+    },
+    {
+        "Hex-Value":  "26E9",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "shinto shrine"
+    },
+    {
+        "Hex-Value":  "26EA",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "church"
+    },
+    {
+        "Hex-Value":  "26F0..26F1",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "mountain..umbrella on ground"
+    },
+    {
+        "Hex-Value":  "26F2..26F3",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "fountain..flag in hole"
+    },
+    {
+        "Hex-Value":  "26F4",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "ferry"
+    },
+    {
+        "Hex-Value":  "26F5",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "sailboat"
+    },
+    {
+        "Hex-Value":  "26F7..26F9",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "skier..person bouncing ball"
+    },
+    {
+        "Hex-Value":  "26FA",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "tent"
+    },
+    {
+        "Hex-Value":  "26FD",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "fuel pump"
+    },
+    {
+        "Hex-Value":  "2702",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "scissors"
+    },
+    {
+        "Hex-Value":  "2705",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "check mark button"
+    },
+    {
+        "Hex-Value":  "2708..270C",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "airplane..victory hand"
+    },
+    {
+        "Hex-Value":  "270D",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "writing hand"
+    },
+    {
+        "Hex-Value":  "270F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pencil"
+    },
+    {
+        "Hex-Value":  "2712",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "black nib"
+    },
+    {
+        "Hex-Value":  "2714",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "check mark"
+    },
+    {
+        "Hex-Value":  "2716",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "multiply"
+    },
+    {
+        "Hex-Value":  "271D",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "latin cross"
+    },
+    {
+        "Hex-Value":  "2721",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "star of David"
+    },
+    {
+        "Hex-Value":  "2728",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "sparkles"
+    },
+    {
+        "Hex-Value":  "2733..2734",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "eight-spoked asterisk..eight-pointed star"
+    },
+    {
+        "Hex-Value":  "2744",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "snowflake"
+    },
+    {
+        "Hex-Value":  "2747",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "sparkle"
+    },
+    {
+        "Hex-Value":  "274C",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "cross mark"
+    },
+    {
+        "Hex-Value":  "274E",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "cross mark button"
+    },
+    {
+        "Hex-Value":  "2753..2755",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "question mark..white exclamation mark"
+    },
+    {
+        "Hex-Value":  "2757",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "exclamation mark"
+    },
+    {
+        "Hex-Value":  "2763",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "heart exclamation"
+    },
+    {
+        "Hex-Value":  "2764",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "red heart"
+    },
+    {
+        "Hex-Value":  "2795..2797",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "plus..divide"
+    },
+    {
+        "Hex-Value":  "27A1",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "right arrow"
+    },
+    {
+        "Hex-Value":  "27B0",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "curly loop"
+    },
+    {
+        "Hex-Value":  "27BF",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "double curly loop"
+    },
+    {
+        "Hex-Value":  "2934..2935",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "right arrow curving up..right arrow curving down"
+    },
+    {
+        "Hex-Value":  "2B05..2B07",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "left arrow..down arrow"
+    },
+    {
+        "Hex-Value":  "2B1B..2B1C",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "black large square..white large square"
+    },
+    {
+        "Hex-Value":  "2B50",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "star"
+    },
+    {
+        "Hex-Value":  "2B55",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "hollow red circle"
+    },
+    {
+        "Hex-Value":  "3030",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "wavy dash"
+    },
+    {
+        "Hex-Value":  "303D",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "part alternation mark"
+    },
+    {
+        "Hex-Value":  "3297",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "Japanese ?congratulations? button"
+    },
+    {
+        "Hex-Value":  "3299",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "Japanese ?secret? button"
+    },
+    {
+        "Hex-Value":  "1F004",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "mahjong red dragon"
+    },
+    {
+        "Hex-Value":  "1F0CF",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "joker"
+    },
+    {
+        "Hex-Value":  "1F170..1F171",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "A button (blood type)..B button (blood type)"
+    },
+    {
+        "Hex-Value":  "1F17E..1F17F",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "O button (blood type)..P button"
+    },
+    {
+        "Hex-Value":  "1F18E",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "AB button (blood type)"
+    },
+    {
+        "Hex-Value":  "1F191..1F19A",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "CL button..VS button"
+    },
+    {
+        "Hex-Value":  "1F1E6..1F1FF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "regional indicator symbol letter a..regional indicator symbol letter z"
+    },
+    {
+        "Hex-Value":  "1F201..1F202",
+        "Type":  "Emoji",
+        "Sign":  "??..???",
+        "Name":  "Japanese ?here? button..Japanese ?service charge? button"
+    },
+    {
+        "Hex-Value":  "1F21A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "Japanese ?free of charge? button"
+    },
+    {
+        "Hex-Value":  "1F22F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "Japanese ?reserved? button"
+    },
+    {
+        "Hex-Value":  "1F232..1F23A",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "Japanese ?prohibited? button..Japanese ?open for business? button"
+    },
+    {
+        "Hex-Value":  "1F250..1F251",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "Japanese ?bargain? button..Japanese ?acceptable? button"
+    },
+    {
+        "Hex-Value":  "1F300..1F30C",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "cyclone..milky way"
+    },
+    {
+        "Hex-Value":  "1F30D..1F30E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "globe showing Europe-Africa..globe showing Americas"
+    },
+    {
+        "Hex-Value":  "1F30F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "globe showing Asia-Australia"
+    },
+    {
+        "Hex-Value":  "1F310",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "globe with meridians"
+    },
+    {
+        "Hex-Value":  "1F311",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "new moon"
+    },
+    {
+        "Hex-Value":  "1F312",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "waxing crescent moon"
+    },
+    {
+        "Hex-Value":  "1F313..1F315",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "first quarter moon..full moon"
+    },
+    {
+        "Hex-Value":  "1F316..1F318",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "waning gibbous moon..waning crescent moon"
+    },
+    {
+        "Hex-Value":  "1F319",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "crescent moon"
+    },
+    {
+        "Hex-Value":  "1F31A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "new moon face"
+    },
+    {
+        "Hex-Value":  "1F31B",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "first quarter moon face"
+    },
+    {
+        "Hex-Value":  "1F31C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "last quarter moon face"
+    },
+    {
+        "Hex-Value":  "1F31D..1F31E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "full moon face..sun with face"
+    },
+    {
+        "Hex-Value":  "1F31F..1F320",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "glowing star..shooting star"
+    },
+    {
+        "Hex-Value":  "1F321",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "thermometer"
+    },
+    {
+        "Hex-Value":  "1F324..1F32C",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "sun behind small cloud..wind face"
+    },
+    {
+        "Hex-Value":  "1F32D..1F32F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "hot dog..burrito"
+    },
+    {
+        "Hex-Value":  "1F330..1F331",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "chestnut..seedling"
+    },
+    {
+        "Hex-Value":  "1F332..1F333",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "evergreen tree..deciduous tree"
+    },
+    {
+        "Hex-Value":  "1F334..1F335",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "palm tree..cactus"
+    },
+    {
+        "Hex-Value":  "1F336",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "hot pepper"
+    },
+    {
+        "Hex-Value":  "1F337..1F34A",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "tulip..tangerine"
+    },
+    {
+        "Hex-Value":  "1F34B",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "lemon"
+    },
+    {
+        "Hex-Value":  "1F34C..1F34F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "banana..green apple"
+    },
+    {
+        "Hex-Value":  "1F350",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pear"
+    },
+    {
+        "Hex-Value":  "1F351..1F37B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "peach..clinking beer mugs"
+    },
+    {
+        "Hex-Value":  "1F37C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "baby bottle"
+    },
+    {
+        "Hex-Value":  "1F37D",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "fork and knife with plate"
+    },
+    {
+        "Hex-Value":  "1F37E..1F37F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "bottle with popping cork..popcorn"
+    },
+    {
+        "Hex-Value":  "1F380..1F393",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ribbon..graduation cap"
+    },
+    {
+        "Hex-Value":  "1F396..1F397",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "military medal..reminder ribbon"
+    },
+    {
+        "Hex-Value":  "1F399..1F39B",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "studio microphone..control knobs"
+    },
+    {
+        "Hex-Value":  "1F39E..1F39F",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "film frames..admission tickets"
+    },
+    {
+        "Hex-Value":  "1F3A0..1F3C4",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "carousel horse..person surfing"
+    },
+    {
+        "Hex-Value":  "1F3C5",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "sports medal"
+    },
+    {
+        "Hex-Value":  "1F3C6",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "trophy"
+    },
+    {
+        "Hex-Value":  "1F3C7",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "horse racing"
+    },
+    {
+        "Hex-Value":  "1F3C8",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "american football"
+    },
+    {
+        "Hex-Value":  "1F3C9",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "rugby football"
+    },
+    {
+        "Hex-Value":  "1F3CA",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person swimming"
+    },
+    {
+        "Hex-Value":  "1F3CB..1F3CE",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "person lifting weights..racing car"
+    },
+    {
+        "Hex-Value":  "1F3CF..1F3D3",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "cricket game..ping pong"
+    },
+    {
+        "Hex-Value":  "1F3D4..1F3DF",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "snow-capped mountain..stadium"
+    },
+    {
+        "Hex-Value":  "1F3E0..1F3E3",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "house..Japanese post office"
+    },
+    {
+        "Hex-Value":  "1F3E4",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "post office"
+    },
+    {
+        "Hex-Value":  "1F3E5..1F3F0",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "hospital..castle"
+    },
+    {
+        "Hex-Value":  "1F3F3",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "white flag"
+    },
+    {
+        "Hex-Value":  "1F3F4",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "black flag"
+    },
+    {
+        "Hex-Value":  "1F3F5",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "rosette"
+    },
+    {
+        "Hex-Value":  "1F3F7",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "label"
+    },
+    {
+        "Hex-Value":  "1F3F8..1F407",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "badminton..rabbit"
+    },
+    {
+        "Hex-Value":  "1F408",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "cat"
+    },
+    {
+        "Hex-Value":  "1F409..1F40B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "dragon..whale"
+    },
+    {
+        "Hex-Value":  "1F40C..1F40E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "snail..horse"
+    },
+    {
+        "Hex-Value":  "1F40F..1F410",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ram..goat"
+    },
+    {
+        "Hex-Value":  "1F411..1F412",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ewe..monkey"
+    },
+    {
+        "Hex-Value":  "1F413",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "rooster"
+    },
+    {
+        "Hex-Value":  "1F414",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "chicken"
+    },
+    {
+        "Hex-Value":  "1F415",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "dog"
+    },
+    {
+        "Hex-Value":  "1F416",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pig"
+    },
+    {
+        "Hex-Value":  "1F417..1F429",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "boar..poodle"
+    },
+    {
+        "Hex-Value":  "1F42A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "camel"
+    },
+    {
+        "Hex-Value":  "1F42B..1F43E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "two-hump camel..paw prints"
+    },
+    {
+        "Hex-Value":  "1F43F",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "chipmunk"
+    },
+    {
+        "Hex-Value":  "1F440",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "eyes"
+    },
+    {
+        "Hex-Value":  "1F441",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "eye"
+    },
+    {
+        "Hex-Value":  "1F442..1F464",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ear..bust in silhouette"
+    },
+    {
+        "Hex-Value":  "1F465",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "busts in silhouette"
+    },
+    {
+        "Hex-Value":  "1F466..1F46B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "boy..woman and man holding hands"
+    },
+    {
+        "Hex-Value":  "1F46C..1F46D",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "men holding hands..women holding hands"
+    },
+    {
+        "Hex-Value":  "1F46E..1F4AC",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "police officer..speech balloon"
+    },
+    {
+        "Hex-Value":  "1F4AD",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "thought balloon"
+    },
+    {
+        "Hex-Value":  "1F4AE..1F4B5",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "white flower..dollar banknote"
+    },
+    {
+        "Hex-Value":  "1F4B6..1F4B7",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "euro banknote..pound banknote"
+    },
+    {
+        "Hex-Value":  "1F4B8..1F4EB",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "money with wings..closed mailbox with raised flag"
+    },
+    {
+        "Hex-Value":  "1F4EC..1F4ED",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "open mailbox with raised flag..open mailbox with lowered flag"
+    },
+    {
+        "Hex-Value":  "1F4EE",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "postbox"
+    },
+    {
+        "Hex-Value":  "1F4EF",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "postal horn"
+    },
+    {
+        "Hex-Value":  "1F4F0..1F4F4",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "newspaper..mobile phone off"
+    },
+    {
+        "Hex-Value":  "1F4F5",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "no mobile phones"
+    },
+    {
+        "Hex-Value":  "1F4F6..1F4F7",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "antenna bars..camera"
+    },
+    {
+        "Hex-Value":  "1F4F8",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "camera with flash"
+    },
+    {
+        "Hex-Value":  "1F4F9..1F4FC",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "video camera..videocassette"
+    },
+    {
+        "Hex-Value":  "1F4FD",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "film projector"
+    },
+    {
+        "Hex-Value":  "1F4FF..1F502",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "prayer beads..repeat single button"
+    },
+    {
+        "Hex-Value":  "1F503",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "clockwise vertical arrows"
+    },
+    {
+        "Hex-Value":  "1F504..1F507",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "counterclockwise arrows button..muted speaker"
+    },
+    {
+        "Hex-Value":  "1F508",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "speaker low volume"
+    },
+    {
+        "Hex-Value":  "1F509",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "speaker medium volume"
+    },
+    {
+        "Hex-Value":  "1F50A..1F514",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "speaker high volume..bell"
+    },
+    {
+        "Hex-Value":  "1F515",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "bell with slash"
+    },
+    {
+        "Hex-Value":  "1F516..1F52B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "bookmark..pistol"
+    },
+    {
+        "Hex-Value":  "1F52C..1F52D",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "microscope..telescope"
+    },
+    {
+        "Hex-Value":  "1F52E..1F53D",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "crystal ball..downwards button"
+    },
+    {
+        "Hex-Value":  "1F549..1F54A",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "om..dove"
+    },
+    {
+        "Hex-Value":  "1F54B..1F54E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "kaaba..menorah"
+    },
+    {
+        "Hex-Value":  "1F550..1F55B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "one o?clock..twelve o?clock"
+    },
+    {
+        "Hex-Value":  "1F55C..1F567",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "one-thirty..twelve-thirty"
+    },
+    {
+        "Hex-Value":  "1F56F..1F570",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "candle..mantelpiece clock"
+    },
+    {
+        "Hex-Value":  "1F573..1F579",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "hole..joystick"
+    },
+    {
+        "Hex-Value":  "1F57A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "man dancing"
+    },
+    {
+        "Hex-Value":  "1F587",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "linked paperclips"
+    },
+    {
+        "Hex-Value":  "1F58A..1F58D",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "pen..crayon"
+    },
+    {
+        "Hex-Value":  "1F590",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "hand with fingers splayed"
+    },
+    {
+        "Hex-Value":  "1F595..1F596",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "middle finger..vulcan salute"
+    },
+    {
+        "Hex-Value":  "1F5A4",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "black heart"
+    },
+    {
+        "Hex-Value":  "1F5A5",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "desktop computer"
+    },
+    {
+        "Hex-Value":  "1F5A8",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "printer"
+    },
+    {
+        "Hex-Value":  "1F5B1..1F5B2",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "computer mouse..trackball"
+    },
+    {
+        "Hex-Value":  "1F5BC",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "framed picture"
+    },
+    {
+        "Hex-Value":  "1F5C2..1F5C4",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "card index dividers..file cabinet"
+    },
+    {
+        "Hex-Value":  "1F5D1..1F5D3",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "wastebasket..spiral calendar"
+    },
+    {
+        "Hex-Value":  "1F5DC..1F5DE",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "clamp..rolled-up newspaper"
+    },
+    {
+        "Hex-Value":  "1F5E1",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "dagger"
+    },
+    {
+        "Hex-Value":  "1F5E3",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "speaking head"
+    },
+    {
+        "Hex-Value":  "1F5E8",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "left speech bubble"
+    },
+    {
+        "Hex-Value":  "1F5EF",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "right anger bubble"
+    },
+    {
+        "Hex-Value":  "1F5F3",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "ballot box with ballot"
+    },
+    {
+        "Hex-Value":  "1F5FA",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "world map"
+    },
+    {
+        "Hex-Value":  "1F5FB..1F5FF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "mount fuji..moai"
+    },
+    {
+        "Hex-Value":  "1F600",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "grinning face"
+    },
+    {
+        "Hex-Value":  "1F601..1F606",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "beaming face with smiling eyes..grinning squinting face"
+    },
+    {
+        "Hex-Value":  "1F607..1F608",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "smiling face with halo..smiling face with horns"
+    },
+    {
+        "Hex-Value":  "1F609..1F60D",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "winking face..smiling face with heart-eyes"
+    },
+    {
+        "Hex-Value":  "1F60E",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "smiling face with sunglasses"
+    },
+    {
+        "Hex-Value":  "1F60F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "smirking face"
+    },
+    {
+        "Hex-Value":  "1F610",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "neutral face"
+    },
+    {
+        "Hex-Value":  "1F611",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "expressionless face"
+    },
+    {
+        "Hex-Value":  "1F612..1F614",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "unamused face..pensive face"
+    },
+    {
+        "Hex-Value":  "1F615",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "confused face"
+    },
+    {
+        "Hex-Value":  "1F616",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "confounded face"
+    },
+    {
+        "Hex-Value":  "1F617",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "kissing face"
+    },
+    {
+        "Hex-Value":  "1F618",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "face blowing a kiss"
+    },
+    {
+        "Hex-Value":  "1F619",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "kissing face with smiling eyes"
+    },
+    {
+        "Hex-Value":  "1F61A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "kissing face with closed eyes"
+    },
+    {
+        "Hex-Value":  "1F61B",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "face with tongue"
+    },
+    {
+        "Hex-Value":  "1F61C..1F61E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "winking face with tongue..disappointed face"
+    },
+    {
+        "Hex-Value":  "1F61F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "worried face"
+    },
+    {
+        "Hex-Value":  "1F620..1F625",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "angry face..sad but relieved face"
+    },
+    {
+        "Hex-Value":  "1F626..1F627",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "frowning face with open mouth..anguished face"
+    },
+    {
+        "Hex-Value":  "1F628..1F62B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "fearful face..tired face"
+    },
+    {
+        "Hex-Value":  "1F62C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "grimacing face"
+    },
+    {
+        "Hex-Value":  "1F62D",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "loudly crying face"
+    },
+    {
+        "Hex-Value":  "1F62E..1F62F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "face with open mouth..hushed face"
+    },
+    {
+        "Hex-Value":  "1F630..1F633",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "anxious face with sweat..flushed face"
+    },
+    {
+        "Hex-Value":  "1F634",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "sleeping face"
+    },
+    {
+        "Hex-Value":  "1F635",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "dizzy face"
+    },
+    {
+        "Hex-Value":  "1F636",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "face without mouth"
+    },
+    {
+        "Hex-Value":  "1F637..1F640",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "face with medical mask..weary cat"
+    },
+    {
+        "Hex-Value":  "1F641..1F644",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "slightly frowning face..face with rolling eyes"
+    },
+    {
+        "Hex-Value":  "1F645..1F64F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "person gesturing NO..folded hands"
+    },
+    {
+        "Hex-Value":  "1F680",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "rocket"
+    },
+    {
+        "Hex-Value":  "1F681..1F682",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "helicopter..locomotive"
+    },
+    {
+        "Hex-Value":  "1F683..1F685",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "railway car..bullet train"
+    },
+    {
+        "Hex-Value":  "1F686",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "train"
+    },
+    {
+        "Hex-Value":  "1F687",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "metro"
+    },
+    {
+        "Hex-Value":  "1F688",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "light rail"
+    },
+    {
+        "Hex-Value":  "1F689",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "station"
+    },
+    {
+        "Hex-Value":  "1F68A..1F68B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "tram..tram car"
+    },
+    {
+        "Hex-Value":  "1F68C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "bus"
+    },
+    {
+        "Hex-Value":  "1F68D",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "oncoming bus"
+    },
+    {
+        "Hex-Value":  "1F68E",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "trolleybus"
+    },
+    {
+        "Hex-Value":  "1F68F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "bus stop"
+    },
+    {
+        "Hex-Value":  "1F690",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "minibus"
+    },
+    {
+        "Hex-Value":  "1F691..1F693",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ambulance..police car"
+    },
+    {
+        "Hex-Value":  "1F694",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "oncoming police car"
+    },
+    {
+        "Hex-Value":  "1F695",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "taxi"
+    },
+    {
+        "Hex-Value":  "1F696",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "oncoming taxi"
+    },
+    {
+        "Hex-Value":  "1F697",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "automobile"
+    },
+    {
+        "Hex-Value":  "1F698",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "oncoming automobile"
+    },
+    {
+        "Hex-Value":  "1F699..1F69A",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "sport utility vehicle..delivery truck"
+    },
+    {
+        "Hex-Value":  "1F69B..1F6A1",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "articulated lorry..aerial tramway"
+    },
+    {
+        "Hex-Value":  "1F6A2",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "ship"
+    },
+    {
+        "Hex-Value":  "1F6A3",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person rowing boat"
+    },
+    {
+        "Hex-Value":  "1F6A4..1F6A5",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "speedboat..horizontal traffic light"
+    },
+    {
+        "Hex-Value":  "1F6A6",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "vertical traffic light"
+    },
+    {
+        "Hex-Value":  "1F6A7..1F6AD",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "construction..no smoking"
+    },
+    {
+        "Hex-Value":  "1F6AE..1F6B1",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "litter in bin sign..non-potable water"
+    },
+    {
+        "Hex-Value":  "1F6B2",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "bicycle"
+    },
+    {
+        "Hex-Value":  "1F6B3..1F6B5",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "no bicycles..person mountain biking"
+    },
+    {
+        "Hex-Value":  "1F6B6",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person walking"
+    },
+    {
+        "Hex-Value":  "1F6B7..1F6B8",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "no pedestrians..children crossing"
+    },
+    {
+        "Hex-Value":  "1F6B9..1F6BE",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "men?s room..water closet"
+    },
+    {
+        "Hex-Value":  "1F6BF",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "shower"
+    },
+    {
+        "Hex-Value":  "1F6C0",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person taking bath"
+    },
+    {
+        "Hex-Value":  "1F6C1..1F6C5",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "bathtub..left luggage"
+    },
+    {
+        "Hex-Value":  "1F6CB",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "couch and lamp"
+    },
+    {
+        "Hex-Value":  "1F6CC",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person in bed"
+    },
+    {
+        "Hex-Value":  "1F6CD..1F6CF",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "shopping bags..bed"
+    },
+    {
+        "Hex-Value":  "1F6D0",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "place of worship"
+    },
+    {
+        "Hex-Value":  "1F6D1..1F6D2",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "stop sign..shopping cart"
+    },
+    {
+        "Hex-Value":  "1F6D5",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "hindu temple"
+    },
+    {
+        "Hex-Value":  "1F6D6..1F6D7",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "hut..elevator"
+    },
+    {
+        "Hex-Value":  "1F6E0..1F6E5",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "hammer and wrench..motor boat"
+    },
+    {
+        "Hex-Value":  "1F6E9",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "small airplane"
+    },
+    {
+        "Hex-Value":  "1F6EB..1F6EC",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "airplane departure..airplane arrival"
+    },
+    {
+        "Hex-Value":  "1F6F0",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "satellite"
+    },
+    {
+        "Hex-Value":  "1F6F3",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "passenger ship"
+    },
+    {
+        "Hex-Value":  "1F6F4..1F6F6",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "kick scooter..canoe"
+    },
+    {
+        "Hex-Value":  "1F6F7..1F6F8",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "sled..flying saucer"
+    },
+    {
+        "Hex-Value":  "1F6F9",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "skateboard"
+    },
+    {
+        "Hex-Value":  "1F6FA",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "auto rickshaw"
+    },
+    {
+        "Hex-Value":  "1F6FB..1F6FC",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "pickup truck..roller skate"
+    },
+    {
+        "Hex-Value":  "1F7E0..1F7EB",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "orange circle..brown square"
+    },
+    {
+        "Hex-Value":  "1F90C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pinched fingers"
+    },
+    {
+        "Hex-Value":  "1F90D..1F90F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "white heart..pinching hand"
+    },
+    {
+        "Hex-Value":  "1F910..1F918",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "zipper-mouth face..sign of the horns"
+    },
+    {
+        "Hex-Value":  "1F919..1F91E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "call me hand..crossed fingers"
+    },
+    {
+        "Hex-Value":  "1F91F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "love-you gesture"
+    },
+    {
+        "Hex-Value":  "1F920..1F927",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "cowboy hat face..sneezing face"
+    },
+    {
+        "Hex-Value":  "1F928..1F92F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "face with raised eyebrow..exploding head"
+    },
+    {
+        "Hex-Value":  "1F930",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pregnant woman"
+    },
+    {
+        "Hex-Value":  "1F931..1F932",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "breast-feeding..palms up together"
+    },
+    {
+        "Hex-Value":  "1F933..1F93A",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "selfie..person fencing"
+    },
+    {
+        "Hex-Value":  "1F93C..1F93E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "people wrestling..person playing handball"
+    },
+    {
+        "Hex-Value":  "1F93F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "diving mask"
+    },
+    {
+        "Hex-Value":  "1F940..1F945",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "wilted flower..goal net"
+    },
+    {
+        "Hex-Value":  "1F947..1F94B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "1st place medal..martial arts uniform"
+    },
+    {
+        "Hex-Value":  "1F94C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "curling stone"
+    },
+    {
+        "Hex-Value":  "1F94D..1F94F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "lacrosse..flying disc"
+    },
+    {
+        "Hex-Value":  "1F950..1F95E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "croissant..pancakes"
+    },
+    {
+        "Hex-Value":  "1F95F..1F96B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "dumpling..canned food"
+    },
+    {
+        "Hex-Value":  "1F96C..1F970",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "leafy green..smiling face with hearts"
+    },
+    {
+        "Hex-Value":  "1F971",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "yawning face"
+    },
+    {
+        "Hex-Value":  "1F972",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "smiling face with tear"
+    },
+    {
+        "Hex-Value":  "1F973..1F976",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "partying face..cold face"
+    },
+    {
+        "Hex-Value":  "1F977..1F978",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ninja..disguised face"
+    },
+    {
+        "Hex-Value":  "1F97A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pleading face"
+    },
+    {
+        "Hex-Value":  "1F97B",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "sari"
+    },
+    {
+        "Hex-Value":  "1F97C..1F97F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "lab coat..flat shoe"
+    },
+    {
+        "Hex-Value":  "1F980..1F984",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "crab..unicorn"
+    },
+    {
+        "Hex-Value":  "1F985..1F991",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "eagle..squid"
+    },
+    {
+        "Hex-Value":  "1F992..1F997",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "giraffe..cricket"
+    },
+    {
+        "Hex-Value":  "1F998..1F9A2",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "kangaroo..swan"
+    },
+    {
+        "Hex-Value":  "1F9A3..1F9A4",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "mammoth..dodo"
+    },
+    {
+        "Hex-Value":  "1F9A5..1F9AA",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "sloth..oyster"
+    },
+    {
+        "Hex-Value":  "1F9AB..1F9AD",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "beaver..seal"
+    },
+    {
+        "Hex-Value":  "1F9AE..1F9AF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "guide dog..white cane"
+    },
+    {
+        "Hex-Value":  "1F9B0..1F9B9",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "red hair..supervillain"
+    },
+    {
+        "Hex-Value":  "1F9BA..1F9BF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "safety vest..mechanical leg"
+    },
+    {
+        "Hex-Value":  "1F9C0",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "cheese wedge"
+    },
+    {
+        "Hex-Value":  "1F9C1..1F9C2",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "cupcake..salt"
+    },
+    {
+        "Hex-Value":  "1F9C3..1F9CA",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "beverage box..ice"
+    },
+    {
+        "Hex-Value":  "1F9CB",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "bubble tea"
+    },
+    {
+        "Hex-Value":  "1F9CD..1F9CF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "person standing..deaf person"
+    },
+    {
+        "Hex-Value":  "1F9D0..1F9E6",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "face with monocle..socks"
+    },
+    {
+        "Hex-Value":  "1F9E7..1F9FF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "red envelope..nazar amulet"
+    },
+    {
+        "Hex-Value":  "1FA70..1FA73",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ballet shoes..shorts"
+    },
+    {
+        "Hex-Value":  "1FA74",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "thong sandal"
+    },
+    {
+        "Hex-Value":  "1FA78..1FA7A",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "drop of blood..stethoscope"
+    },
+    {
+        "Hex-Value":  "1FA80..1FA82",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "yo-yo..parachute"
+    },
+    {
+        "Hex-Value":  "1FA83..1FA86",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "boomerang..nesting dolls"
+    },
+    {
+        "Hex-Value":  "1FA90..1FA95",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ringed planet..banjo"
+    },
+    {
+        "Hex-Value":  "1FA96..1FAA8",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "military helmet..rock"
+    },
+    {
+        "Hex-Value":  "1FAB0..1FAB6",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "fly..feather"
+    },
+    {
+        "Hex-Value":  "1FAC0..1FAC2",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "anatomical heart..people hugging"
+    },
+    {
+        "Hex-Value":  "1FAD0..1FAD6",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "blueberries..teapot"
+    },
+    {
+        "Hex-Value":  "231A..231B",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "watch..hourglass done"
+    },
+    {
+        "Hex-Value":  "23E9..23EC",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "fast-forward button..fast down button"
+    },
+    {
+        "Hex-Value":  "23F0",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "alarm clock"
+    },
+    {
+        "Hex-Value":  "23F3",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "hourglass not done"
+    },
+    {
+        "Hex-Value":  "25FD..25FE",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "white medium-small square..black medium-small square"
+    },
+    {
+        "Hex-Value":  "2614..2615",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "umbrella with rain drops..hot beverage"
+    },
+    {
+        "Hex-Value":  "2648..2653",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "Aries..Pisces"
+    },
+    {
+        "Hex-Value":  "267F",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "wheelchair symbol"
+    },
+    {
+        "Hex-Value":  "2693",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "anchor"
+    },
+    {
+        "Hex-Value":  "26A1",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "high voltage"
+    },
+    {
+        "Hex-Value":  "26AA..26AB",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "white circle..black circle"
+    },
+    {
+        "Hex-Value":  "26BD..26BE",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "soccer ball..baseball"
+    },
+    {
+        "Hex-Value":  "26C4..26C5",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "snowman without snow..sun behind cloud"
+    },
+    {
+        "Hex-Value":  "26CE",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "Ophiuchus"
+    },
+    {
+        "Hex-Value":  "26D4",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "no entry"
+    },
+    {
+        "Hex-Value":  "26EA",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "church"
+    },
+    {
+        "Hex-Value":  "26F2..26F3",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "fountain..flag in hole"
+    },
+    {
+        "Hex-Value":  "26F5",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "sailboat"
+    },
+    {
+        "Hex-Value":  "26FA",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "tent"
+    },
+    {
+        "Hex-Value":  "26FD",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "fuel pump"
+    },
+    {
+        "Hex-Value":  "2705",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "check mark button"
+    },
+    {
+        "Hex-Value":  "270A..270B",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "raised fist..raised hand"
+    },
+    {
+        "Hex-Value":  "2728",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "sparkles"
+    },
+    {
+        "Hex-Value":  "274C",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "cross mark"
+    },
+    {
+        "Hex-Value":  "274E",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "cross mark button"
+    },
+    {
+        "Hex-Value":  "2753..2755",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "question mark..white exclamation mark"
+    },
+    {
+        "Hex-Value":  "2757",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "exclamation mark"
+    },
+    {
+        "Hex-Value":  "2795..2797",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "plus..divide"
+    },
+    {
+        "Hex-Value":  "27B0",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "curly loop"
+    },
+    {
+        "Hex-Value":  "27BF",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "double curly loop"
+    },
+    {
+        "Hex-Value":  "2B1B..2B1C",
+        "Type":  "Emoji",
+        "Sign":  "?..?",
+        "Name":  "black large square..white large square"
+    },
+    {
+        "Hex-Value":  "2B50",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "star"
+    },
+    {
+        "Hex-Value":  "2B55",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "hollow red circle"
+    },
+    {
+        "Hex-Value":  "1F004",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "mahjong red dragon"
+    },
+    {
+        "Hex-Value":  "1F0CF",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "joker"
+    },
+    {
+        "Hex-Value":  "1F18E",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "AB button (blood type)"
+    },
+    {
+        "Hex-Value":  "1F191..1F19A",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "CL button..VS button"
+    },
+    {
+        "Hex-Value":  "1F1E6..1F1FF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "regional indicator symbol letter a..regional indicator symbol letter z"
+    },
+    {
+        "Hex-Value":  "1F201",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "Japanese ?here? button"
+    },
+    {
+        "Hex-Value":  "1F21A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "Japanese ?free of charge? button"
+    },
+    {
+        "Hex-Value":  "1F22F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "Japanese ?reserved? button"
+    },
+    {
+        "Hex-Value":  "1F232..1F236",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "Japanese ?prohibited? button..Japanese ?not free of charge? button"
+    },
+    {
+        "Hex-Value":  "1F238..1F23A",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "Japanese ?application? button..Japanese ?open for business? button"
+    },
+    {
+        "Hex-Value":  "1F250..1F251",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "Japanese ?bargain? button..Japanese ?acceptable? button"
+    },
+    {
+        "Hex-Value":  "1F300..1F30C",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "cyclone..milky way"
+    },
+    {
+        "Hex-Value":  "1F30D..1F30E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "globe showing Europe-Africa..globe showing Americas"
+    },
+    {
+        "Hex-Value":  "1F30F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "globe showing Asia-Australia"
+    },
+    {
+        "Hex-Value":  "1F310",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "globe with meridians"
+    },
+    {
+        "Hex-Value":  "1F311",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "new moon"
+    },
+    {
+        "Hex-Value":  "1F312",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "waxing crescent moon"
+    },
+    {
+        "Hex-Value":  "1F313..1F315",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "first quarter moon..full moon"
+    },
+    {
+        "Hex-Value":  "1F316..1F318",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "waning gibbous moon..waning crescent moon"
+    },
+    {
+        "Hex-Value":  "1F319",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "crescent moon"
+    },
+    {
+        "Hex-Value":  "1F31A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "new moon face"
+    },
+    {
+        "Hex-Value":  "1F31B",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "first quarter moon face"
+    },
+    {
+        "Hex-Value":  "1F31C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "last quarter moon face"
+    },
+    {
+        "Hex-Value":  "1F31D..1F31E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "full moon face..sun with face"
+    },
+    {
+        "Hex-Value":  "1F31F..1F320",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "glowing star..shooting star"
+    },
+    {
+        "Hex-Value":  "1F32D..1F32F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "hot dog..burrito"
+    },
+    {
+        "Hex-Value":  "1F330..1F331",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "chestnut..seedling"
+    },
+    {
+        "Hex-Value":  "1F332..1F333",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "evergreen tree..deciduous tree"
+    },
+    {
+        "Hex-Value":  "1F334..1F335",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "palm tree..cactus"
+    },
+    {
+        "Hex-Value":  "1F337..1F34A",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "tulip..tangerine"
+    },
+    {
+        "Hex-Value":  "1F34B",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "lemon"
+    },
+    {
+        "Hex-Value":  "1F34C..1F34F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "banana..green apple"
+    },
+    {
+        "Hex-Value":  "1F350",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pear"
+    },
+    {
+        "Hex-Value":  "1F351..1F37B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "peach..clinking beer mugs"
+    },
+    {
+        "Hex-Value":  "1F37C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "baby bottle"
+    },
+    {
+        "Hex-Value":  "1F37E..1F37F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "bottle with popping cork..popcorn"
+    },
+    {
+        "Hex-Value":  "1F380..1F393",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ribbon..graduation cap"
+    },
+    {
+        "Hex-Value":  "1F3A0..1F3C4",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "carousel horse..person surfing"
+    },
+    {
+        "Hex-Value":  "1F3C5",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "sports medal"
+    },
+    {
+        "Hex-Value":  "1F3C6",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "trophy"
+    },
+    {
+        "Hex-Value":  "1F3C7",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "horse racing"
+    },
+    {
+        "Hex-Value":  "1F3C8",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "american football"
+    },
+    {
+        "Hex-Value":  "1F3C9",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "rugby football"
+    },
+    {
+        "Hex-Value":  "1F3CA",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person swimming"
+    },
+    {
+        "Hex-Value":  "1F3CF..1F3D3",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "cricket game..ping pong"
+    },
+    {
+        "Hex-Value":  "1F3E0..1F3E3",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "house..Japanese post office"
+    },
+    {
+        "Hex-Value":  "1F3E4",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "post office"
+    },
+    {
+        "Hex-Value":  "1F3E5..1F3F0",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "hospital..castle"
+    },
+    {
+        "Hex-Value":  "1F3F4",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "black flag"
+    },
+    {
+        "Hex-Value":  "1F3F8..1F407",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "badminton..rabbit"
+    },
+    {
+        "Hex-Value":  "1F408",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "cat"
+    },
+    {
+        "Hex-Value":  "1F409..1F40B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "dragon..whale"
+    },
+    {
+        "Hex-Value":  "1F40C..1F40E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "snail..horse"
+    },
+    {
+        "Hex-Value":  "1F40F..1F410",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ram..goat"
+    },
+    {
+        "Hex-Value":  "1F411..1F412",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ewe..monkey"
+    },
+    {
+        "Hex-Value":  "1F413",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "rooster"
+    },
+    {
+        "Hex-Value":  "1F414",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "chicken"
+    },
+    {
+        "Hex-Value":  "1F415",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "dog"
+    },
+    {
+        "Hex-Value":  "1F416",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pig"
+    },
+    {
+        "Hex-Value":  "1F417..1F429",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "boar..poodle"
+    },
+    {
+        "Hex-Value":  "1F42A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "camel"
+    },
+    {
+        "Hex-Value":  "1F42B..1F43E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "two-hump camel..paw prints"
+    },
+    {
+        "Hex-Value":  "1F440",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "eyes"
+    },
+    {
+        "Hex-Value":  "1F442..1F464",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ear..bust in silhouette"
+    },
+    {
+        "Hex-Value":  "1F465",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "busts in silhouette"
+    },
+    {
+        "Hex-Value":  "1F466..1F46B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "boy..woman and man holding hands"
+    },
+    {
+        "Hex-Value":  "1F46C..1F46D",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "men holding hands..women holding hands"
+    },
+    {
+        "Hex-Value":  "1F46E..1F4AC",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "police officer..speech balloon"
+    },
+    {
+        "Hex-Value":  "1F4AD",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "thought balloon"
+    },
+    {
+        "Hex-Value":  "1F4AE..1F4B5",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "white flower..dollar banknote"
+    },
+    {
+        "Hex-Value":  "1F4B6..1F4B7",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "euro banknote..pound banknote"
+    },
+    {
+        "Hex-Value":  "1F4B8..1F4EB",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "money with wings..closed mailbox with raised flag"
+    },
+    {
+        "Hex-Value":  "1F4EC..1F4ED",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "open mailbox with raised flag..open mailbox with lowered flag"
+    },
+    {
+        "Hex-Value":  "1F4EE",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "postbox"
+    },
+    {
+        "Hex-Value":  "1F4EF",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "postal horn"
+    },
+    {
+        "Hex-Value":  "1F4F0..1F4F4",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "newspaper..mobile phone off"
+    },
+    {
+        "Hex-Value":  "1F4F5",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "no mobile phones"
+    },
+    {
+        "Hex-Value":  "1F4F6..1F4F7",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "antenna bars..camera"
+    },
+    {
+        "Hex-Value":  "1F4F8",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "camera with flash"
+    },
+    {
+        "Hex-Value":  "1F4F9..1F4FC",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "video camera..videocassette"
+    },
+    {
+        "Hex-Value":  "1F4FF..1F502",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "prayer beads..repeat single button"
+    },
+    {
+        "Hex-Value":  "1F503",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "clockwise vertical arrows"
+    },
+    {
+        "Hex-Value":  "1F504..1F507",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "counterclockwise arrows button..muted speaker"
+    },
+    {
+        "Hex-Value":  "1F508",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "speaker low volume"
+    },
+    {
+        "Hex-Value":  "1F509",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "speaker medium volume"
+    },
+    {
+        "Hex-Value":  "1F50A..1F514",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "speaker high volume..bell"
+    },
+    {
+        "Hex-Value":  "1F515",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "bell with slash"
+    },
+    {
+        "Hex-Value":  "1F516..1F52B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "bookmark..pistol"
+    },
+    {
+        "Hex-Value":  "1F52C..1F52D",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "microscope..telescope"
+    },
+    {
+        "Hex-Value":  "1F52E..1F53D",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "crystal ball..downwards button"
+    },
+    {
+        "Hex-Value":  "1F54B..1F54E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "kaaba..menorah"
+    },
+    {
+        "Hex-Value":  "1F550..1F55B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "one o?clock..twelve o?clock"
+    },
+    {
+        "Hex-Value":  "1F55C..1F567",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "one-thirty..twelve-thirty"
+    },
+    {
+        "Hex-Value":  "1F57A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "man dancing"
+    },
+    {
+        "Hex-Value":  "1F595..1F596",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "middle finger..vulcan salute"
+    },
+    {
+        "Hex-Value":  "1F5A4",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "black heart"
+    },
+    {
+        "Hex-Value":  "1F5FB..1F5FF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "mount fuji..moai"
+    },
+    {
+        "Hex-Value":  "1F600",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "grinning face"
+    },
+    {
+        "Hex-Value":  "1F601..1F606",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "beaming face with smiling eyes..grinning squinting face"
+    },
+    {
+        "Hex-Value":  "1F607..1F608",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "smiling face with halo..smiling face with horns"
+    },
+    {
+        "Hex-Value":  "1F609..1F60D",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "winking face..smiling face with heart-eyes"
+    },
+    {
+        "Hex-Value":  "1F60E",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "smiling face with sunglasses"
+    },
+    {
+        "Hex-Value":  "1F60F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "smirking face"
+    },
+    {
+        "Hex-Value":  "1F610",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "neutral face"
+    },
+    {
+        "Hex-Value":  "1F611",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "expressionless face"
+    },
+    {
+        "Hex-Value":  "1F612..1F614",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "unamused face..pensive face"
+    },
+    {
+        "Hex-Value":  "1F615",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "confused face"
+    },
+    {
+        "Hex-Value":  "1F616",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "confounded face"
+    },
+    {
+        "Hex-Value":  "1F617",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "kissing face"
+    },
+    {
+        "Hex-Value":  "1F618",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "face blowing a kiss"
+    },
+    {
+        "Hex-Value":  "1F619",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "kissing face with smiling eyes"
+    },
+    {
+        "Hex-Value":  "1F61A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "kissing face with closed eyes"
+    },
+    {
+        "Hex-Value":  "1F61B",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "face with tongue"
+    },
+    {
+        "Hex-Value":  "1F61C..1F61E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "winking face with tongue..disappointed face"
+    },
+    {
+        "Hex-Value":  "1F61F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "worried face"
+    },
+    {
+        "Hex-Value":  "1F620..1F625",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "angry face..sad but relieved face"
+    },
+    {
+        "Hex-Value":  "1F626..1F627",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "frowning face with open mouth..anguished face"
+    },
+    {
+        "Hex-Value":  "1F628..1F62B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "fearful face..tired face"
+    },
+    {
+        "Hex-Value":  "1F62C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "grimacing face"
+    },
+    {
+        "Hex-Value":  "1F62D",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "loudly crying face"
+    },
+    {
+        "Hex-Value":  "1F62E..1F62F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "face with open mouth..hushed face"
+    },
+    {
+        "Hex-Value":  "1F630..1F633",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "anxious face with sweat..flushed face"
+    },
+    {
+        "Hex-Value":  "1F634",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "sleeping face"
+    },
+    {
+        "Hex-Value":  "1F635",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "dizzy face"
+    },
+    {
+        "Hex-Value":  "1F636",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "face without mouth"
+    },
+    {
+        "Hex-Value":  "1F637..1F640",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "face with medical mask..weary cat"
+    },
+    {
+        "Hex-Value":  "1F641..1F644",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "slightly frowning face..face with rolling eyes"
+    },
+    {
+        "Hex-Value":  "1F645..1F64F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "person gesturing NO..folded hands"
+    },
+    {
+        "Hex-Value":  "1F680",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "rocket"
+    },
+    {
+        "Hex-Value":  "1F681..1F682",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "helicopter..locomotive"
+    },
+    {
+        "Hex-Value":  "1F683..1F685",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "railway car..bullet train"
+    },
+    {
+        "Hex-Value":  "1F686",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "train"
+    },
+    {
+        "Hex-Value":  "1F687",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "metro"
+    },
+    {
+        "Hex-Value":  "1F688",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "light rail"
+    },
+    {
+        "Hex-Value":  "1F689",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "station"
+    },
+    {
+        "Hex-Value":  "1F68A..1F68B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "tram..tram car"
+    },
+    {
+        "Hex-Value":  "1F68C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "bus"
+    },
+    {
+        "Hex-Value":  "1F68D",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "oncoming bus"
+    },
+    {
+        "Hex-Value":  "1F68E",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "trolleybus"
+    },
+    {
+        "Hex-Value":  "1F68F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "bus stop"
+    },
+    {
+        "Hex-Value":  "1F690",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "minibus"
+    },
+    {
+        "Hex-Value":  "1F691..1F693",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ambulance..police car"
+    },
+    {
+        "Hex-Value":  "1F694",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "oncoming police car"
+    },
+    {
+        "Hex-Value":  "1F695",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "taxi"
+    },
+    {
+        "Hex-Value":  "1F696",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "oncoming taxi"
+    },
+    {
+        "Hex-Value":  "1F697",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "automobile"
+    },
+    {
+        "Hex-Value":  "1F698",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "oncoming automobile"
+    },
+    {
+        "Hex-Value":  "1F699..1F69A",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "sport utility vehicle..delivery truck"
+    },
+    {
+        "Hex-Value":  "1F69B..1F6A1",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "articulated lorry..aerial tramway"
+    },
+    {
+        "Hex-Value":  "1F6A2",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "ship"
+    },
+    {
+        "Hex-Value":  "1F6A3",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person rowing boat"
+    },
+    {
+        "Hex-Value":  "1F6A4..1F6A5",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "speedboat..horizontal traffic light"
+    },
+    {
+        "Hex-Value":  "1F6A6",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "vertical traffic light"
+    },
+    {
+        "Hex-Value":  "1F6A7..1F6AD",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "construction..no smoking"
+    },
+    {
+        "Hex-Value":  "1F6AE..1F6B1",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "litter in bin sign..non-potable water"
+    },
+    {
+        "Hex-Value":  "1F6B2",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "bicycle"
+    },
+    {
+        "Hex-Value":  "1F6B3..1F6B5",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "no bicycles..person mountain biking"
+    },
+    {
+        "Hex-Value":  "1F6B6",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person walking"
+    },
+    {
+        "Hex-Value":  "1F6B7..1F6B8",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "no pedestrians..children crossing"
+    },
+    {
+        "Hex-Value":  "1F6B9..1F6BE",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "men?s room..water closet"
+    },
+    {
+        "Hex-Value":  "1F6BF",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "shower"
+    },
+    {
+        "Hex-Value":  "1F6C0",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person taking bath"
+    },
+    {
+        "Hex-Value":  "1F6C1..1F6C5",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "bathtub..left luggage"
+    },
+    {
+        "Hex-Value":  "1F6CC",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person in bed"
+    },
+    {
+        "Hex-Value":  "1F6D0",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "place of worship"
+    },
+    {
+        "Hex-Value":  "1F6D1..1F6D2",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "stop sign..shopping cart"
+    },
+    {
+        "Hex-Value":  "1F6D5",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "hindu temple"
+    },
+    {
+        "Hex-Value":  "1F6D6..1F6D7",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "hut..elevator"
+    },
+    {
+        "Hex-Value":  "1F6EB..1F6EC",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "airplane departure..airplane arrival"
+    },
+    {
+        "Hex-Value":  "1F6F4..1F6F6",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "kick scooter..canoe"
+    },
+    {
+        "Hex-Value":  "1F6F7..1F6F8",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "sled..flying saucer"
+    },
+    {
+        "Hex-Value":  "1F6F9",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "skateboard"
+    },
+    {
+        "Hex-Value":  "1F6FA",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "auto rickshaw"
+    },
+    {
+        "Hex-Value":  "1F6FB..1F6FC",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "pickup truck..roller skate"
+    },
+    {
+        "Hex-Value":  "1F7E0..1F7EB",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "orange circle..brown square"
+    },
+    {
+        "Hex-Value":  "1F90C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pinched fingers"
+    },
+    {
+        "Hex-Value":  "1F90D..1F90F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "white heart..pinching hand"
+    },
+    {
+        "Hex-Value":  "1F910..1F918",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "zipper-mouth face..sign of the horns"
+    },
+    {
+        "Hex-Value":  "1F919..1F91E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "call me hand..crossed fingers"
+    },
+    {
+        "Hex-Value":  "1F91F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "love-you gesture"
+    },
+    {
+        "Hex-Value":  "1F920..1F927",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "cowboy hat face..sneezing face"
+    },
+    {
+        "Hex-Value":  "1F928..1F92F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "face with raised eyebrow..exploding head"
+    },
+    {
+        "Hex-Value":  "1F930",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pregnant woman"
+    },
+    {
+        "Hex-Value":  "1F931..1F932",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "breast-feeding..palms up together"
+    },
+    {
+        "Hex-Value":  "1F933..1F93A",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "selfie..person fencing"
+    },
+    {
+        "Hex-Value":  "1F93C..1F93E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "people wrestling..person playing handball"
+    },
+    {
+        "Hex-Value":  "1F93F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "diving mask"
+    },
+    {
+        "Hex-Value":  "1F940..1F945",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "wilted flower..goal net"
+    },
+    {
+        "Hex-Value":  "1F947..1F94B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "1st place medal..martial arts uniform"
+    },
+    {
+        "Hex-Value":  "1F94C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "curling stone"
+    },
+    {
+        "Hex-Value":  "1F94D..1F94F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "lacrosse..flying disc"
+    },
+    {
+        "Hex-Value":  "1F950..1F95E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "croissant..pancakes"
+    },
+    {
+        "Hex-Value":  "1F95F..1F96B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "dumpling..canned food"
+    },
+    {
+        "Hex-Value":  "1F96C..1F970",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "leafy green..smiling face with hearts"
+    },
+    {
+        "Hex-Value":  "1F971",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "yawning face"
+    },
+    {
+        "Hex-Value":  "1F972",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "smiling face with tear"
+    },
+    {
+        "Hex-Value":  "1F973..1F976",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "partying face..cold face"
+    },
+    {
+        "Hex-Value":  "1F977..1F978",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ninja..disguised face"
+    },
+    {
+        "Hex-Value":  "1F97A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pleading face"
+    },
+    {
+        "Hex-Value":  "1F97B",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "sari"
+    },
+    {
+        "Hex-Value":  "1F97C..1F97F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "lab coat..flat shoe"
+    },
+    {
+        "Hex-Value":  "1F980..1F984",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "crab..unicorn"
+    },
+    {
+        "Hex-Value":  "1F985..1F991",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "eagle..squid"
+    },
+    {
+        "Hex-Value":  "1F992..1F997",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "giraffe..cricket"
+    },
+    {
+        "Hex-Value":  "1F998..1F9A2",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "kangaroo..swan"
+    },
+    {
+        "Hex-Value":  "1F9A3..1F9A4",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "mammoth..dodo"
+    },
+    {
+        "Hex-Value":  "1F9A5..1F9AA",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "sloth..oyster"
+    },
+    {
+        "Hex-Value":  "1F9AB..1F9AD",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "beaver..seal"
+    },
+    {
+        "Hex-Value":  "1F9AE..1F9AF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "guide dog..white cane"
+    },
+    {
+        "Hex-Value":  "1F9B0..1F9B9",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "red hair..supervillain"
+    },
+    {
+        "Hex-Value":  "1F9BA..1F9BF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "safety vest..mechanical leg"
+    },
+    {
+        "Hex-Value":  "1F9C0",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "cheese wedge"
+    },
+    {
+        "Hex-Value":  "1F9C1..1F9C2",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "cupcake..salt"
+    },
+    {
+        "Hex-Value":  "1F9C3..1F9CA",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "beverage box..ice"
+    },
+    {
+        "Hex-Value":  "1F9CB",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "bubble tea"
+    },
+    {
+        "Hex-Value":  "1F9CD..1F9CF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "person standing..deaf person"
+    },
+    {
+        "Hex-Value":  "1F9D0..1F9E6",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "face with monocle..socks"
+    },
+    {
+        "Hex-Value":  "1F9E7..1F9FF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "red envelope..nazar amulet"
+    },
+    {
+        "Hex-Value":  "1FA70..1FA73",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ballet shoes..shorts"
+    },
+    {
+        "Hex-Value":  "1FA74",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "thong sandal"
+    },
+    {
+        "Hex-Value":  "1FA78..1FA7A",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "drop of blood..stethoscope"
+    },
+    {
+        "Hex-Value":  "1FA80..1FA82",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "yo-yo..parachute"
+    },
+    {
+        "Hex-Value":  "1FA83..1FA86",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "boomerang..nesting dolls"
+    },
+    {
+        "Hex-Value":  "1FA90..1FA95",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ringed planet..banjo"
+    },
+    {
+        "Hex-Value":  "1FA96..1FAA8",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "military helmet..rock"
+    },
+    {
+        "Hex-Value":  "1FAB0..1FAB6",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "fly..feather"
+    },
+    {
+        "Hex-Value":  "1FAC0..1FAC2",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "anatomical heart..people hugging"
+    },
+    {
+        "Hex-Value":  "1FAD0..1FAD6",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "blueberries..teapot"
+    },
+    {
+        "Hex-Value":  "1F3FB..1F3FF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "light skin tone..dark skin tone"
+    },
+    {
+        "Hex-Value":  "261D",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "index pointing up"
+    },
+    {
+        "Hex-Value":  "26F9",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person bouncing ball"
+    },
+    {
+        "Hex-Value":  "270A..270C",
+        "Type":  "Emoji",
+        "Sign":  "?..??",
+        "Name":  "raised fist..victory hand"
+    },
+    {
+        "Hex-Value":  "270D",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "writing hand"
+    },
+    {
+        "Hex-Value":  "1F385",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "Santa Claus"
+    },
+    {
+        "Hex-Value":  "1F3C2..1F3C4",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "snowboarder..person surfing"
+    },
+    {
+        "Hex-Value":  "1F3C7",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "horse racing"
+    },
+    {
+        "Hex-Value":  "1F3CA",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person swimming"
+    },
+    {
+        "Hex-Value":  "1F3CB..1F3CC",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "person lifting weights..person golfing"
+    },
+    {
+        "Hex-Value":  "1F442..1F443",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "ear..nose"
+    },
+    {
+        "Hex-Value":  "1F446..1F450",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "backhand index pointing up..open hands"
+    },
+    {
+        "Hex-Value":  "1F466..1F46B",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "boy..woman and man holding hands"
+    },
+    {
+        "Hex-Value":  "1F46C..1F46D",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "men holding hands..women holding hands"
+    },
+    {
+        "Hex-Value":  "1F46E..1F478",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "police officer..princess"
+    },
+    {
+        "Hex-Value":  "1F47C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "baby angel"
+    },
+    {
+        "Hex-Value":  "1F481..1F483",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "person tipping hand..woman dancing"
+    },
+    {
+        "Hex-Value":  "1F485..1F487",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "nail polish..person getting haircut"
+    },
+    {
+        "Hex-Value":  "1F48F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "kiss"
+    },
+    {
+        "Hex-Value":  "1F491",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "couple with heart"
+    },
+    {
+        "Hex-Value":  "1F4AA",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "flexed biceps"
+    },
+    {
+        "Hex-Value":  "1F574..1F575",
+        "Type":  "Emoji",
+        "Sign":  "???..???",
+        "Name":  "person in suit levitating..detective"
+    },
+    {
+        "Hex-Value":  "1F57A",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "man dancing"
+    },
+    {
+        "Hex-Value":  "1F590",
+        "Type":  "Emoji",
+        "Sign":  "???",
+        "Name":  "hand with fingers splayed"
+    },
+    {
+        "Hex-Value":  "1F595..1F596",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "middle finger..vulcan salute"
+    },
+    {
+        "Hex-Value":  "1F645..1F647",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "person gesturing NO..person bowing"
+    },
+    {
+        "Hex-Value":  "1F64B..1F64F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "person raising hand..folded hands"
+    },
+    {
+        "Hex-Value":  "1F6A3",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person rowing boat"
+    },
+    {
+        "Hex-Value":  "1F6B4..1F6B5",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "person biking..person mountain biking"
+    },
+    {
+        "Hex-Value":  "1F6B6",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person walking"
+    },
+    {
+        "Hex-Value":  "1F6C0",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person taking bath"
+    },
+    {
+        "Hex-Value":  "1F6CC",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person in bed"
+    },
+    {
+        "Hex-Value":  "1F90C",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pinched fingers"
+    },
+    {
+        "Hex-Value":  "1F90F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pinching hand"
+    },
+    {
+        "Hex-Value":  "1F918",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "sign of the horns"
+    },
+    {
+        "Hex-Value":  "1F919..1F91E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "call me hand..crossed fingers"
+    },
+    {
+        "Hex-Value":  "1F91F",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "love-you gesture"
+    },
+    {
+        "Hex-Value":  "1F926",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "person facepalming"
+    },
+    {
+        "Hex-Value":  "1F930",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "pregnant woman"
+    },
+    {
+        "Hex-Value":  "1F931..1F932",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "breast-feeding..palms up together"
+    },
+    {
+        "Hex-Value":  "1F933..1F939",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "selfie..person juggling"
+    },
+    {
+        "Hex-Value":  "1F93C..1F93E",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "people wrestling..person playing handball"
+    },
+    {
+        "Hex-Value":  "1F977",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "ninja"
+    },
+    {
+        "Hex-Value":  "1F9B5..1F9B6",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "leg..foot"
+    },
+    {
+        "Hex-Value":  "1F9B8..1F9B9",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "superhero..supervillain"
+    },
+    {
+        "Hex-Value":  "1F9BB",
+        "Type":  "Emoji",
+        "Sign":  "??",
+        "Name":  "ear with hearing aid"
+    },
+    {
+        "Hex-Value":  "1F9CD..1F9CF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "person standing..deaf person"
+    },
+    {
+        "Hex-Value":  "1F9D1..1F9DD",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "person..elf"
+    },
+    {
+        "Hex-Value":  "0023",
+        "Type":  "Emoji",
+        "Sign":  "#?",
+        "Name":  "number sign"
+    },
+    {
+        "Hex-Value":  "002A",
+        "Type":  "Emoji",
+        "Sign":  "*?",
+        "Name":  "asterisk"
+    },
+    {
+        "Hex-Value":  "0030..0039",
+        "Type":  "Emoji",
+        "Sign":  "0?..9?",
+        "Name":  "digit zero..digit nine"
+    },
+    {
+        "Hex-Value":  "200D",
+        "Type":  "Emoji",
+        "Sign":  "?",
+        "Name":  "zero width joiner"
+    },
+    {
+        "Hex-Value":  "20E3",
+        "Type":  "Emoji",
+        "Sign":  "",
+        "Name":  "combining enclosing keycap"
+    },
+    {
+        "Hex-Value":  "FE0F",
+        "Type":  "Emoji",
+        "Sign":  "",
+        "Name":  "VARIATION SELECTOR-16"
+    },
+    {
+        "Hex-Value":  "1F1E6..1F1FF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "regional indicator symbol letter a..regional indicator symbol letter z"
+    },
+    {
+        "Hex-Value":  "1F3FB..1F3FF",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "light skin tone..dark skin tone"
+    },
+    {
+        "Hex-Value":  "1F9B0..1F9B3",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "red hair..white hair"
+    },
+    {
+        "Hex-Value":  "E0020..E007F",
+        "Type":  "Emoji",
+        "Sign":  "??..??",
+        "Name":  "tag space..cancel tag"
+    },
+    {
+        "Hex-Value":  "00A9",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "copyright"
+    },
+    {
+        "Hex-Value":  "00AE",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "registered"
+    },
+    {
+        "Hex-Value":  "203C",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "double exclamation mark"
+    },
+    {
+        "Hex-Value":  "2049",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "exclamation question mark"
+    },
+    {
+        "Hex-Value":  "2122",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "trade mark"
+    },
+    {
+        "Hex-Value":  "2139",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "information"
+    },
+    {
+        "Hex-Value":  "2194..2199",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "left-right arrow..down-left arrow"
+    },
+    {
+        "Hex-Value":  "21A9..21AA",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "right arrow curving left..left arrow curving right"
+    },
+    {
+        "Hex-Value":  "231A..231B",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "watch..hourglass done"
+    },
+    {
+        "Hex-Value":  "2328",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "keyboard"
+    },
+    {
+        "Hex-Value":  "2388",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "HELM SYMBOL"
+    },
+    {
+        "Hex-Value":  "23CF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "eject button"
+    },
+    {
+        "Hex-Value":  "23E9..23EC",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "fast-forward button..fast down button"
+    },
+    {
+        "Hex-Value":  "23ED..23EE",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "next track button..last track button"
+    },
+    {
+        "Hex-Value":  "23EF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "play or pause button"
+    },
+    {
+        "Hex-Value":  "23F0",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "alarm clock"
+    },
+    {
+        "Hex-Value":  "23F1..23F2",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "stopwatch..timer clock"
+    },
+    {
+        "Hex-Value":  "23F3",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "hourglass not done"
+    },
+    {
+        "Hex-Value":  "23F8..23FA",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "pause button..record button"
+    },
+    {
+        "Hex-Value":  "24C2",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "circled M"
+    },
+    {
+        "Hex-Value":  "25AA..25AB",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "black small square..white small square"
+    },
+    {
+        "Hex-Value":  "25B6",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "play button"
+    },
+    {
+        "Hex-Value":  "25C0",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "reverse button"
+    },
+    {
+        "Hex-Value":  "25FB..25FE",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..?",
+        "Name":  "white medium square..black medium-small square"
+    },
+    {
+        "Hex-Value":  "2600..2601",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "sun..cloud"
+    },
+    {
+        "Hex-Value":  "2602..2603",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "umbrella..snowman"
+    },
+    {
+        "Hex-Value":  "2604",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "comet"
+    },
+    {
+        "Hex-Value":  "2605",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "BLACK STAR"
+    },
+    {
+        "Hex-Value":  "2607..260D",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "LIGHTNING..OPPOSITION"
+    },
+    {
+        "Hex-Value":  "260E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "telephone"
+    },
+    {
+        "Hex-Value":  "260F..2610",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "WHITE TELEPHONE..BALLOT BOX"
+    },
+    {
+        "Hex-Value":  "2611",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "check box with check"
+    },
+    {
+        "Hex-Value":  "2612",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "BALLOT BOX WITH X"
+    },
+    {
+        "Hex-Value":  "2614..2615",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "umbrella with rain drops..hot beverage"
+    },
+    {
+        "Hex-Value":  "2616..2617",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "WHITE SHOGI PIECE..BLACK SHOGI PIECE"
+    },
+    {
+        "Hex-Value":  "2618",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "shamrock"
+    },
+    {
+        "Hex-Value":  "2619..261C",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "REVERSED ROTATED FLORAL HEART BULLET..WHITE LEFT POINTING INDEX"
+    },
+    {
+        "Hex-Value":  "261D",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "index pointing up"
+    },
+    {
+        "Hex-Value":  "261E..261F",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "WHITE RIGHT POINTING INDEX..WHITE DOWN POINTING INDEX"
+    },
+    {
+        "Hex-Value":  "2620",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "skull and crossbones"
+    },
+    {
+        "Hex-Value":  "2621",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "CAUTION SIGN"
+    },
+    {
+        "Hex-Value":  "2622..2623",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "radioactive..biohazard"
+    },
+    {
+        "Hex-Value":  "2624..2625",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "CADUCEUS..ANKH"
+    },
+    {
+        "Hex-Value":  "2626",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "orthodox cross"
+    },
+    {
+        "Hex-Value":  "2627..2629",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "CHI RHO..CROSS OF JERUSALEM"
+    },
+    {
+        "Hex-Value":  "262A",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "star and crescent"
+    },
+    {
+        "Hex-Value":  "262B..262D",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "FARSI SYMBOL..HAMMER AND SICKLE"
+    },
+    {
+        "Hex-Value":  "262E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "peace symbol"
+    },
+    {
+        "Hex-Value":  "262F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "yin yang"
+    },
+    {
+        "Hex-Value":  "2630..2637",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "TRIGRAM FOR HEAVEN..TRIGRAM FOR EARTH"
+    },
+    {
+        "Hex-Value":  "2638..2639",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "wheel of dharma..frowning face"
+    },
+    {
+        "Hex-Value":  "263A",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "smiling face"
+    },
+    {
+        "Hex-Value":  "263B..263F",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "BLACK SMILING FACE..MERCURY"
+    },
+    {
+        "Hex-Value":  "2640",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "female sign"
+    },
+    {
+        "Hex-Value":  "2641",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "EARTH"
+    },
+    {
+        "Hex-Value":  "2642",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "male sign"
+    },
+    {
+        "Hex-Value":  "2643..2647",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "JUPITER..PLUTO"
+    },
+    {
+        "Hex-Value":  "2648..2653",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "Aries..Pisces"
+    },
+    {
+        "Hex-Value":  "2654..265E",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "WHITE CHESS KING..BLACK CHESS KNIGHT"
+    },
+    {
+        "Hex-Value":  "265F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "chess pawn"
+    },
+    {
+        "Hex-Value":  "2660",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "spade suit"
+    },
+    {
+        "Hex-Value":  "2661..2662",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "WHITE HEART SUIT..WHITE DIAMOND SUIT"
+    },
+    {
+        "Hex-Value":  "2663",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "club suit"
+    },
+    {
+        "Hex-Value":  "2664",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "WHITE SPADE SUIT"
+    },
+    {
+        "Hex-Value":  "2665..2666",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "heart suit..diamond suit"
+    },
+    {
+        "Hex-Value":  "2667",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "WHITE CLUB SUIT"
+    },
+    {
+        "Hex-Value":  "2668",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "hot springs"
+    },
+    {
+        "Hex-Value":  "2669..267A",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "QUARTER NOTE..RECYCLING SYMBOL FOR GENERIC MATERIALS"
+    },
+    {
+        "Hex-Value":  "267B",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "recycling symbol"
+    },
+    {
+        "Hex-Value":  "267C..267D",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "RECYCLED PAPER SYMBOL..PARTIALLY-RECYCLED PAPER SYMBOL"
+    },
+    {
+        "Hex-Value":  "267E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "infinity"
+    },
+    {
+        "Hex-Value":  "267F",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "wheelchair symbol"
+    },
+    {
+        "Hex-Value":  "2680..2685",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "DIE FACE-1..DIE FACE-6"
+    },
+    {
+        "Hex-Value":  "2690..2691",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "WHITE FLAG..BLACK FLAG"
+    },
+    {
+        "Hex-Value":  "2692",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "hammer and pick"
+    },
+    {
+        "Hex-Value":  "2693",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "anchor"
+    },
+    {
+        "Hex-Value":  "2694",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "crossed swords"
+    },
+    {
+        "Hex-Value":  "2695",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "medical symbol"
+    },
+    {
+        "Hex-Value":  "2696..2697",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "balance scale..alembic"
+    },
+    {
+        "Hex-Value":  "2698",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "FLOWER"
+    },
+    {
+        "Hex-Value":  "2699",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "gear"
+    },
+    {
+        "Hex-Value":  "269A",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "STAFF OF HERMES"
+    },
+    {
+        "Hex-Value":  "269B..269C",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "atom symbol..fleur-de-lis"
+    },
+    {
+        "Hex-Value":  "269D..269F",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "OUTLINED WHITE STAR..THREE LINES CONVERGING LEFT"
+    },
+    {
+        "Hex-Value":  "26A0..26A1",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..?",
+        "Name":  "warning..high voltage"
+    },
+    {
+        "Hex-Value":  "26A2..26A6",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "DOUBLED FEMALE SIGN..MALE WITH STROKE SIGN"
+    },
+    {
+        "Hex-Value":  "26A7",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "transgender symbol"
+    },
+    {
+        "Hex-Value":  "26A8..26A9",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "VERTICAL MALE WITH STROKE SIGN..HORIZONTAL MALE WITH STROKE SIGN"
+    },
+    {
+        "Hex-Value":  "26AA..26AB",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "white circle..black circle"
+    },
+    {
+        "Hex-Value":  "26AC..26AF",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "MEDIUM SMALL WHITE CIRCLE..UNMARRIED PARTNERSHIP SYMBOL"
+    },
+    {
+        "Hex-Value":  "26B0..26B1",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "coffin..funeral urn"
+    },
+    {
+        "Hex-Value":  "26B2..26BC",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "NEUTER..SESQUIQUADRATE"
+    },
+    {
+        "Hex-Value":  "26BD..26BE",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "soccer ball..baseball"
+    },
+    {
+        "Hex-Value":  "26BF..26C3",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "SQUARED KEY..BLACK DRAUGHTS KING"
+    },
+    {
+        "Hex-Value":  "26C4..26C5",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "snowman without snow..sun behind cloud"
+    },
+    {
+        "Hex-Value":  "26C6..26C7",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "RAIN..BLACK SNOWMAN"
+    },
+    {
+        "Hex-Value":  "26C8",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "cloud with lightning and rain"
+    },
+    {
+        "Hex-Value":  "26C9..26CD",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "TURNED WHITE SHOGI PIECE..DISABLED CAR"
+    },
+    {
+        "Hex-Value":  "26CE",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "Ophiuchus"
+    },
+    {
+        "Hex-Value":  "26CF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "pick"
+    },
+    {
+        "Hex-Value":  "26D0",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "CAR SLIDING"
+    },
+    {
+        "Hex-Value":  "26D1",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "rescue worker?s helmet"
+    },
+    {
+        "Hex-Value":  "26D2",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "CIRCLED CROSSING LANES"
+    },
+    {
+        "Hex-Value":  "26D3",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "chains"
+    },
+    {
+        "Hex-Value":  "26D4",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "no entry"
+    },
+    {
+        "Hex-Value":  "26D5..26E8",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "ALTERNATE ONE-WAY LEFT WAY TRAFFIC..BLACK CROSS ON SHIELD"
+    },
+    {
+        "Hex-Value":  "26E9",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "shinto shrine"
+    },
+    {
+        "Hex-Value":  "26EA",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "church"
+    },
+    {
+        "Hex-Value":  "26EB..26EF",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "CASTLE..MAP SYMBOL FOR LIGHTHOUSE"
+    },
+    {
+        "Hex-Value":  "26F0..26F1",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "mountain..umbrella on ground"
+    },
+    {
+        "Hex-Value":  "26F2..26F3",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "fountain..flag in hole"
+    },
+    {
+        "Hex-Value":  "26F4",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "ferry"
+    },
+    {
+        "Hex-Value":  "26F5",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "sailboat"
+    },
+    {
+        "Hex-Value":  "26F6",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "SQUARE FOUR CORNERS"
+    },
+    {
+        "Hex-Value":  "26F7..26F9",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "skier..person bouncing ball"
+    },
+    {
+        "Hex-Value":  "26FA",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "tent"
+    },
+    {
+        "Hex-Value":  "26FB..26FC",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "JAPANESE BANK SYMBOL..HEADSTONE GRAVEYARD SYMBOL"
+    },
+    {
+        "Hex-Value":  "26FD",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "fuel pump"
+    },
+    {
+        "Hex-Value":  "26FE..2701",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "CUP ON BLACK SQUARE..UPPER BLADE SCISSORS"
+    },
+    {
+        "Hex-Value":  "2702",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "scissors"
+    },
+    {
+        "Hex-Value":  "2703..2704",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "LOWER BLADE SCISSORS..WHITE SCISSORS"
+    },
+    {
+        "Hex-Value":  "2705",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "check mark button"
+    },
+    {
+        "Hex-Value":  "2708..270C",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "airplane..victory hand"
+    },
+    {
+        "Hex-Value":  "270D",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "writing hand"
+    },
+    {
+        "Hex-Value":  "270E",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "LOWER RIGHT PENCIL"
+    },
+    {
+        "Hex-Value":  "270F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "pencil"
+    },
+    {
+        "Hex-Value":  "2710..2711",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "UPPER RIGHT PENCIL..WHITE NIB"
+    },
+    {
+        "Hex-Value":  "2712",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "black nib"
+    },
+    {
+        "Hex-Value":  "2714",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "check mark"
+    },
+    {
+        "Hex-Value":  "2716",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "multiply"
+    },
+    {
+        "Hex-Value":  "271D",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "latin cross"
+    },
+    {
+        "Hex-Value":  "2721",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "star of David"
+    },
+    {
+        "Hex-Value":  "2728",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "sparkles"
+    },
+    {
+        "Hex-Value":  "2733..2734",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "eight-spoked asterisk..eight-pointed star"
+    },
+    {
+        "Hex-Value":  "2744",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "snowflake"
+    },
+    {
+        "Hex-Value":  "2747",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "sparkle"
+    },
+    {
+        "Hex-Value":  "274C",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "cross mark"
+    },
+    {
+        "Hex-Value":  "274E",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "cross mark button"
+    },
+    {
+        "Hex-Value":  "2753..2755",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "question mark..white exclamation mark"
+    },
+    {
+        "Hex-Value":  "2757",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "exclamation mark"
+    },
+    {
+        "Hex-Value":  "2763",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "heart exclamation"
+    },
+    {
+        "Hex-Value":  "2764",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "red heart"
+    },
+    {
+        "Hex-Value":  "2765..2767",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "ROTATED HEAVY BLACK HEART BULLET..ROTATED FLORAL HEART BULLET"
+    },
+    {
+        "Hex-Value":  "2795..2797",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "plus..divide"
+    },
+    {
+        "Hex-Value":  "27A1",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "right arrow"
+    },
+    {
+        "Hex-Value":  "27B0",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "curly loop"
+    },
+    {
+        "Hex-Value":  "27BF",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "double curly loop"
+    },
+    {
+        "Hex-Value":  "2934..2935",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "right arrow curving up..right arrow curving down"
+    },
+    {
+        "Hex-Value":  "2B05..2B07",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "left arrow..down arrow"
+    },
+    {
+        "Hex-Value":  "2B1B..2B1C",
+        "Type":  "Extended_Pi",
+        "Sign":  "?..?",
+        "Name":  "black large square..white large square"
+    },
+    {
+        "Hex-Value":  "2B50",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "star"
+    },
+    {
+        "Hex-Value":  "2B55",
+        "Type":  "Extended_Pi",
+        "Sign":  "?",
+        "Name":  "hollow red circle"
+    },
+    {
+        "Hex-Value":  "3030",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "wavy dash"
+    },
+    {
+        "Hex-Value":  "303D",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "part alternation mark"
+    },
+    {
+        "Hex-Value":  "3297",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "Japanese ?congratulations? button"
+    },
+    {
+        "Hex-Value":  "3299",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "Japanese ?secret? button"
+    },
+    {
+        "Hex-Value":  "1F000..1F003",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "MAHJONG TILE EAST WIND..MAHJONG TILE NORTH WIND"
+    },
+    {
+        "Hex-Value":  "1F004",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "mahjong red dragon"
+    },
+    {
+        "Hex-Value":  "1F005..1F0CE",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "MAHJONG TILE GREEN DRAGON..PLAYING CARD KING OF DIAMONDS"
+    },
+    {
+        "Hex-Value":  "1F0CF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "joker"
+    },
+    {
+        "Hex-Value":  "1F0D0..1F0FF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F0D0\u003e..\u003creserved-1F0FF\u003e"
+    },
+    {
+        "Hex-Value":  "1F10D..1F10F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "CIRCLED ZERO WITH SLASH..CIRCLED DOLLAR SIGN WITH OVERLAID BACKSLASH"
+    },
+    {
+        "Hex-Value":  "1F12F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "COPYLEFT SYMBOL"
+    },
+    {
+        "Hex-Value":  "1F16C..1F16F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "RAISED MR SIGN..CIRCLED HUMAN FIGURE"
+    },
+    {
+        "Hex-Value":  "1F170..1F171",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "A button (blood type)..B button (blood type)"
+    },
+    {
+        "Hex-Value":  "1F17E..1F17F",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "O button (blood type)..P button"
+    },
+    {
+        "Hex-Value":  "1F18E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "AB button (blood type)"
+    },
+    {
+        "Hex-Value":  "1F191..1F19A",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "CL button..VS button"
+    },
+    {
+        "Hex-Value":  "1F1AD..1F1E5",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "MASK WORK SYMBOL..\u003creserved-1F1E5\u003e"
+    },
+    {
+        "Hex-Value":  "1F201..1F202",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..???",
+        "Name":  "Japanese ?here? button..Japanese ?service charge? button"
+    },
+    {
+        "Hex-Value":  "1F203..1F20F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F203\u003e..\u003creserved-1F20F\u003e"
+    },
+    {
+        "Hex-Value":  "1F21A",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "Japanese ?free of charge? button"
+    },
+    {
+        "Hex-Value":  "1F22F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "Japanese ?reserved? button"
+    },
+    {
+        "Hex-Value":  "1F232..1F23A",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "Japanese ?prohibited? button..Japanese ?open for business? button"
+    },
+    {
+        "Hex-Value":  "1F23C..1F23F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F23C\u003e..\u003creserved-1F23F\u003e"
+    },
+    {
+        "Hex-Value":  "1F249..1F24F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F249\u003e..\u003creserved-1F24F\u003e"
+    },
+    {
+        "Hex-Value":  "1F250..1F251",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "Japanese ?bargain? button..Japanese ?acceptable? button"
+    },
+    {
+        "Hex-Value":  "1F252..1F2FF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F252\u003e..\u003creserved-1F2FF\u003e"
+    },
+    {
+        "Hex-Value":  "1F300..1F30C",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "cyclone..milky way"
+    },
+    {
+        "Hex-Value":  "1F30D..1F30E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "globe showing Europe-Africa..globe showing Americas"
+    },
+    {
+        "Hex-Value":  "1F30F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "globe showing Asia-Australia"
+    },
+    {
+        "Hex-Value":  "1F310",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "globe with meridians"
+    },
+    {
+        "Hex-Value":  "1F311",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "new moon"
+    },
+    {
+        "Hex-Value":  "1F312",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "waxing crescent moon"
+    },
+    {
+        "Hex-Value":  "1F313..1F315",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "first quarter moon..full moon"
+    },
+    {
+        "Hex-Value":  "1F316..1F318",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "waning gibbous moon..waning crescent moon"
+    },
+    {
+        "Hex-Value":  "1F319",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "crescent moon"
+    },
+    {
+        "Hex-Value":  "1F31A",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "new moon face"
+    },
+    {
+        "Hex-Value":  "1F31B",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "first quarter moon face"
+    },
+    {
+        "Hex-Value":  "1F31C",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "last quarter moon face"
+    },
+    {
+        "Hex-Value":  "1F31D..1F31E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "full moon face..sun with face"
+    },
+    {
+        "Hex-Value":  "1F31F..1F320",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "glowing star..shooting star"
+    },
+    {
+        "Hex-Value":  "1F321",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "thermometer"
+    },
+    {
+        "Hex-Value":  "1F322..1F323",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "BLACK DROPLET..WHITE SUN"
+    },
+    {
+        "Hex-Value":  "1F324..1F32C",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "sun behind small cloud..wind face"
+    },
+    {
+        "Hex-Value":  "1F32D..1F32F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "hot dog..burrito"
+    },
+    {
+        "Hex-Value":  "1F330..1F331",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "chestnut..seedling"
+    },
+    {
+        "Hex-Value":  "1F332..1F333",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "evergreen tree..deciduous tree"
+    },
+    {
+        "Hex-Value":  "1F334..1F335",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "palm tree..cactus"
+    },
+    {
+        "Hex-Value":  "1F336",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "hot pepper"
+    },
+    {
+        "Hex-Value":  "1F337..1F34A",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "tulip..tangerine"
+    },
+    {
+        "Hex-Value":  "1F34B",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "lemon"
+    },
+    {
+        "Hex-Value":  "1F34C..1F34F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "banana..green apple"
+    },
+    {
+        "Hex-Value":  "1F350",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "pear"
+    },
+    {
+        "Hex-Value":  "1F351..1F37B",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "peach..clinking beer mugs"
+    },
+    {
+        "Hex-Value":  "1F37C",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "baby bottle"
+    },
+    {
+        "Hex-Value":  "1F37D",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "fork and knife with plate"
+    },
+    {
+        "Hex-Value":  "1F37E..1F37F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "bottle with popping cork..popcorn"
+    },
+    {
+        "Hex-Value":  "1F380..1F393",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "ribbon..graduation cap"
+    },
+    {
+        "Hex-Value":  "1F394..1F395",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "HEART WITH TIP ON THE LEFT..BOUQUET OF FLOWERS"
+    },
+    {
+        "Hex-Value":  "1F396..1F397",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "military medal..reminder ribbon"
+    },
+    {
+        "Hex-Value":  "1F398",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "MUSICAL KEYBOARD WITH JACKS"
+    },
+    {
+        "Hex-Value":  "1F399..1F39B",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "studio microphone..control knobs"
+    },
+    {
+        "Hex-Value":  "1F39C..1F39D",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "BEAMED ASCENDING MUSICAL NOTES..BEAMED DESCENDING MUSICAL NOTES"
+    },
+    {
+        "Hex-Value":  "1F39E..1F39F",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "film frames..admission tickets"
+    },
+    {
+        "Hex-Value":  "1F3A0..1F3C4",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "carousel horse..person surfing"
+    },
+    {
+        "Hex-Value":  "1F3C5",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "sports medal"
+    },
+    {
+        "Hex-Value":  "1F3C6",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "trophy"
+    },
+    {
+        "Hex-Value":  "1F3C7",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "horse racing"
+    },
+    {
+        "Hex-Value":  "1F3C8",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "american football"
+    },
+    {
+        "Hex-Value":  "1F3C9",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "rugby football"
+    },
+    {
+        "Hex-Value":  "1F3CA",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "person swimming"
+    },
+    {
+        "Hex-Value":  "1F3CB..1F3CE",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "person lifting weights..racing car"
+    },
+    {
+        "Hex-Value":  "1F3CF..1F3D3",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "cricket game..ping pong"
+    },
+    {
+        "Hex-Value":  "1F3D4..1F3DF",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "snow-capped mountain..stadium"
+    },
+    {
+        "Hex-Value":  "1F3E0..1F3E3",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "house..Japanese post office"
+    },
+    {
+        "Hex-Value":  "1F3E4",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "post office"
+    },
+    {
+        "Hex-Value":  "1F3E5..1F3F0",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "hospital..castle"
+    },
+    {
+        "Hex-Value":  "1F3F1..1F3F2",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "WHITE PENNANT..BLACK PENNANT"
+    },
+    {
+        "Hex-Value":  "1F3F3",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "white flag"
+    },
+    {
+        "Hex-Value":  "1F3F4",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "black flag"
+    },
+    {
+        "Hex-Value":  "1F3F5",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "rosette"
+    },
+    {
+        "Hex-Value":  "1F3F6",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "BLACK ROSETTE"
+    },
+    {
+        "Hex-Value":  "1F3F7",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "label"
+    },
+    {
+        "Hex-Value":  "1F3F8..1F3FA",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "badminton..amphora"
+    },
+    {
+        "Hex-Value":  "1F400..1F407",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "rat..rabbit"
+    },
+    {
+        "Hex-Value":  "1F408",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "cat"
+    },
+    {
+        "Hex-Value":  "1F409..1F40B",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "dragon..whale"
+    },
+    {
+        "Hex-Value":  "1F40C..1F40E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "snail..horse"
+    },
+    {
+        "Hex-Value":  "1F40F..1F410",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "ram..goat"
+    },
+    {
+        "Hex-Value":  "1F411..1F412",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "ewe..monkey"
+    },
+    {
+        "Hex-Value":  "1F413",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "rooster"
+    },
+    {
+        "Hex-Value":  "1F414",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "chicken"
+    },
+    {
+        "Hex-Value":  "1F415",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "dog"
+    },
+    {
+        "Hex-Value":  "1F416",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "pig"
+    },
+    {
+        "Hex-Value":  "1F417..1F429",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "boar..poodle"
+    },
+    {
+        "Hex-Value":  "1F42A",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "camel"
+    },
+    {
+        "Hex-Value":  "1F42B..1F43E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "two-hump camel..paw prints"
+    },
+    {
+        "Hex-Value":  "1F43F",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "chipmunk"
+    },
+    {
+        "Hex-Value":  "1F440",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "eyes"
+    },
+    {
+        "Hex-Value":  "1F441",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "eye"
+    },
+    {
+        "Hex-Value":  "1F442..1F464",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "ear..bust in silhouette"
+    },
+    {
+        "Hex-Value":  "1F465",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "busts in silhouette"
+    },
+    {
+        "Hex-Value":  "1F466..1F46B",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "boy..woman and man holding hands"
+    },
+    {
+        "Hex-Value":  "1F46C..1F46D",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "men holding hands..women holding hands"
+    },
+    {
+        "Hex-Value":  "1F46E..1F4AC",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "police officer..speech balloon"
+    },
+    {
+        "Hex-Value":  "1F4AD",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "thought balloon"
+    },
+    {
+        "Hex-Value":  "1F4AE..1F4B5",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "white flower..dollar banknote"
+    },
+    {
+        "Hex-Value":  "1F4B6..1F4B7",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "euro banknote..pound banknote"
+    },
+    {
+        "Hex-Value":  "1F4B8..1F4EB",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "money with wings..closed mailbox with raised flag"
+    },
+    {
+        "Hex-Value":  "1F4EC..1F4ED",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "open mailbox with raised flag..open mailbox with lowered flag"
+    },
+    {
+        "Hex-Value":  "1F4EE",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "postbox"
+    },
+    {
+        "Hex-Value":  "1F4EF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "postal horn"
+    },
+    {
+        "Hex-Value":  "1F4F0..1F4F4",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "newspaper..mobile phone off"
+    },
+    {
+        "Hex-Value":  "1F4F5",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "no mobile phones"
+    },
+    {
+        "Hex-Value":  "1F4F6..1F4F7",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "antenna bars..camera"
+    },
+    {
+        "Hex-Value":  "1F4F8",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "camera with flash"
+    },
+    {
+        "Hex-Value":  "1F4F9..1F4FC",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "video camera..videocassette"
+    },
+    {
+        "Hex-Value":  "1F4FD",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "film projector"
+    },
+    {
+        "Hex-Value":  "1F4FE",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "PORTABLE STEREO"
+    },
+    {
+        "Hex-Value":  "1F4FF..1F502",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "prayer beads..repeat single button"
+    },
+    {
+        "Hex-Value":  "1F503",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "clockwise vertical arrows"
+    },
+    {
+        "Hex-Value":  "1F504..1F507",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "counterclockwise arrows button..muted speaker"
+    },
+    {
+        "Hex-Value":  "1F508",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "speaker low volume"
+    },
+    {
+        "Hex-Value":  "1F509",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "speaker medium volume"
+    },
+    {
+        "Hex-Value":  "1F50A..1F514",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "speaker high volume..bell"
+    },
+    {
+        "Hex-Value":  "1F515",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "bell with slash"
+    },
+    {
+        "Hex-Value":  "1F516..1F52B",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "bookmark..pistol"
+    },
+    {
+        "Hex-Value":  "1F52C..1F52D",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "microscope..telescope"
+    },
+    {
+        "Hex-Value":  "1F52E..1F53D",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "crystal ball..downwards button"
+    },
+    {
+        "Hex-Value":  "1F546..1F548",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "WHITE LATIN CROSS..CELTIC CROSS"
+    },
+    {
+        "Hex-Value":  "1F549..1F54A",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "om..dove"
+    },
+    {
+        "Hex-Value":  "1F54B..1F54E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "kaaba..menorah"
+    },
+    {
+        "Hex-Value":  "1F54F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "BOWL OF HYGIEIA"
+    },
+    {
+        "Hex-Value":  "1F550..1F55B",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "one o?clock..twelve o?clock"
+    },
+    {
+        "Hex-Value":  "1F55C..1F567",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "one-thirty..twelve-thirty"
+    },
+    {
+        "Hex-Value":  "1F568..1F56E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "RIGHT SPEAKER..BOOK"
+    },
+    {
+        "Hex-Value":  "1F56F..1F570",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "candle..mantelpiece clock"
+    },
+    {
+        "Hex-Value":  "1F571..1F572",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "BLACK SKULL AND CROSSBONES..NO PIRACY"
+    },
+    {
+        "Hex-Value":  "1F573..1F579",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "hole..joystick"
+    },
+    {
+        "Hex-Value":  "1F57A",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "man dancing"
+    },
+    {
+        "Hex-Value":  "1F57B..1F586",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "LEFT HAND TELEPHONE RECEIVER..PEN OVER STAMPED ENVELOPE"
+    },
+    {
+        "Hex-Value":  "1F587",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "linked paperclips"
+    },
+    {
+        "Hex-Value":  "1F588..1F589",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "BLACK PUSHPIN..LOWER LEFT PENCIL"
+    },
+    {
+        "Hex-Value":  "1F58A..1F58D",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "pen..crayon"
+    },
+    {
+        "Hex-Value":  "1F58E..1F58F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "LEFT WRITING HAND..TURNED OK HAND SIGN"
+    },
+    {
+        "Hex-Value":  "1F590",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "hand with fingers splayed"
+    },
+    {
+        "Hex-Value":  "1F591..1F594",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "REVERSED RAISED HAND WITH FINGERS SPLAYED..REVERSED VICTORY HAND"
+    },
+    {
+        "Hex-Value":  "1F595..1F596",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "middle finger..vulcan salute"
+    },
+    {
+        "Hex-Value":  "1F597..1F5A3",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "WHITE DOWN POINTING LEFT HAND INDEX..BLACK DOWN POINTING BACKHAND INDEX"
+    },
+    {
+        "Hex-Value":  "1F5A4",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "black heart"
+    },
+    {
+        "Hex-Value":  "1F5A5",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "desktop computer"
+    },
+    {
+        "Hex-Value":  "1F5A6..1F5A7",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "KEYBOARD AND MOUSE..THREE NETWORKED COMPUTERS"
+    },
+    {
+        "Hex-Value":  "1F5A8",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "printer"
+    },
+    {
+        "Hex-Value":  "1F5A9..1F5B0",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "POCKET CALCULATOR..TWO BUTTON MOUSE"
+    },
+    {
+        "Hex-Value":  "1F5B1..1F5B2",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "computer mouse..trackball"
+    },
+    {
+        "Hex-Value":  "1F5B3..1F5BB",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "OLD PERSONAL COMPUTER..DOCUMENT WITH PICTURE"
+    },
+    {
+        "Hex-Value":  "1F5BC",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "framed picture"
+    },
+    {
+        "Hex-Value":  "1F5BD..1F5C1",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "FRAME WITH TILES..OPEN FOLDER"
+    },
+    {
+        "Hex-Value":  "1F5C2..1F5C4",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "card index dividers..file cabinet"
+    },
+    {
+        "Hex-Value":  "1F5C5..1F5D0",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "EMPTY NOTE..PAGES"
+    },
+    {
+        "Hex-Value":  "1F5D1..1F5D3",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "wastebasket..spiral calendar"
+    },
+    {
+        "Hex-Value":  "1F5D4..1F5DB",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "DESKTOP WINDOW..DECREASE FONT SIZE SYMBOL"
+    },
+    {
+        "Hex-Value":  "1F5DC..1F5DE",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "clamp..rolled-up newspaper"
+    },
+    {
+        "Hex-Value":  "1F5DF..1F5E0",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "PAGE WITH CIRCLED TEXT..STOCK CHART"
+    },
+    {
+        "Hex-Value":  "1F5E1",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "dagger"
+    },
+    {
+        "Hex-Value":  "1F5E2",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "LIPS"
+    },
+    {
+        "Hex-Value":  "1F5E3",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "speaking head"
+    },
+    {
+        "Hex-Value":  "1F5E4..1F5E7",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "THREE RAYS ABOVE..THREE RAYS RIGHT"
+    },
+    {
+        "Hex-Value":  "1F5E8",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "left speech bubble"
+    },
+    {
+        "Hex-Value":  "1F5E9..1F5EE",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "RIGHT SPEECH BUBBLE..LEFT ANGER BUBBLE"
+    },
+    {
+        "Hex-Value":  "1F5EF",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "right anger bubble"
+    },
+    {
+        "Hex-Value":  "1F5F0..1F5F2",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "MOOD BUBBLE..LIGHTNING MOOD"
+    },
+    {
+        "Hex-Value":  "1F5F3",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "ballot box with ballot"
+    },
+    {
+        "Hex-Value":  "1F5F4..1F5F9",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "BALLOT SCRIPT X..BALLOT BOX WITH BOLD CHECK"
+    },
+    {
+        "Hex-Value":  "1F5FA",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "world map"
+    },
+    {
+        "Hex-Value":  "1F5FB..1F5FF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "mount fuji..moai"
+    },
+    {
+        "Hex-Value":  "1F600",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "grinning face"
+    },
+    {
+        "Hex-Value":  "1F601..1F606",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "beaming face with smiling eyes..grinning squinting face"
+    },
+    {
+        "Hex-Value":  "1F607..1F608",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "smiling face with halo..smiling face with horns"
+    },
+    {
+        "Hex-Value":  "1F609..1F60D",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "winking face..smiling face with heart-eyes"
+    },
+    {
+        "Hex-Value":  "1F60E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "smiling face with sunglasses"
+    },
+    {
+        "Hex-Value":  "1F60F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "smirking face"
+    },
+    {
+        "Hex-Value":  "1F610",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "neutral face"
+    },
+    {
+        "Hex-Value":  "1F611",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "expressionless face"
+    },
+    {
+        "Hex-Value":  "1F612..1F614",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "unamused face..pensive face"
+    },
+    {
+        "Hex-Value":  "1F615",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "confused face"
+    },
+    {
+        "Hex-Value":  "1F616",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "confounded face"
+    },
+    {
+        "Hex-Value":  "1F617",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "kissing face"
+    },
+    {
+        "Hex-Value":  "1F618",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "face blowing a kiss"
+    },
+    {
+        "Hex-Value":  "1F619",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "kissing face with smiling eyes"
+    },
+    {
+        "Hex-Value":  "1F61A",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "kissing face with closed eyes"
+    },
+    {
+        "Hex-Value":  "1F61B",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "face with tongue"
+    },
+    {
+        "Hex-Value":  "1F61C..1F61E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "winking face with tongue..disappointed face"
+    },
+    {
+        "Hex-Value":  "1F61F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "worried face"
+    },
+    {
+        "Hex-Value":  "1F620..1F625",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "angry face..sad but relieved face"
+    },
+    {
+        "Hex-Value":  "1F626..1F627",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "frowning face with open mouth..anguished face"
+    },
+    {
+        "Hex-Value":  "1F628..1F62B",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "fearful face..tired face"
+    },
+    {
+        "Hex-Value":  "1F62C",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "grimacing face"
+    },
+    {
+        "Hex-Value":  "1F62D",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "loudly crying face"
+    },
+    {
+        "Hex-Value":  "1F62E..1F62F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "face with open mouth..hushed face"
+    },
+    {
+        "Hex-Value":  "1F630..1F633",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "anxious face with sweat..flushed face"
+    },
+    {
+        "Hex-Value":  "1F634",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "sleeping face"
+    },
+    {
+        "Hex-Value":  "1F635",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "dizzy face"
+    },
+    {
+        "Hex-Value":  "1F636",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "face without mouth"
+    },
+    {
+        "Hex-Value":  "1F637..1F640",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "face with medical mask..weary cat"
+    },
+    {
+        "Hex-Value":  "1F641..1F644",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "slightly frowning face..face with rolling eyes"
+    },
+    {
+        "Hex-Value":  "1F645..1F64F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "person gesturing NO..folded hands"
+    },
+    {
+        "Hex-Value":  "1F680",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "rocket"
+    },
+    {
+        "Hex-Value":  "1F681..1F682",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "helicopter..locomotive"
+    },
+    {
+        "Hex-Value":  "1F683..1F685",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "railway car..bullet train"
+    },
+    {
+        "Hex-Value":  "1F686",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "train"
+    },
+    {
+        "Hex-Value":  "1F687",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "metro"
+    },
+    {
+        "Hex-Value":  "1F688",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "light rail"
+    },
+    {
+        "Hex-Value":  "1F689",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "station"
+    },
+    {
+        "Hex-Value":  "1F68A..1F68B",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "tram..tram car"
+    },
+    {
+        "Hex-Value":  "1F68C",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "bus"
+    },
+    {
+        "Hex-Value":  "1F68D",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "oncoming bus"
+    },
+    {
+        "Hex-Value":  "1F68E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "trolleybus"
+    },
+    {
+        "Hex-Value":  "1F68F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "bus stop"
+    },
+    {
+        "Hex-Value":  "1F690",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "minibus"
+    },
+    {
+        "Hex-Value":  "1F691..1F693",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "ambulance..police car"
+    },
+    {
+        "Hex-Value":  "1F694",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "oncoming police car"
+    },
+    {
+        "Hex-Value":  "1F695",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "taxi"
+    },
+    {
+        "Hex-Value":  "1F696",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "oncoming taxi"
+    },
+    {
+        "Hex-Value":  "1F697",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "automobile"
+    },
+    {
+        "Hex-Value":  "1F698",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "oncoming automobile"
+    },
+    {
+        "Hex-Value":  "1F699..1F69A",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "sport utility vehicle..delivery truck"
+    },
+    {
+        "Hex-Value":  "1F69B..1F6A1",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "articulated lorry..aerial tramway"
+    },
+    {
+        "Hex-Value":  "1F6A2",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "ship"
+    },
+    {
+        "Hex-Value":  "1F6A3",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "person rowing boat"
+    },
+    {
+        "Hex-Value":  "1F6A4..1F6A5",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "speedboat..horizontal traffic light"
+    },
+    {
+        "Hex-Value":  "1F6A6",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "vertical traffic light"
+    },
+    {
+        "Hex-Value":  "1F6A7..1F6AD",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "construction..no smoking"
+    },
+    {
+        "Hex-Value":  "1F6AE..1F6B1",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "litter in bin sign..non-potable water"
+    },
+    {
+        "Hex-Value":  "1F6B2",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "bicycle"
+    },
+    {
+        "Hex-Value":  "1F6B3..1F6B5",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "no bicycles..person mountain biking"
+    },
+    {
+        "Hex-Value":  "1F6B6",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "person walking"
+    },
+    {
+        "Hex-Value":  "1F6B7..1F6B8",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "no pedestrians..children crossing"
+    },
+    {
+        "Hex-Value":  "1F6B9..1F6BE",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "men?s room..water closet"
+    },
+    {
+        "Hex-Value":  "1F6BF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "shower"
+    },
+    {
+        "Hex-Value":  "1F6C0",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "person taking bath"
+    },
+    {
+        "Hex-Value":  "1F6C1..1F6C5",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "bathtub..left luggage"
+    },
+    {
+        "Hex-Value":  "1F6C6..1F6CA",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "TRIANGLE WITH ROUNDED CORNERS..GIRLS SYMBOL"
+    },
+    {
+        "Hex-Value":  "1F6CB",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "couch and lamp"
+    },
+    {
+        "Hex-Value":  "1F6CC",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "person in bed"
+    },
+    {
+        "Hex-Value":  "1F6CD..1F6CF",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "shopping bags..bed"
+    },
+    {
+        "Hex-Value":  "1F6D0",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "place of worship"
+    },
+    {
+        "Hex-Value":  "1F6D1..1F6D2",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "stop sign..shopping cart"
+    },
+    {
+        "Hex-Value":  "1F6D3..1F6D4",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "STUPA..PAGODA"
+    },
+    {
+        "Hex-Value":  "1F6D5",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "hindu temple"
+    },
+    {
+        "Hex-Value":  "1F6D6..1F6D7",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "hut..elevator"
+    },
+    {
+        "Hex-Value":  "1F6D8..1F6DF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F6D8\u003e..\u003creserved-1F6DF\u003e"
+    },
+    {
+        "Hex-Value":  "1F6E0..1F6E5",
+        "Type":  "Extended_Pi",
+        "Sign":  "???..???",
+        "Name":  "hammer and wrench..motor boat"
+    },
+    {
+        "Hex-Value":  "1F6E6..1F6E8",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "UP-POINTING MILITARY AIRPLANE..UP-POINTING SMALL AIRPLANE"
+    },
+    {
+        "Hex-Value":  "1F6E9",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "small airplane"
+    },
+    {
+        "Hex-Value":  "1F6EA",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "NORTHEAST-POINTING AIRPLANE"
+    },
+    {
+        "Hex-Value":  "1F6EB..1F6EC",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "airplane departure..airplane arrival"
+    },
+    {
+        "Hex-Value":  "1F6ED..1F6EF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F6ED\u003e..\u003creserved-1F6EF\u003e"
+    },
+    {
+        "Hex-Value":  "1F6F0",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "satellite"
+    },
+    {
+        "Hex-Value":  "1F6F1..1F6F2",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "ONCOMING FIRE ENGINE..DIESEL LOCOMOTIVE"
+    },
+    {
+        "Hex-Value":  "1F6F3",
+        "Type":  "Extended_Pi",
+        "Sign":  "???",
+        "Name":  "passenger ship"
+    },
+    {
+        "Hex-Value":  "1F6F4..1F6F6",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "kick scooter..canoe"
+    },
+    {
+        "Hex-Value":  "1F6F7..1F6F8",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "sled..flying saucer"
+    },
+    {
+        "Hex-Value":  "1F6F9",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "skateboard"
+    },
+    {
+        "Hex-Value":  "1F6FA",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "auto rickshaw"
+    },
+    {
+        "Hex-Value":  "1F6FB..1F6FC",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "pickup truck..roller skate"
+    },
+    {
+        "Hex-Value":  "1F6FD..1F6FF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F6FD\u003e..\u003creserved-1F6FF\u003e"
+    },
+    {
+        "Hex-Value":  "1F774..1F77F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F774\u003e..\u003creserved-1F77F\u003e"
+    },
+    {
+        "Hex-Value":  "1F7D5..1F7DF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "CIRCLED TRIANGLE..\u003creserved-1F7DF\u003e"
+    },
+    {
+        "Hex-Value":  "1F7E0..1F7EB",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "orange circle..brown square"
+    },
+    {
+        "Hex-Value":  "1F7EC..1F7FF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F7EC\u003e..\u003creserved-1F7FF\u003e"
+    },
+    {
+        "Hex-Value":  "1F80C..1F80F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F80C\u003e..\u003creserved-1F80F\u003e"
+    },
+    {
+        "Hex-Value":  "1F848..1F84F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F848\u003e..\u003creserved-1F84F\u003e"
+    },
+    {
+        "Hex-Value":  "1F85A..1F85F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F85A\u003e..\u003creserved-1F85F\u003e"
+    },
+    {
+        "Hex-Value":  "1F888..1F88F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F888\u003e..\u003creserved-1F88F\u003e"
+    },
+    {
+        "Hex-Value":  "1F8AE..1F8FF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1F8AE\u003e..\u003creserved-1F8FF\u003e"
+    },
+    {
+        "Hex-Value":  "1F90C",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "pinched fingers"
+    },
+    {
+        "Hex-Value":  "1F90D..1F90F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "white heart..pinching hand"
+    },
+    {
+        "Hex-Value":  "1F910..1F918",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "zipper-mouth face..sign of the horns"
+    },
+    {
+        "Hex-Value":  "1F919..1F91E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "call me hand..crossed fingers"
+    },
+    {
+        "Hex-Value":  "1F91F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "love-you gesture"
+    },
+    {
+        "Hex-Value":  "1F920..1F927",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "cowboy hat face..sneezing face"
+    },
+    {
+        "Hex-Value":  "1F928..1F92F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "face with raised eyebrow..exploding head"
+    },
+    {
+        "Hex-Value":  "1F930",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "pregnant woman"
+    },
+    {
+        "Hex-Value":  "1F931..1F932",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "breast-feeding..palms up together"
+    },
+    {
+        "Hex-Value":  "1F933..1F93A",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "selfie..person fencing"
+    },
+    {
+        "Hex-Value":  "1F93C..1F93E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "people wrestling..person playing handball"
+    },
+    {
+        "Hex-Value":  "1F93F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "diving mask"
+    },
+    {
+        "Hex-Value":  "1F940..1F945",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "wilted flower..goal net"
+    },
+    {
+        "Hex-Value":  "1F947..1F94B",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "1st place medal..martial arts uniform"
+    },
+    {
+        "Hex-Value":  "1F94C",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "curling stone"
+    },
+    {
+        "Hex-Value":  "1F94D..1F94F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "lacrosse..flying disc"
+    },
+    {
+        "Hex-Value":  "1F950..1F95E",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "croissant..pancakes"
+    },
+    {
+        "Hex-Value":  "1F95F..1F96B",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "dumpling..canned food"
+    },
+    {
+        "Hex-Value":  "1F96C..1F970",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "leafy green..smiling face with hearts"
+    },
+    {
+        "Hex-Value":  "1F971",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "yawning face"
+    },
+    {
+        "Hex-Value":  "1F972",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "smiling face with tear"
+    },
+    {
+        "Hex-Value":  "1F973..1F976",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "partying face..cold face"
+    },
+    {
+        "Hex-Value":  "1F977..1F978",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "ninja..disguised face"
+    },
+    {
+        "Hex-Value":  "1F979",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "\u003creserved-1F979\u003e"
+    },
+    {
+        "Hex-Value":  "1F97A",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "pleading face"
+    },
+    {
+        "Hex-Value":  "1F97B",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "sari"
+    },
+    {
+        "Hex-Value":  "1F97C..1F97F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "lab coat..flat shoe"
+    },
+    {
+        "Hex-Value":  "1F980..1F984",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "crab..unicorn"
+    },
+    {
+        "Hex-Value":  "1F985..1F991",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "eagle..squid"
+    },
+    {
+        "Hex-Value":  "1F992..1F997",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "giraffe..cricket"
+    },
+    {
+        "Hex-Value":  "1F998..1F9A2",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "kangaroo..swan"
+    },
+    {
+        "Hex-Value":  "1F9A3..1F9A4",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "mammoth..dodo"
+    },
+    {
+        "Hex-Value":  "1F9A5..1F9AA",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "sloth..oyster"
+    },
+    {
+        "Hex-Value":  "1F9AB..1F9AD",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "beaver..seal"
+    },
+    {
+        "Hex-Value":  "1F9AE..1F9AF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "guide dog..white cane"
+    },
+    {
+        "Hex-Value":  "1F9B0..1F9B9",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "red hair..supervillain"
+    },
+    {
+        "Hex-Value":  "1F9BA..1F9BF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "safety vest..mechanical leg"
+    },
+    {
+        "Hex-Value":  "1F9C0",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "cheese wedge"
+    },
+    {
+        "Hex-Value":  "1F9C1..1F9C2",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "cupcake..salt"
+    },
+    {
+        "Hex-Value":  "1F9C3..1F9CA",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "beverage box..ice"
+    },
+    {
+        "Hex-Value":  "1F9CB",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "bubble tea"
+    },
+    {
+        "Hex-Value":  "1F9CC",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "\u003creserved-1F9CC\u003e"
+    },
+    {
+        "Hex-Value":  "1F9CD..1F9CF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "person standing..deaf person"
+    },
+    {
+        "Hex-Value":  "1F9D0..1F9E6",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "face with monocle..socks"
+    },
+    {
+        "Hex-Value":  "1F9E7..1F9FF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "red envelope..nazar amulet"
+    },
+    {
+        "Hex-Value":  "1FA00..1FA6F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "NEUTRAL CHESS KING..\u003creserved-1FA6F\u003e"
+    },
+    {
+        "Hex-Value":  "1FA70..1FA73",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "ballet shoes..shorts"
+    },
+    {
+        "Hex-Value":  "1FA74",
+        "Type":  "Extended_Pi",
+        "Sign":  "??",
+        "Name":  "thong sandal"
+    },
+    {
+        "Hex-Value":  "1FA75..1FA77",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1FA75\u003e..\u003creserved-1FA77\u003e"
+    },
+    {
+        "Hex-Value":  "1FA78..1FA7A",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "drop of blood..stethoscope"
+    },
+    {
+        "Hex-Value":  "1FA7B..1FA7F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1FA7B\u003e..\u003creserved-1FA7F\u003e"
+    },
+    {
+        "Hex-Value":  "1FA80..1FA82",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "yo-yo..parachute"
+    },
+    {
+        "Hex-Value":  "1FA83..1FA86",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "boomerang..nesting dolls"
+    },
+    {
+        "Hex-Value":  "1FA87..1FA8F",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1FA87\u003e..\u003creserved-1FA8F\u003e"
+    },
+    {
+        "Hex-Value":  "1FA90..1FA95",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "ringed planet..banjo"
+    },
+    {
+        "Hex-Value":  "1FA96..1FAA8",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "military helmet..rock"
+    },
+    {
+        "Hex-Value":  "1FAA9..1FAAF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1FAA9\u003e..\u003creserved-1FAAF\u003e"
+    },
+    {
+        "Hex-Value":  "1FAB0..1FAB6",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "fly..feather"
+    },
+    {
+        "Hex-Value":  "1FAB7..1FABF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1FAB7\u003e..\u003creserved-1FABF\u003e"
+    },
+    {
+        "Hex-Value":  "1FAC0..1FAC2",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "anatomical heart..people hugging"
+    },
+    {
+        "Hex-Value":  "1FAC3..1FACF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1FAC3\u003e..\u003creserved-1FACF\u003e"
+    },
+    {
+        "Hex-Value":  "1FAD0..1FAD6",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "blueberries..teapot"
+    },
+    {
+        "Hex-Value":  "1FAD7..1FAFF",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1FAD7\u003e..\u003creserved-1FAFF\u003e"
+    },
+    {
+        "Hex-Value":  "1FC00..1FFFD",
+        "Type":  "Extended_Pi",
+        "Sign":  "??..??",
+        "Name":  "\u003creserved-1FC00\u003e..\u003creserved-1FFFD\u003e"
+    }
+]

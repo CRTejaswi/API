@@ -44,3 +44,6 @@
 
 - [`blogs.json`](blogs.json) <br>
     Personalized collection of blogs. <br>
+
+- [`emoji.json`](emoji.json) <br>
+    UTF-8 Emojis; scraped from [here](https://www.unicode.org/Public/UNIDATA/emoji/emoji-data.txt) <br>
