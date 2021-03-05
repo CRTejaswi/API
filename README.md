@@ -47,3 +47,6 @@
 
 - [`emoji.json`](emoji.json) <br>
     UTF-8 Emojis; scraped from [here](https://www.unicode.org/Public/UNIDATA/emoji/emoji-data.txt) <br>
+
+- [`sub/super-script.json`](subsupscript.json) <br>
+    UTF-8 HEX values for commonly used subscripts & superscripts; reffered from [here](https://en.wikipedia.org/wiki/Unicode_subscripts_and_superscripts) <br>

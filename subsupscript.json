@@ -1,0 +1,77 @@
+[
+    {
+        "Value":  "0",
+        "Subscript":  "2070",
+        "Superscript":  "2080"
+    },
+    {
+        "Value":  "1",
+        "Subscript":  "00b9",
+        "Superscript":  "2081"
+    },
+    {
+        "Value":  "2",
+        "Subscript":  "00b2",
+        "Superscript":  "2082"
+    },
+    {
+        "Value":  "3",
+        "Subscript":  "00b3",
+        "Superscript":  "2083"
+    },
+    {
+        "Value":  "4",
+        "Subscript":  "2074",
+        "Superscript":  "2084"
+    },
+    {
+        "Value":  "5",
+        "Subscript":  "2075",
+        "Superscript":  "2085"
+    },
+    {
+        "Value":  "6",
+        "Subscript":  "2076",
+        "Superscript":  "2086"
+    },
+    {
+        "Value":  "7",
+        "Subscript":  "2077",
+        "Superscript":  "2087"
+    },
+    {
+        "Value":  "8",
+        "Subscript":  "2078",
+        "Superscript":  "2088"
+    },
+    {
+        "Value":  "9",
+        "Subscript":  "2079",
+        "Superscript":  "2089"
+    },
+    {
+        "Value":  "n",
+        "Subscript":  "207f",
+        "Superscript":  "2099"
+    },
+    {
+        "Value":  "+",
+        "Subscript":  "207a",
+        "Superscript":  "208a"
+    },
+    {
+        "Value":  "-",
+        "Subscript":  "207b",
+        "Superscript":  "208b"
+    },
+    {
+        "Value":  "(",
+        "Subscript":  "207d",
+        "Superscript":  "208d"
+    },
+    {
+        "Value":  ")",
+        "Subscript":  "207e",
+        "Superscript":  "208e"
+    }
+]
