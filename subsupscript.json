@@ -1,77 +1,77 @@
 [
     {
         "Value":  "0",
-        "Subscript":  "2070",
-        "Superscript":  "2080"
+        "Superscript":  "2070",
+        "Subscript":  "2080"
     },
     {
         "Value":  "1",
-        "Subscript":  "00b9",
-        "Superscript":  "2081"
+        "Superscript":  "00b9",
+        "Subscript":  "2081"
     },
     {
         "Value":  "2",
-        "Subscript":  "00b2",
-        "Superscript":  "2082"
+        "Superscript":  "00b2",
+        "Subscript":  "2082"
     },
     {
         "Value":  "3",
-        "Subscript":  "00b3",
-        "Superscript":  "2083"
+        "Superscript":  "00b3",
+        "Subscript":  "2083"
     },
     {
         "Value":  "4",
-        "Subscript":  "2074",
-        "Superscript":  "2084"
+        "Superscript":  "2074",
+        "Subscript":  "2084"
     },
     {
         "Value":  "5",
-        "Subscript":  "2075",
-        "Superscript":  "2085"
+        "Superscript":  "2075",
+        "Subscript":  "2085"
     },
     {
         "Value":  "6",
-        "Subscript":  "2076",
-        "Superscript":  "2086"
+        "Superscript":  "2076",
+        "Subscript":  "2086"
     },
     {
         "Value":  "7",
-        "Subscript":  "2077",
-        "Superscript":  "2087"
+        "Superscript":  "2077",
+        "Subscript":  "2087"
     },
     {
         "Value":  "8",
-        "Subscript":  "2078",
-        "Superscript":  "2088"
+        "Superscript":  "2078",
+        "Subscript":  "2088"
     },
     {
         "Value":  "9",
-        "Subscript":  "2079",
-        "Superscript":  "2089"
+        "Superscript":  "2079",
+        "Subscript":  "2089"
     },
     {
         "Value":  "n",
-        "Subscript":  "207f",
-        "Superscript":  "2099"
+        "Superscript":  "207f",
+        "Subscript":  "2099"
     },
     {
         "Value":  "+",
-        "Subscript":  "207a",
-        "Superscript":  "208a"
+        "Superscript":  "207a",
+        "Subscript":  "208a"
     },
     {
         "Value":  "-",
-        "Subscript":  "207b",
-        "Superscript":  "208b"
+        "Superscript":  "207b",
+        "Subscript":  "208b"
     },
     {
         "Value":  "(",
-        "Subscript":  "207d",
-        "Superscript":  "208d"
+        "Superscript":  "207d",
+        "Subscript":  "208d"
     },
     {
         "Value":  ")",
-        "Subscript":  "207e",
-        "Superscript":  "208e"
+        "Superscript":  "207e",
+        "Subscript":  "208e"
     }
 ]
